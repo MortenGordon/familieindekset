@@ -293,3 +293,20 @@ a { color: inherit; }
 @media (prefers-reduced-motion: reduce) {
   .hero__media img { transition: none; }
 }
+/* ---------------------------------------------
+   Soegeikon
+   Lagt paa som baggrundsbillede, saa markup'en
+   i index.html kan staa uroert. Farven skifter
+   til petroleumsblaa, naar feltet har fokus.
+--------------------------------------------- */
+.finder__search input {
+  padding-left: 1.9rem;
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='none' stroke='%236B6558' stroke-width='1.6' stroke-linecap='round'><circle cx='8.5' cy='8.5' r='5.75'/><path d='M12.9 12.9 17.5 17.5'/></svg>");
+  background-repeat: no-repeat;
+  background-position: left 0.15rem center;
+  background-size: 18px 18px;
+}
+
+.finder__search input:focus {
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='none' stroke='%232F6F6B' stroke-width='1.6' stroke-linecap='round'><circle cx='8.5' cy='8.5' r='5.75'/><path d='M12.9 12.9 17.5 17.5'/></svg>");
+}
