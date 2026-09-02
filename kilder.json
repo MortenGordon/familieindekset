@@ -1,0 +1,141 @@
+{
+ "feeds": [
+  {
+   "url": "https://www.folkeskolen.dk/rss",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "filtrer": false
+  },
+  {
+   "url": "https://skoleelever.dk/feed/",
+   "kilde": "Danske Skoleelever",
+   "kategori": "skole-pasning",
+   "filtrer": false
+  },
+  {
+   "url": "https://bornsvilkar.dk/feed/",
+   "kilde": "Boerns Vilkaar",
+   "kategori": "sundhed-trivsel",
+   "filtrer": false
+  },
+  {
+   "url": "https://min-mave.dk/feed/",
+   "kilde": "Min Mave",
+   "kategori": "sundhed-trivsel",
+   "filtrer": false
+  },
+  {
+   "url": "https://www.dr.dk/nyheder/service/feeds/indland",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "filtrer": true
+  },
+  {
+   "url": "https://www.dr.dk/nyheder/service/feeds/viden",
+   "kilde": "DR Viden",
+   "kategori": "sundhed-trivsel",
+   "filtrer": true
+  },
+  {
+   "url": "https://www.dr.dk/nyheder/service/feeds/regionale/kbh",
+   "kilde": "DR Hovedstaden",
+   "kategori": "hverdagslogistik",
+   "filtrer": true
+  },
+  {
+   "url": "https://videnskab.dk/feed/",
+   "kilde": "Videnskab.dk",
+   "kategori": "sundhed-trivsel",
+   "filtrer": true
+  },
+  {
+   "url": "https://politiken.dk/rss/senestenyt.rss",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "filtrer": true
+  },
+  {
+   "url": "https://www.berlingske.dk/content/rss",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "filtrer": true
+  },
+  {
+   "url": "https://www.information.dk/feed",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "filtrer": true
+  },
+  {
+   "url": "https://ekstrabladet.dk/rssfeed/all/",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "filtrer": true
+  },
+  {
+   "url": "https://www.bt.dk/bt/seneste/rss",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "filtrer": true
+  },
+  {
+   "url": "https://www.altinget.dk/rss",
+   "kilde": "Altinget",
+   "kategori": "skole-pasning",
+   "filtrer": true
+  },
+  {
+   "url": "https://nordjyske.dk/rss",
+   "kilde": "Nordjyske",
+   "kategori": "hverdagslogistik",
+   "filtrer": true
+  }
+ ],
+ "noegleord_start": [
+  "børn",
+  "barn",
+  "forældre",
+  "forælder",
+  "familie",
+  "familier",
+  "skole",
+  "gymnasie",
+  "vuggestue",
+  "børnehave",
+  "dagpleje",
+  "daginstitution",
+  "barsel",
+  "graviditet",
+  "gravid",
+  "fødsel",
+  "spædbarn",
+  "baby",
+  "teenager",
+  "ungdom",
+  "opdragelse",
+  "trivsel",
+  "pasningstilbud",
+  "fritidshjem"
+ ],
+ "noegleord_helord": [
+  "mor",
+  "far",
+  "mødre",
+  "fædre",
+  "forældrene",
+  "mors",
+  "fars",
+  "elev",
+  "elever",
+  "elevers",
+  "lærer",
+  "lærere",
+  "lærerne",
+  "sfo",
+  "unge",
+  "ung",
+  "teenagere",
+  "klub",
+  "fritidsordning"
+ ]
+}
