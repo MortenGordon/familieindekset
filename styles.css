@@ -310,3 +310,18 @@ a { color: inherit; }
 .finder__search input:focus {
   background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='none' stroke='%232F6F6B' stroke-width='1.6' stroke-linecap='round'><circle cx='8.5' cy='8.5' r='5.75'/><path d='M12.9 12.9 17.5 17.5'/></svg>");
 }
+/* ---------------------------------------------
+   Datoen som kicker over titlen
+   column-reverse loefter datoen op over h1'en
+   uden at markup'en i index.html skal aendres.
+--------------------------------------------- */
+.hero__row {
+  flex-direction: column-reverse;
+  align-items: flex-start;
+  gap: 0.55rem;
+}
+
+.hero__date {
+  font-size: 0.82rem;
+  color: rgba(241, 238, 230, 0.68);
+}
