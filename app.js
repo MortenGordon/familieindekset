@@ -222,12 +222,40 @@ function setDate() {
   });
 }
 
+async function hentArkiv() {
+  try {
+    const r = await fetch("data/artikler.json?t=" + Math.floor(Date.now() / 6e5));
+    if (!r.ok) return [];
+    const d = await r.json();
+    return (d.artikler || []).map((a) => ({
+      headline: a.titel,
+      dek: a.resume,
+      kilde: a.kilde,
+      kategori: a.kategori,
+      url: a.url,
+      dato: new Date(a.dato),
+    }));
+  } catch (err) {
+    return [];
+  }
+}
+
 async function init() {
   setDate();
   setupInteractions();
 
   const notice = document.getElementById("data-notice");
 
+  // 1. prioritet: arkivet, som opdateres af GitHub Actions hver time.
+  const arkiv = await hentArkiv();
+  if (arkiv.length > 0) {
+    ALL_ARTICLES = arkiv.sort((a, b) => b.dato - a.dato);
+    notice.hidden = true;
+    render();
+    return;
+  }
+
+  // Reserve: hent direkte i browseren, hvis arkivet mangler.
   if (typeof FEEDS !== "undefined" && FEEDS.length > 0) {
     const fetched = await fetchFromFeeds(FEEDS);
     if (fetched.length > 0) {
