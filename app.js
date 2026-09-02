@@ -102,7 +102,7 @@ async function fetchFromFeeds(feeds) {
       const res = await fetch(endpoint.toString());
       const data = await res.json();
       if (data.status !== "ok") return [];
-      return data.items.map((item) => ({
+      const artikler = data.items.map((item) => ({
         headline: item.title,
         dek: stripHtml(item.description || "").slice(0, 160),
         kilde: feed.kilde,
@@ -110,6 +110,7 @@ async function fetchFromFeeds(feeds) {
         url: item.link,
         dato: new Date(item.pubDate),
       }));
+      return feed.filtrer ? artikler.filter(handlerOmFamilie) : artikler;
     } catch (err) {
       console.warn("Kunne ikke hente feed:", feed.url, err);
       return [];
@@ -124,6 +125,15 @@ function stripHtml(html) {
   const div = document.createElement("div");
   div.innerHTML = html;
   return div.textContent || "";
+}
+
+// Bruges kun på feeds markeret med filtrer: true — typisk brede
+// nyhedskilder, hvor kun en mindre del handler om børn og familie.
+function handlerOmFamilie(artikel) {
+  const ord = (typeof NOEGLEORD !== "undefined") ? NOEGLEORD : [];
+  if (ord.length === 0) return true;
+  const tekst = (artikel.headline + " " + (artikel.dek || "")).toLowerCase();
+  return ord.some((o) => tekst.includes(o.toLowerCase()));
 }
 
 /* ---------------------------------------------
