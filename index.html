@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Familieindekset — opslagsværktøj om børn og familieliv</title>
+<meta name="description" content="Et samlet, søgbart overblik over artikler om børn, hverdag og familielogistik.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead__inner">
+    <div class="masthead__row">
+      <h1 class="masthead__name">Familieindekset</h1>
+      <span class="masthead__date" id="today-date"></span>
+    </div>
+    <p class="masthead__tagline">Et samlet overblik over artikler om børn, hverdag og familielogistik — ét sted at slå op.</p>
+  </div>
+  <div class="hairline"></div>
+</header>
+
+<main class="content">
+
+  <section class="finder" aria-label="Søg og filtrer">
+    <label class="finder__search" for="search">
+      <input type="text" id="search" placeholder="Søg efter emne — fx madpakker, forældresamtaler, sommerferie …" autocomplete="off">
+    </label>
+    <nav class="finder__categories" id="category-nav" aria-label="Kategorier">
+      <button class="chip is-active" data-category="alle">Alle</button>
+      <button class="chip" data-category="hverdagslogistik">Hverdagslogistik</button>
+      <button class="chip" data-category="skole-pasning">Skole &amp; pasning</button>
+      <button class="chip" data-category="ferie-fritid">Ferie &amp; fritid</button>
+      <button class="chip" data-category="sundhed-trivsel">Sundhed &amp; trivsel</button>
+      <button class="chip" data-category="opdragelse">Opdragelse</button>
+    </nav>
+  </section>
+
+  <div class="hairline hairline--light"></div>
+
+  <section class="index" aria-label="Artikler">
+    <div class="index__head">
+      <h2 class="index__title">Artikler</h2>
+      <span class="index__count" id="result-count"></span>
+    </div>
+
+    <p class="index__notice" id="data-notice" hidden></p>
+
+    <ol class="index__list" id="article-list"></ol>
+
+    <p class="index__empty" id="empty-state" hidden>Ingen artikler matcher lige nu. Prøv et andet ord eller en anden kategori.</p>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="hairline hairline--light"></div>
+  <div class="site-footer__inner">
+    <p>Familieindekset samler overskrifter fra udvalgte kilder om børn og familieliv. Klik på en artikel for at læse den hos den oprindelige udgiver.</p>
+    <p class="site-footer__meta">Kilder konfigureres i <code>feeds.js</code>. Se <code>README.md</code> for opsætning.</p>
+  </div>
+</footer>
+
+<script src="feeds.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
