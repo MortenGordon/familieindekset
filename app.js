@@ -21,7 +21,7 @@ const SAMPLE_ARTICLES = [
     dato: daysAgo(3),
   },
   {
-    headline: "Sådan planzægger I en sommerferie, hvor ingen bliver skuffede",
+    headline: "Sådan planlægger I en sommerferie, hvor ingen bliver skuffede",
     dek: "En simpel model til at fordele ønsker, når hele familien skal blive enige om ferien.",
     kilde: "Eksempeldata",
     kategori: "ferie-fritid",
