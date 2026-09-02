@@ -1,6 +1,38 @@
 {
- "opdateret": "2026-09-02T16:27:36.905Z",
+ "opdateret": "2026-09-02T17:24:39.159Z",
  "artikler": [
+  {
+   "titel": "Læk fra budgetforhandlinger: Politikerne i København indfører deltidspladser i daginstitutionerne",
+   "resume": "København vil give flere forældre billigere deltidspladser. Men mere fleksibilitet for nogle kan hurtigt blive mere besvær for institutionerne, lyder kritikken fra forældreorganisation.",
+   "url": "https://politiken.dk/danmark/art10967587/Politikerne-i-K%C3%B8benhavn-indf%C3%B8rer-deltidspladser-i-daginstitutionerne",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-02T17:14:33.000Z"
+  },
+  {
+   "titel": "58 procent af forældrene med småbørn: Madstress dræber sexlivet",
+   "resume": "For mere end hver anden af småbørnsforældrene går stressen over madpakker og aftensmad ud over sexlivet.",
+   "url": "https://www.bt.dk/dagligvarer/58-procent-af-foraeldrene-med-smaaboern-madstress-draeber-sexlivet?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-02T17:11:03.000Z"
+  },
+  {
+   "titel": "Rystende stigning: Voldssager med børn under 15 år mere end fordoblet",
+   "resume": "Markant flere 10-14-årige registreres som mistænkte i voldssager, viser en gennemgang foretaget af Berlingske.",
+   "url": "https://www.bt.dk/krimi/rystende-stigning-voldssager-med-boern-under-15-aar-mere-end-fordoblet?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-02T16:50:41.000Z"
+  },
+  {
+   "titel": "Børns Vilkår: Vi skaber en »rekrutteringskanal« til hårdere kriminalitet ved at straffe de yngste",
+   "resume": "I stedet for hårdere straf efterlyser Børns Vilkår en massiv oprustning af sociale indsatser og forebyggelse i forhold til kriminelle børn. Ifølge organisationen svigter systemet ofte børnene, allered",
+   "url": "https://www.berlingske.dk/indland/boerns-vilkaar-vi-skaber-en-rekrutteringskanal-til-haardere-kriminalitet-ved-at-straffe-de-yngste?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-02T16:30:26.000Z"
+  },
   {
    "titel": "Hver femte unge bruger AI til at håndtere følelsesmæssige problemer",
    "resume": "57,7 procent af gruppen lå over den kliniske grænse for emotionelle problemer, viser nyt studie.",
@@ -162,6 +194,14 @@
    "dato": "2026-09-02T10:33:00.000Z"
   },
   {
+   "titel": "Svensk skolekamp kan tippe valget",
+   "resume": "Højrefløjen i Sverige erkender nu, at markedet fik for frit spil i landets skoler. Det kan gavne Socialdemokraterna i valgkampens slutspurt",
+   "url": "https://www.information.dk/udland/2026/09/svensk-skolekamp-kan-tippe-valget",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-02T10:29:31.000Z"
+  },
+  {
    "titel": "Kendis-familie forøget igen: Blevet bedstemor to gange på en uge",
    "resume": "Babylykken vil ingen ende tage for kendisfamilien.",
    "url": "https://www.bt.dk/danske-kendte/kendis-familie-foroeget-igen-blevet-bedstemor-to-gange-paa-en-uge?referrer=RSS",
@@ -242,12 +282,28 @@
    "dato": "2026-09-01T13:38:13.000Z"
   },
   {
+   "titel": "Vi unge skal ikke have mere i SU",
+   "resume": "Det »økonomiske pres« på unge SU-modtagere er kun midlertidigt, for de studerende på lange videregående uddannelser har udsigt til gode liv med høje indkomster",
+   "url": "https://www.information.dk/debat/2026/09/unge-mere-su",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-01T12:07:24.000Z"
+  },
+  {
    "titel": "Lukningstruet landsbyskole stjal fokus: Borgmester har ’endnu mere ondt i maven’ efter borgermøde",
    "resume": "En lille skole med 58 elever blev aftenens store tema, da byrådet i Faxe Kommune i går inviterede til borgermøde om kommunens økonomi.",
    "url": "https://www.dr.dk/nyheder/indland/lukningstruet-landsbyskole-stjal-fokus-borgmester-har-endnu-mere-ondt-i-maven-efter-borgermoede",
    "kilde": "DR Indland",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-01T12:01:30.000Z"
+  },
+  {
+   "titel": "Sagen om unge kontrolkøbere bør gå videre til EMD",
+   "resume": "Fem højesteretsdommere er uenige om, at brugen af unge kontrolkøbere er i strid med menneskerettighederne. Derfor bør sagen gå videre til Den Europæiske Menneskerettighedsdomstol",
+   "url": "https://www.information.dk/indland/leder/2026/09/sagen-unge-kontrolkoebere-boer-gaa-videre-emd",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-01T11:39:18.000Z"
   },
   {
    "titel": "Fem drenge tilbageholdt for sprængning ved skole i Kalundborg",
@@ -280,6 +336,14 @@
    "kilde": "Folkeskolen",
    "kategori": "skole-pasning",
    "dato": "2026-09-01T08:09:00.000Z"
+  },
+  {
+   "titel": "I gyserfilmen ’Leviticus’ er homofobi og religiøs fundamentalisme de virkelige monstre",
+   "resume": "Australske Adrian Chiarellas ’Leviticus’ er en uhyggelig gyserfilm om to unge mænds forbudte kærlighed og en voldsom omvendelsesterapi, der truer med at tage livet af dem",
+   "url": "https://www.information.dk/kultur/anmeldelse/2026/09/gyserfilmen-leviticus-homofobi-religioes-fundamentalisme-virkelige-monstre",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-01T07:55:33.000Z"
   },
   {
    "titel": "Beskyldninger om berøringsangst over for minoritetsetniske familier har ikke hold i virkeligheden",
