@@ -1,6 +1,54 @@
 {
- "opdateret": "2026-09-04T16:26:34.456Z",
+ "opdateret": "2026-09-04T17:23:14.160Z",
  "artikler": [
+  {
+   "titel": "København indfører ventetidsgaranti på fødselsskader",
+   "resume": "Kvinder i Københavns Kommune med gener efter graviditet og fødsel kan snart få langt hurtigere hjælp.",
+   "url": "https://politiken.dk/danmark/sundhed/art10971462/K%C3%B8benhavn-indf%C3%B8rer-ventetidsgaranti-p%C3%A5-f%C3%B8dselsskader",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T17:20:03.000Z"
+  },
+  {
+   "titel": "Skolen i København er bemandet med lærere fra det russiske udenrigsministerium",
+   "resume": "På den russiske ambassades skole i København får børn militærundervisning. Hvem der underviser børnene og bestemmer over skolen, besluttes i Moskva.",
+   "url": "https://politiken.dk/danmark/art10970787/Skolen-i-K%C3%B8benhavn-er-bemandet-med-l%C3%A6rere-fra-det-russiske-udenrigsministerium",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T17:01:10.000Z"
+  },
+  {
+   "titel": "150 sårbare børn og specialskoleelever kan igen komme i skole med Flextrafik efter kaos",
+   "resume": "Efter den fynske flexleverandør, LS Busser, onsdag indstillede kørslen, har flere børn med særlige behov i Faaborg-Midtfyn Kommune ikke kunnet komme i skole med flextrafik. Nu er der en midlertidig lø",
+   "url": "https://www.dr.dk/nyheder/indland/150-saarbare-boern-og-specialskoleelever-kan-igen-komme-i-skole-med-flextrafik-efter-kaos",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T17:01:00.000Z"
+  },
+  {
+   "titel": "Baby fundet i skraldespand: To personer anholdt",
+   "resume": "På et toilet i Penang International Airport i Malaysia har man fundet et nyfødt spædbarn i en skraldespand. Nu er to personer anholdt i sagen",
+   "url": "https://ekstrabladet.dk/nyheder/Udland/baby-fundet-i-skraldespand-to-personer-anholdt/11278562",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T16:53:03.000Z"
+  },
+  {
+   "titel": "Nævninger opgiver at nå til enighed i sag om mors drab på børn i USA",
+   "resume": "Der er risiko for, at retssagen mod en kvinde, der har taget sine egne børns liv, bliver erklæret ugyldig.",
+   "url": "https://www.bt.dk/udland/naevninger-opgiver-at-naa-til-enighed-i-sag-om-mors-drab-paa-boern-i-usa?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T16:34:44.000Z"
+  },
+  {
+   "titel": "Nævninger opgiver at nå til enighed i sag om mors drab på børn i USA",
+   "resume": "Der er risiko for, at retssagen mod en kvinde, der har taget sine egne børns liv, bliver erklæret ugyldig.",
+   "url": "https://www.berlingske.dk/internationalt/naevninger-opgiver-at-naa-til-enighed-i-sag-om-mors-drab-paa-boern-i-usa?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T16:34:44.000Z"
+  },
   {
    "titel": "Nævninger opgiver at nå til enighed i sag om mors drab på børn i USA",
    "resume": "Der er risiko for, at retssagen mod en kvinde, der har taget sine egne børns liv, bliver erklæret ugyldig.",
@@ -42,25 +90,17 @@
    "dato": "2026-09-04T16:02:44.000Z"
   },
   {
-   "titel": "Nævninger opgiver at nå til enighed i sag om mors drab på børn i USA",
-   "resume": "Der er risiko for, at retssagen mod en kvinde, der har taget sine egne børns liv, bliver erklæret ugyldig.",
-   "url": "https://www.bt.dk/udland/naevninger-opgiver-at-naa-til-enighed-i-sag-om-mors-drab-paa-boern-i-usa?referrer=RSS",
-   "kilde": "B.T.",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-04T15:59:48.000Z"
-  },
-  {
-   "titel": "Nævninger opgiver at nå til enighed i sag om mors drab på børn i USA",
-   "resume": "Der er risiko for, at retssagen mod en kvinde, der har taget sine egne børns liv, bliver erklæret ugyldig.",
-   "url": "https://www.berlingske.dk/internationalt/naevninger-opgiver-at-naa-til-enighed-i-sag-om-mors-drab-paa-boern-i-usa?referrer=RSS",
-   "kilde": "Berlingske",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-04T15:59:47.000Z"
-  },
-  {
    "titel": "Kaos i Lindsay Clancy-retssag: Jury kan ikke blive enige",
    "resume": "En sag om en mor, der er tiltalt for mord på sine tre børn, er sat på hold",
    "url": "https://ekstrabladet.dk/krimi/kaos-i-lindsay-clancy-retssag-jury-kan-ikke-blive-enige/11279082",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T15:48:26.000Z"
+  },
+  {
+   "titel": "Kaos i Lindsay Clancy-retssag: Venter på appel",
+   "resume": "En sag om en mor, der er tiltalt for mord på sine tre børn, er sat på hold",
+   "url": "https://ekstrabladet.dk/krimi/kaos-i-lindsay-clancy-retssag-venter-paa-appel/11279082",
    "kilde": "Ekstra Bladet",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-04T15:48:26.000Z"
