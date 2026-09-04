@@ -1,6 +1,30 @@
 {
- "opdateret": "2026-09-04T17:23:14.160Z",
+ "opdateret": "2026-09-04T18:26:33.610Z",
  "artikler": [
+  {
+   "titel": "Stjerne afslører tragedie: Mistede ufødt barn",
+   "resume": "Han har gemt på historien i mange måneder.",
+   "url": "https://www.bt.dk/cykling/stjerne-afsloerer-tragedie-mistede-ufoedt-barn?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T17:57:38.000Z"
+  },
+  {
+   "titel": "Svend Svingarm og Cobratårnet sætter action på naturfag: Folkeskoleelever i skole i BonBon-land",
+   "resume": "Der var naturfagsundervisning med fart over feltet, da 900 folkeskoleelever mødtes i BonBon-Land i dag.",
+   "url": "https://www.dr.dk/nyheder/indland/svend-svingarm-og-cobrataarnet-saetter-action-paa-naturfag-folkeskoleelever-i-skole-i-bonbon-land",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T17:45:00.000Z"
+  },
+  {
+   "titel": "Spilforbruget stiger blandt unge mænd",
+   "resume": "På ét år er det gennemsnitlige beløb for unge mænds spilforbrug steget med 115 kroner. Spilforskere peger på både computerspil, reklamer og fællesskaber som en del af forklaringen.",
+   "url": "https://www.dr.dk/nyheder/indland/spilforbruget-stiger-blandt-unge-maend",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T17:28:00.000Z"
+  },
   {
    "titel": "København indfører ventetidsgaranti på fødselsskader",
    "resume": "Kvinder i Københavns Kommune med gener efter graviditet og fødsel kan snart få langt hurtigere hjælp.",
@@ -10,9 +34,25 @@
    "dato": "2026-09-04T17:20:03.000Z"
   },
   {
+   "titel": "»Ingen andre steder i Danmark har sådan en garanti«: København vil sikre bedre hjælp til kvinder med fødselsskader",
+   "resume": "Kvinder i Københavns Kommune med gener efter graviditet og fødsel kan snart få langt hurtigere hjælp.",
+   "url": "https://politiken.dk/danmark/sundhed/art10971462/K%C3%B8benhavn-vil-sikre-bedre-hj%C3%A6lp-til-kvinder-med-f%C3%B8dselsskader",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T17:20:03.000Z"
+  },
+  {
    "titel": "Skolen i København er bemandet med lærere fra det russiske udenrigsministerium",
    "resume": "På den russiske ambassades skole i København får børn militærundervisning. Hvem der underviser børnene og bestemmer over skolen, besluttes i Moskva.",
    "url": "https://politiken.dk/danmark/art10970787/Skolen-i-K%C3%B8benhavn-er-bemandet-med-l%C3%A6rere-fra-det-russiske-udenrigsministerium",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-04T17:01:10.000Z"
+  },
+  {
+   "titel": "Skolen ligger i hjertet af København, men den er styret fra Moskva",
+   "resume": "På den russiske skole i København får børn militærundervisning. Hvem der underviser børnene og bestemmer over skolen, besluttes i Moskva.",
+   "url": "https://politiken.dk/danmark/art10970787/Skolen-ligger-i-hjertet-af-K%C3%B8benhavn-men-den-er-styret-fra-Moskva",
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-04T17:01:10.000Z"
