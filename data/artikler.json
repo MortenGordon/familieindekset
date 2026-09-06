@@ -1,6 +1,30 @@
 {
- "opdateret": "2026-09-06T09:24:40.475Z",
+ "opdateret": "2026-09-06T10:24:39.672Z",
  "artikler": [
+  {
+   "titel": "Hjernen er ikke skabt til at læse – alligevel lærer den det",
+   "resume": "Hvorfor er nogle bedre til at læse end andre? Svaret kan gemme sig i hjernen.",
+   "url": "https://videnskab.dk/krop-sundhed/hjernen-er-ikke-skabt-til-at-laese-alligevel-laerer-den-det/",
+   "kilde": "Videnskab.dk",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-09-06T11:25:00.000Z"
+  },
+  {
+   "titel": "Influencerpar taler ud om hussalg",
+   "resume": "Parret har sammen med deres søn boet langt væk fra venner og familie, og renovationen har været udmattende, lyder det",
+   "url": "https://ekstrabladet.dk/underholdning/dkkendte/tobias-hamann-og-patricia-thyberg-taler-ud-om-hussalg-det-har-vaeret-ensomt/11280218",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-06T10:12:25.000Z"
+  },
+  {
+   "titel": "Flere teenagere blandt: Mindst 21 døde i ulykke",
+   "resume": "Der er adskillige teenagere blandt de omkomne.",
+   "url": "https://www.bt.dk/udland/flere-teenagere-blandt-mindst-21-doede-i-ulykke?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-06T09:44:03.000Z"
+  },
   {
    "titel": "Drama under kamp: Cardiff-spiller i tumult med fan",
    "resume": "Den unge fan blev efterfølgende eskorteret fra stadion.",
