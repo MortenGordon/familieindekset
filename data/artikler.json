@@ -1,10 +1,34 @@
 {
- "opdateret": "2026-09-06T19:22:32.436Z",
+ "opdateret": "2026-09-06T20:24:51.362Z",
  "artikler": [
+  {
+   "titel": "Nu kan de igen",
+   "resume": "Efter 45 år på landevejene har Keld og Hilda Heick fået bedre tid til familien - men turene til Jylland slipper de ikke for",
+   "url": "https://ekstrabladet.dk/underholdning/dkkendte/keld-og-hilda-heicks-nye-hverdag-nu-kalder-familien/11279895",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-06T20:24:28.000Z"
+  },
+  {
+   "titel": "Dyr vinter venter: Danskere kan få tusindvis oveni regningen",
+   "resume": "Høje priser på gas og olie kan gøre vinteren markant dyrere for danske familier, advarer Green Power Denmark.",
+   "url": "https://www.bt.dk/privatoekonomi/dyr-vinter-venter-danskere-kan-faa-tusindvis-oveni-regningen?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-06T19:59:52.000Z"
+  },
   {
    "titel": "Til sommer bliver de store techplatforme forbudt for børn",
    "resume": "En hård aldersgrænse på 15 år på sociale platforme skal træde i kraft 1. juli 2027. Digitaliseringsministeren forventer, at en del børn vil omgå reglerne, men normerne vil blive forandret over tid.",
    "url": "https://politiken.dk/danmark/art10969633/Til-sommer-bliver-de-store-techplatforme-forbudt-for-b%C3%B8rn",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-06T19:16:13.000Z"
+  },
+  {
+   "titel": "Snart bliver de store techplatforme forbudt for børn",
+   "resume": "Digitaliseringsministeren forventer, at en del børn vil omgå reglerne, men normerne vil blive forandret over tid.",
+   "url": "https://politiken.dk/danmark/art10969633/Snart-bliver-de-store-techplatforme-forbudt-for-b%C3%B8rn",
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-06T19:16:13.000Z"
