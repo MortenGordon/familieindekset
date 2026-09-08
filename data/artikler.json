@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-09-08T12:32:59.891Z",
+ "opdateret": "2026-09-08T13:28:50.710Z",
  "artikler": [
   {
    "titel": "Gode cykelstier er ikke nok til at holde danskerne i sadlen",
@@ -10,12 +10,60 @@
    "dato": "2026-09-08T14:00:00.000Z"
   },
   {
+   "titel": "Minister om læringskrise: Det er min erfaring, at man skal lytte til dem, der står med ansvaret",
+   "resume": "Undervisningsministeren er foruroliget over dybden af læringskrisen, som den ses i Pisa. Han har allerede tirsdag indkaldt skolens parter til en drøftelse. The post Minister om læringskrise: Det er mi",
+   "url": "https://www.folkeskolen.dk/minister-om-laeringskrise-det-er-min-erfaring-at-man-skal-lytte-til-dem-der-staar-med-ansvaret/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-08T13:22:51.000Z"
+  },
+  {
+   "titel": "Moderaterne: Pisa-resultater viser ”faglighedskrise”",
+   "resume": "Danske elevers faglige niveau er faldet markant. Det bør føre til et opgør med en skole, hvor både digitale forstyrrelser og kunstig intelligens gør det sværere at lære, mener Moderaternes undervisnin",
+   "url": "https://www.folkeskolen.dk/moderaterne-pisa-resultater-viser-faglighedskrise/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-08T13:16:00.000Z"
+  },
+  {
+   "titel": "Minister inviterer forældre til stormøde efter Pisa-resultater",
+   "resume": "Torsdag i Herlev kan forældre komme i dialog med undervisningsminister om dårlige Pisa-resultater.",
+   "url": "https://www.berlingske.dk/politik/minister-inviterer-foraeldre-til-stormoede-efter-pisa-resultater?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T12:56:51.000Z"
+  },
+  {
+   "titel": "Minister inviterer forældre til stormøde efter Pisa-resultater",
+   "resume": "Torsdag i Herlev kan forældre komme i dialog med undervisningsminister om dårlige Pisa-resultater.",
+   "url": "https://www.bt.dk/politik/minister-inviterer-foraeldre-til-stormoede-efter-pisa-resultater?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T12:56:50.000Z"
+  },
+  {
+   "titel": "Seneste nyt om dansk politik",
+   "resume": "De ældste danske elevers faglige niveau er i frit fald, viser ny rapport. Undervisningsministeren kalder det »en meget alvorlig læringskrise«. Følg reaktionerne her.",
+   "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik-6?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T12:56:41.000Z"
+  },
+  {
    "titel": "Mand nægter bandedrab: Jeg forlod LTF efter ultimatum fra min mor",
    "resume": "En 29-årig mand nægter at være involveret i, at to unge mænd i 2020 blev dræbt i et bandeopgør.",
    "url": "https://www.bt.dk/krimi/mand-naegter-bandedrab-jeg-forlod-ltf-efter-ultimatum-fra-min-mor?referrer=RSS",
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-08T12:25:46.000Z"
+   "dato": "2026-09-08T12:53:43.000Z"
+  },
+  {
+   "titel": "Hun kvalte sine tre børn: Skræmmende sag deler USA",
+   "resume": "Amerikanske Lindsay Clancy har erkendt, at hun dræbte sine tre børn i Duxbury. Sagen er siden vokset fra en retssag til en voldsom kultur- og systemdebat i USA",
+   "url": "https://ekstrabladet.dk/nyheder/Udland/hun-kvalte-sine-tre-boern-skraemmende-sag-deler-usa/11281166",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T12:50:57.000Z"
   },
   {
    "titel": "Mand nægter bandedrab: Jeg forlod LTF efter ultimatum fra min mor",
