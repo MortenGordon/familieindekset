@@ -1,6 +1,150 @@
 {
- "opdateret": "2026-09-08T07:27:34.330Z",
+ "opdateret": "2026-09-08T08:28:48.825Z",
  "artikler": [
+  {
+   "titel": "Danske elever er langt fra alene: Se, hvordan danske elever klarer sig i forhold til andre lande",
+   "resume": "Det er ikke kun i Danmark, at fagligheden styrtdykker.",
+   "url": "https://www.dr.dk/nyheder/indland/danske-elever-er-langt-fra-alene-se-hvordan-danske-elever-klarer-sig-i-forhold-til-andre-lande",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:26:37.000Z"
+  },
+  {
+   "titel": "Heunicke efter historisk dårligt Pisa-resultat: Vi har et problem",
+   "resume": "Undervisningsministeren er bekymret over, at danske skoleelever klarer sig dårligt i ny Pisa-undersøgelse.",
+   "url": "https://www.berlingske.dk/politik/heunicke-efter-historisk-daarligt-pisa-resultat-vi-har-et-problem?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:25:45.000Z"
+  },
+  {
+   "titel": "Heunicke efter historisk dårligt Pisa-resultat: Vi har et problem",
+   "resume": "Undervisningsministeren er bekymret over, at danske skoleelever klarer sig dårligt i ny Pisa-undersøgelse.",
+   "url": "https://www.bt.dk/politik/heunicke-efter-historisk-daarligt-pisa-resultat-vi-har-et-problem?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:25:45.000Z"
+  },
+  {
+   "titel": "Heunicke efter historisk dårligt Pisa-resultat: - Vi har et problem",
+   "resume": "Undervisningsministeren er bekymret over, at danske skoleelever klarer sig dårligt i ny Pisa-undersøgelse",
+   "url": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/heunicke-efter-historisk-daarligt-pisa-resultat-vi-har-et-problem/11282374",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:24:34.000Z"
+  },
+  {
+   "titel": "Minister rystet over undersøgelse: 'Det gør ondt at se'",
+   "resume": "Danske skoleelevers kompetencer i både læsning, matematik og naturfag er faldet markant i forhold til tidligere år.",
+   "url": "https://www.bt.dk/politik/minister-rystet-over-undersoegelse-det-goer-ondt-at-se?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:19:14.000Z"
+  },
+  {
+   "titel": "MobilePay åbner for børn ned til syv år",
+   "resume": "MobilePay har gjort en version tilgængelig til børn ned til syv år. Udgaven er mere begrænset.",
+   "url": "https://www.berlingske.dk/business/mobilepay-aabner-for-boern-ned-til-syv-aar?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:16:45.000Z"
+  },
+  {
+   "titel": "MobilePay åbner for børn ned til syv år",
+   "resume": "MobilePay har gjort en version tilgængelig til børn ned til syv år. Udgaven er mere begrænset.",
+   "url": "https://www.bt.dk/erhverv/mobilepay-aabner-for-boern-ned-til-syv-aar?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:16:45.000Z"
+  },
+  {
+   "titel": "Mistænkt blotter anholdt",
+   "resume": "Fyns politi har netop anholdt en mand, der er mistænkt i sager om blufærdighedskrænkelser ved to skoler i går",
+   "url": "https://ekstrabladet.dk/krimi/mistaenkt-blotter-anholdt/11282356",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:13:49.000Z"
+  },
+  {
+   "titel": "Politiet anholder mand i sag om blotteri ved skoler",
+   "resume": "Skolebørn på Fyn blev ifølge politiet krænket af en blotter mandag. Tirsdag er en 40-årig mistænkt anholdt.",
+   "url": "https://www.berlingske.dk/indland/politiet-anholder-mand-i-sag-om-blotteri-ved-skoler?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:13:46.000Z"
+  },
+  {
+   "titel": "Politiet anholder mand i sag om blotteri ved skoler",
+   "resume": "Skolebørn på Fyn blev ifølge politiet krænket af en blotter mandag. Tirsdag er en 40-årig mistænkt anholdt.",
+   "url": "https://www.bt.dk/krimi/politiet-anholder-mand-i-sag-om-blotteri-ved-skoler?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:13:46.000Z"
+  },
+  {
+   "titel": "Nu er 40-årig anholdt: Uhyggelig mistanke ved skoler",
+   "resume": "Manden har ved flere fynske skoler været i kontakt med elever.",
+   "url": "https://www.bt.dk/krimi/nu-er-40-aarig-anholdt-uhyggelig-mistanke-ved-skoler?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:02:24.000Z"
+  },
+  {
+   "titel": "Danske skoleelever klarer sig historisk dårligt i Pisa-test",
+   "resume": "Danske elever har fået dårligste Pisa-resultat siden første undersøgelse i år 2000, viser rapport fra Vive",
+   "url": "https://ekstrabladet.dk/nyheder/samfund/danske-skoleelever-klarer-sig-historisk-daarligt-i-pisa-test/11282281",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T07:36:23.000Z"
+  },
+  {
+   "titel": "Ny Pisa-undersøgelse: Danske skoleelever klarer sig historisk dårligt",
+   "resume": "Andelen af elever, der præsterer lavt i læsning og matematik, er steget fra 20 procent til knap 30 procent",
+   "url": "https://ekstrabladet.dk/nyheder/samfund/ny-pisa-undersoegelse-danske-skoleelever-klarer-sig-historisk-daarligt/11282275",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T07:32:35.000Z"
+  },
+  {
+   "titel": "Klik dig rundt i de danske elevers resultater her",
+   "resume": "Aldrig før har de danske elever præsteret så dårligt i den internationale Pisa-undersøgelse, som de gør i den nye udgave. Vi har samlet tallene til dig, så du selv kan gå på opdagelse i dem.",
+   "url": "https://politiken.dk/danmark/uddannelse/art10973250/Klik-dig-rundt-i-de-danske-elevers-resultater-her",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T07:30:18.000Z"
+  },
+  {
+   "titel": "Da læseforsker så den nye Pisa-undersøgelse, var hans første tanke »fuck«",
+   "resume": "Aldrig før har danske elever klaret sig så dårligt i den internationale Pisa-undersøgelse. Værst ser det ud med læsning.",
+   "url": "https://politiken.dk/danmark/uddannelse/art10971315/Da-l%C3%A6seforsker-s%C3%A5-den-nye-Pisa-unders%C3%B8gelse-var-hans-f%C3%B8rste-tanke-%C2%BBfuck%C2%AB",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T07:30:13.000Z"
+  },
+  {
+   "titel": "Historisk fald i Pisa: Aldrig har dansk skole klaret sig dårligere",
+   "resume": "Danmark oplever det største fald nogensinde i 25 år med den store internationale skoleundersøgelse. Især i læsning er de danske resultater faldet ”markant og alvorligt”, vurderer Pisa-forskere The pos",
+   "url": "https://www.folkeskolen.dk/historisk-fald-i-pisa-aldrig-har-dansk-skole-klaret-sig-daarligere/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-08T07:30:00.000Z"
+  },
+  {
+   "titel": "Lærernes formand har bud på løsninger af Pisa-krise: ”Vink med en vognstang om, at nu skal der handling til”",
+   "resume": "Det er en anden børnegruppe i dag, end det var for 25 år siden. Det kræver en anden og mere forberedelsestung undervisning, mener formand for DLF Gordon Ørskov Madsen. The post Lærernes formand har bu",
+   "url": "https://www.folkeskolen.dk/laerernes-formand-har-bud-paa-loesninger-af-pisa-krise-vink-med-en-vognstang-om-at-nu-skal-der-handling-til/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-08T07:30:00.000Z"
+  },
+  {
+   "titel": "15-årige har aldrig været dårligere til at læse og regne - og så pjækker de mere end før",
+   "resume": "Særligt i læsning klarer de danske skoleelever sig dårligere i stor, international undersøgelse.",
+   "url": "https://www.dr.dk/nyheder/indland/15-aarige-har-aldrig-vaeret-daarligere-til-laese-og-regne-og-saa-pjaekker-de-mere-end-foer",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T07:28:22.000Z"
+  },
   {
    "titel": "7-årige kan nu få MobilePay",
    "resume": "Appen kan blandt andet bruges til lommepenge og køb i skolekantinen, som forældre kan kontrollere.",
