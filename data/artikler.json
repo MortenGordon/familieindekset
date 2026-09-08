@@ -1,6 +1,54 @@
 {
- "opdateret": "2026-09-08T11:26:05.316Z",
+ "opdateret": "2026-09-08T12:32:59.891Z",
  "artikler": [
+  {
+   "titel": "Gode cykelstier er ikke nok til at holde danskerne i sadlen",
+   "resume": "Især de unge er begyndt at lade cyklen stå, og den udvikling bør resten af Europa være opmærksom på.",
+   "url": "https://videnskab.dk/krop-sundhed/gode-cykelstier-er-ikke-nok-til-at-holde-danskerne-i-sadlen/",
+   "kilde": "Videnskab.dk",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-09-08T14:00:00.000Z"
+  },
+  {
+   "titel": "Mand nægter bandedrab: Jeg forlod LTF efter ultimatum fra min mor",
+   "resume": "En 29-årig mand nægter at være involveret i, at to unge mænd i 2020 blev dræbt i et bandeopgør.",
+   "url": "https://www.bt.dk/krimi/mand-naegter-bandedrab-jeg-forlod-ltf-efter-ultimatum-fra-min-mor?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T12:25:46.000Z"
+  },
+  {
+   "titel": "Mand nægter bandedrab: Jeg forlod LTF efter ultimatum fra min mor",
+   "resume": "En 29-årig mand nægter at være involveret i, at to unge mænd i 2020 blev dræbt i et bandeopgør.",
+   "url": "https://www.berlingske.dk/indland/mand-naegter-bandedrab-jeg-forlod-ltf-efter-ultimatum-fra-min-mor?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T12:25:45.000Z"
+  },
+  {
+   "titel": "Disse lande klarer sig bedst og værst i den store PISA-undersøgelse – Danmark tager markante skridt i den gale retning",
+   "resume": "PISA-rapporten om de 15-årige skoleelevers færdigheder i en lang række lande er netop udkommet. Se de samlede PISA-ranglister her, og se, hvor langt Danmark er faldet tilbage på listen.",
+   "url": "https://www.berlingske.dk/indland/disse-lande-klarer-sig-bedst-og-vaerst-i-den-store-pisa-undersoegelse-danmark-tager-markante-skridt-i-den-gale-retning?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T12:17:27.000Z"
+  },
+  {
+   "titel": "Statsministeren indkalder til pressemøde efter PISA-måling: »Dybt bekymrende«",
+   "resume": "De danske skoleelever klarer sig historisk dårligt. Det er bekymrende, siger statsminister Mette Frederiksen (S). Regeringens støtteparti vil have alle folketingets partier indkaldt til et krisemøde.",
+   "url": "https://www.berlingske.dk/politik/statsministeren-indkalder-til-pressemoede-efter-pisa-maalingdybt-bekymrende?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T12:15:11.000Z"
+  },
+  {
+   "titel": "Mette F. indkalder til pressemøde efter skoleelevers fald i niveau",
+   "resume": "Flere ministre deltager i et pressemøde, efter at danske elevers færdigheder er faldet markant.",
+   "url": "https://www.berlingske.dk/politik/mette-f-indkalder-til-pressemoede-efter-skoleelevers-fald-i-niveau?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T12:07:51.000Z"
+  },
   {
    "titel": "Danske 15-årige sætter »foruroligende« bundrekord i læsning og matematik",
    "resume": "Danske skoleelever i 15-årsalderen har sværere ved at læse og klarer sig dårligere i matematik og naturfag end på noget andet tidspunkt, siden man begyndte at måle i år 2000. Og så pjækker de også mer",
@@ -8,6 +56,22 @@
    "kilde": "Videnskab.dk",
    "kategori": "sundhed-trivsel",
    "dato": "2026-09-08T11:57:36.000Z"
+  },
+  {
+   "titel": "Efter Pisa-undersøgelse: Regeringen indkalder til pressemøde",
+   "resume": "Flere ministre deltager i et pressemøde, efter at danske elevers færdigheder er faldet markant",
+   "url": "https://ekstrabladet.dk/nyheder/politik/efter-pisa-undersoegelse-regeringen-indkalder-til-pressemoede/11282716",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T11:34:22.000Z"
+  },
+  {
+   "titel": "Vi er ved uddanne en generation, som mangler helt basale færdigheder",
+   "resume": "Pisa-krisen understreger en deprimerende sandhed om vores børn. Der er akut brug for at styrke folkeskolen og tæmme teknologien",
+   "url": "https://www.information.dk/leder/2026/09/ved-uddanne-generation-mangler-helt-basale-faerdigheder",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T11:14:37.000Z"
   },
   {
    "titel": "Efter et halvt år efterforsker politiet fortsat bortførelse af spædbarn",
