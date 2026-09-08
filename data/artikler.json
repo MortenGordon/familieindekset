@@ -1,13 +1,29 @@
 {
- "opdateret": "2026-09-08T08:28:48.825Z",
+ "opdateret": "2026-09-08T09:27:25.903Z",
  "artikler": [
   {
-   "titel": "Danske elever er langt fra alene: Se, hvordan danske elever klarer sig i forhold til andre lande",
-   "resume": "Det er ikke kun i Danmark, at fagligheden styrtdykker.",
-   "url": "https://www.dr.dk/nyheder/indland/danske-elever-er-langt-fra-alene-se-hvordan-danske-elever-klarer-sig-i-forhold-til-andre-lande",
-   "kilde": "DR Indland",
+   "titel": "Undervisningsminister indkalder til krisemøde",
+   "resume": "Det sker efter, at en ny undersøgelse viser, at danske skoleelever er dårligere til læsning, matematik og naturfag end på noget tidspunkt i PISA-undersøgelsens historie.",
+   "url": "https://www.bt.dk/samfund/undervisningsminister-indkalder-til-krisemoede?referrer=RSS",
+   "kilde": "B.T.",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-08T08:26:37.000Z"
+   "dato": "2026-09-08T09:25:00.000Z"
+  },
+  {
+   "titel": "Norske og svenske elever går også tilbage i Pisa-test",
+   "resume": "Minister taler efter test om, at Sverige og andre lande kan få \"en generation af funktionelle analfabeter\".",
+   "url": "https://www.berlingske.dk/internationalt/norske-og-svenske-elever-gaar-ogsaa-tilbage-i-pisa-test?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T09:22:49.000Z"
+  },
+  {
+   "titel": "Norske og svenske elever går også tilbage i Pisa-test",
+   "resume": "Minister taler efter test om, at Sverige og andre lande kan få \"en generation af funktionelle analfabeter\".",
+   "url": "https://www.bt.dk/udland/norske-og-svenske-elever-gaar-ogsaa-tilbage-i-pisa-test?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T09:22:49.000Z"
   },
   {
    "titel": "Heunicke efter historisk dårligt Pisa-resultat: Vi har et problem",
@@ -15,7 +31,7 @@
    "url": "https://www.berlingske.dk/politik/heunicke-efter-historisk-daarligt-pisa-resultat-vi-har-et-problem?referrer=RSS",
    "kilde": "Berlingske",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-08T08:25:45.000Z"
+   "dato": "2026-09-08T09:22:45.000Z"
   },
   {
    "titel": "Heunicke efter historisk dårligt Pisa-resultat: Vi har et problem",
@@ -23,7 +39,63 @@
    "url": "https://www.bt.dk/politik/heunicke-efter-historisk-daarligt-pisa-resultat-vi-har-et-problem?referrer=RSS",
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-08T08:25:45.000Z"
+   "dato": "2026-09-08T09:22:45.000Z"
+  },
+  {
+   "titel": "Cellist Jonathan Swensen får ny musikpris og 500.000 kroner",
+   "resume": "Olesens Musikpris er en ny dansk musikpris, der hvert andet år skal hædre unge klassiske musikere.",
+   "url": "https://www.berlingske.dk/danmark/cellist-jonathan-swensen-faar-ny-musikpris-og-500000-kroner?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T09:00:47.000Z"
+  },
+  {
+   "titel": "Cellist Jonathan Swensen får ny musikpris og 500.000 kroner",
+   "resume": "Olesens Musikpris er en ny dansk musikpris, der hvert andet år skal hædre unge klassiske musikere.",
+   "url": "https://www.bt.dk/samfund/cellist-jonathan-swensen-faar-ny-musikpris-og-500000-kroner?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T09:00:47.000Z"
+  },
+  {
+   "titel": "Læseforsker: Hvis politikerne ikke fatter det efter det her, så ved jeg ikke, hvad der skal til",
+   "resume": "Læseforsker Simon Skov Fougt er ikke et øjeblik i tvivl om, at politikerne bærer hovedansvaret for det store fald i danske elevers læsekompetencer i den nye Pisa-undersøgelse. The post Læseforsker: Hv",
+   "url": "https://www.folkeskolen.dk/laeseforsker-hvis-politikerne-ikke-fatter-det-efter-det-her-saa-ved-jeg-ikke-hvad-der-skal-til/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-08T09:00:00.000Z"
+  },
+  {
+   "titel": "Nu kan børn ned til syv år bruge MobilePay",
+   "resume": "MobilePay har gjort en mere begrænset version tilgængelig for børn.",
+   "url": "https://www.dr.dk/nyheder/indland/nu-kan-boern-ned-til-syv-aar-bruge-mobilepay",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:39:47.000Z"
+  },
+  {
+   "titel": "MobilePay åbner for børn ned til syv år",
+   "resume": "MobilePay har gjort en version tilgængelig til børn ned til syv år. Udgaven er mere begrænset.",
+   "url": "https://www.berlingske.dk/business/mobilepay-aabner-for-boern-ned-til-syv-aar?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:28:46.000Z"
+  },
+  {
+   "titel": "MobilePay åbner for børn ned til syv år",
+   "resume": "MobilePay har gjort en version tilgængelig til børn ned til syv år. Udgaven er mere begrænset.",
+   "url": "https://www.bt.dk/erhverv/mobilepay-aabner-for-boern-ned-til-syv-aar?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:28:44.000Z"
+  },
+  {
+   "titel": "Danske elever er langt fra alene: Se, hvordan danske elever klarer sig i forhold til andre lande",
+   "resume": "Det er ikke kun i Danmark, at fagligheden styrtdykker.",
+   "url": "https://www.dr.dk/nyheder/indland/danske-elever-er-langt-fra-alene-se-hvordan-danske-elever-klarer-sig-i-forhold-til-andre-lande",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T08:26:37.000Z"
   },
   {
    "titel": "Heunicke efter historisk dårligt Pisa-resultat: - Vi har et problem",
@@ -40,22 +112,6 @@
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-08T08:19:14.000Z"
-  },
-  {
-   "titel": "MobilePay åbner for børn ned til syv år",
-   "resume": "MobilePay har gjort en version tilgængelig til børn ned til syv år. Udgaven er mere begrænset.",
-   "url": "https://www.berlingske.dk/business/mobilepay-aabner-for-boern-ned-til-syv-aar?referrer=RSS",
-   "kilde": "Berlingske",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-08T08:16:45.000Z"
-  },
-  {
-   "titel": "MobilePay åbner for børn ned til syv år",
-   "resume": "MobilePay har gjort en version tilgængelig til børn ned til syv år. Udgaven er mere begrænset.",
-   "url": "https://www.bt.dk/erhverv/mobilepay-aabner-for-boern-ned-til-syv-aar?referrer=RSS",
-   "kilde": "B.T.",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-08T08:16:45.000Z"
   },
   {
    "titel": "Mistænkt blotter anholdt",
@@ -160,22 +216,6 @@
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-08T07:07:31.000Z"
-  },
-  {
-   "titel": "Cellist Jonathan Swensen får ny musikpris og 500.000 kroner",
-   "resume": "Olesens Musikpris er en ny dansk musikpris, der hvert andet år skal hædre unge klassiske musikere.",
-   "url": "https://www.berlingske.dk/danmark/cellist-jonathan-swensen-faar-ny-musikpris-og-500000-kroner?referrer=RSS",
-   "kilde": "Berlingske",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-08T06:53:49.000Z"
-  },
-  {
-   "titel": "Cellist Jonathan Swensen får ny musikpris og 500.000 kroner",
-   "resume": "Olesens Musikpris er en ny dansk musikpris, der hvert andet år skal hædre unge klassiske musikere.",
-   "url": "https://www.bt.dk/samfund/cellist-jonathan-swensen-faar-ny-musikpris-og-500000-kroner?referrer=RSS",
-   "kilde": "B.T.",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-08T06:53:49.000Z"
   },
   {
    "titel": "Børn kan ikke lege, som de kunne engang. Nu bruger en skole i Nordsjælland timer på at lære dem at slå kolbøtter",
