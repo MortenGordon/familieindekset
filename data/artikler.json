@@ -1,6 +1,22 @@
 {
- "opdateret": "2026-09-09T12:33:01.446Z",
+ "opdateret": "2026-09-09T13:28:47.833Z",
  "artikler": [
+  {
+   "titel": "Bekræftet: Messi køber Segunda-klub",
+   "resume": "Den spanske klub Eldense bekræfter, at Lionel Messi er nået til enighed med de nuværende ejere om et køb af klubben",
+   "url": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/spanskfodbold/bekraeftet-messi-koeber-segunda-klub/11284155",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-09T12:51:32.000Z"
+  },
+  {
+   "titel": "Den nev mig i maven. Igen og igen og igen",
+   "resume": "I små glimt er hans nye roman som at se ’Heated Rivalry’ på færøsk. Men jeg får faktisk lyst til at læse den med min far.",
+   "url": "https://politiken.dk/kultur/boger/art10950116/Den-nev-mig-i-maven.-Igen-og-igen-og-igen",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-09T12:50:12.000Z"
+  },
   {
    "titel": "16-årig dreng fortsat fængslet for drab",
    "resume": "En 16-årig gymnasieelev omkom på hospitalet af sine skader efter en knivstikepisode i Roskilde i august",
@@ -120,6 +136,14 @@
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-09T08:54:24.000Z"
+  },
+  {
+   "titel": "I Sverige er det tydeligt, at unge mænd og kvinder aldrig har været mere uenige",
+   "resume": "De sidste ti år er den politiske kønskløft mellem unge svenske mænd og kvinder vokset. Til demokratifestival i Lund er det tydeligt, at det skel stadig eksisterer.",
+   "url": "https://politiken.dk/internationalt/art10961582/I-Sverige-er-det-tydeligt-at-unge-m%C3%A6nd-og-kvinder-aldrig-har-v%C3%A6ret-mere-uenige",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-09T08:34:21.000Z"
   },
   {
    "titel": "Mand kræves fængslet i sag om krænkelser af fynske skolebørn",
@@ -264,6 +288,14 @@
    "kilde": "Ekstra Bladet",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-09T03:01:40.000Z"
+  },
+  {
+   "titel": "Regeringspartier kalder Pisa-resultat et politisk svigt",
+   "resume": "<p>Danske elevers resultater i l&#230;sning, matematik og naturfag er faldet markant. Det er et politisk svigt, mener uddannelsesordf&#248;rere, som vil se resultater i den kommende regeringsperiode.<",
+   "url": "https://www.altinget.dk/artikel/regeringen-kalder-pisa-resultater-et-politisk-svigt",
+   "kilde": "Altinget",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-09T03:00:00.000Z"
   },
   {
    "titel": "Forsker har filmet dansk skoletime: 'This is a horror movie' udbrød belgisk kollega",
