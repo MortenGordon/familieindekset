@@ -1,10 +1,74 @@
 {
- "opdateret": "2026-09-10T04:27:15.710Z",
+ "opdateret": "2026-09-10T05:25:12.311Z",
  "artikler": [
+  {
+   "titel": "Unge blæksprutter danner en form for 'fight clubs'",
+   "resume": "At blæksprutter kan finde på at daske fisk væk i ny og næ, er ikke ny viden. Og selvom det godt kan virke som unfair vilkår, at en modstander med otte arme slår på en uden, viser ny forskning, at blæk",
+   "url": "https://videnskab.dk/naturvidenskab/unge-blaeksprutter-danner-en-form-for-fight-clubs/",
+   "kilde": "Videnskab.dk",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-09-10T07:22:00.000Z"
+  },
+  {
+   "titel": "Elløbehjul har været involveret i knap 700 ulykker på seks år",
+   "resume": "Forsikringsselskab oplever, at det særligt er unge, der kommer til skade på elløbehjul.",
+   "url": "https://politiken.dk/danmark/art10976868/Ell%C3%B8behjul-har-v%C3%A6ret-involveret-i-knap-700-ulykker-p%C3%A5-seks-%C3%A5r",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T05:22:22.000Z"
+  },
+  {
+   "titel": "Elløbehjul har været involveret i knap 700 ulykker på seks år",
+   "resume": "Forsikringsselskab oplever, at det særligt er unge, der kommer til skade på elløbehjul.",
+   "url": "https://www.berlingske.dk/danmark/elloebehjul-har-vaeret-involveret-i-knap-700-ulykker-paa-seks-aar?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T05:18:44.000Z"
+  },
+  {
+   "titel": "Elløbehjul har været involveret i knap 700 ulykker på seks år",
+   "resume": "Forsikringsselskab oplever, at det særligt er unge, der kommer til skade på elløbehjul.",
+   "url": "https://www.bt.dk/samfund/elloebehjul-har-vaeret-involveret-i-knap-700-ulykker-paa-seks-aar?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T05:18:44.000Z"
+  },
+  {
+   "titel": "Forhøjet kolesterol? Sådan bankede Natasha tallet i bund",
+   "resume": "Som kun 30-årig fik Natasha Alison Fauerby en besked, der ændrede både hende og hendes børns liv. Intet havde indikeret, at hun kunne være bærer af denne genfejl til forhøjet kolesterol. Heldigvis var",
+   "url": "https://ekstrabladet.dk/forbrug/sundhed/forhoejet-kolesterol-saadan-bankede-natasha-tallet-i-bund/11282436",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T05:16:51.000Z"
+  },
+  {
+   "titel": "Tiltalt: Rockersøn bestilte drab på mobilen",
+   "resume": "Hans far var med til at grundlægge Hells Angels. Nu mener politiet, at en 22-årig mand har styret en bandekrig mellem to arvefjender, men han nægter selv de mange anklagepunkter",
+   "url": "https://ekstrabladet.dk/krimi/tiltalt-rockersoen-bestilte-drab-paa-mobilen/11283719",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T05:13:06.000Z"
+  },
+  {
+   "titel": "Løbehjuls-ulykker: 121 alvorligt kvæstet - en død",
+   "resume": "Forsikringsselskab oplever, at det særligt er unge, der kommer til skade på elløbehjul",
+   "url": "https://ekstrabladet.dk/nyheder/samfund/elloebehjul-i-ulykker-paa-stribe-121-alvorligt-kvaestet-en-doed/11284842",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T04:38:19.000Z"
+  },
   {
    "titel": "Den ene lød som en musical stjerne. De andre lød som en skolekomedie",
    "resume": "Efter 30 aflyste koncerter i hjemlandet USA, tog The Pussycat Dolls endelig taget hul på deres store comeback i Royal Arena. Hvilket fik Politikens Simon Lund til at undre sig.",
    "url": "https://politiken.dk/kultur/musik/koncertanmeldelser/art10958574/Den-ene-l%C3%B8d-som-en-musical-stjerne.-De-andre-l%C3%B8d-som-en-skolekomedie",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T04:24:44.000Z"
+  },
+  {
+   "titel": "Den ene lød som en musicalstjerne. De andre lød som en skolekomedie",
+   "resume": "Efter 30 aflyste koncerter i hjemlandet USA tog The Pussycat Dolls endelig hul på deres store comeback i Royal Arena. Hvilket fik Politikens Simon Lund til at undre sig.",
+   "url": "https://politiken.dk/kultur/musik/koncertanmeldelser/art10958574/Den-ene-l%C3%B8d-som-en-musicalstjerne.-De-andre-l%C3%B8d-som-en-skolekomedie",
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-10T04:24:44.000Z"
@@ -21,6 +85,14 @@
    "titel": "Ny undersøgelse: Snyd med AI er udbredt blandt skoleelever, men reglerne er uklare",
    "resume": "AI-chatbots er på kort tid blevet en del af hverdagen på danske skoler. Især blandt elever i 9. klasse er det udbredt at bruge ”chatten” til skolearbejde, og seks ud af ti har mindst en gang brugt tje",
    "url": "https://bornsvilkar.dk/nyheder/boern-og-unge-jagter-uopnaaelige-kropsidealer-udseende-er-vigtigere-end-personlighed-2/",
+   "kilde": "Boerns Vilkaar",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-09-10T03:30:00.000Z"
+  },
+  {
+   "titel": "Ny undersøgelse: Snyd med AI er udbredt blandt skoleelever, men reglerne er uklare",
+   "resume": "AI-chatbots er på kort tid blevet en del af hverdagen på danske skoler. Især blandt elever i 9. klasse er det udbredt at bruge ”chatten” til skolearbejde, og seks ud af ti har mindst en gang brugt tje",
+   "url": "https://bornsvilkar.dk/nyheder/ny-undersogelse-snyd-med-ai-er-udbredt-blandt-skoleelever-men-reglerne-er-uklare/",
    "kilde": "Boerns Vilkaar",
    "kategori": "sundhed-trivsel",
    "dato": "2026-09-10T03:30:00.000Z"
