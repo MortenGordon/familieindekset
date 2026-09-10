@@ -1,6 +1,110 @@
 {
- "opdateret": "2026-09-10T12:32:35.912Z",
+ "opdateret": "2026-09-10T13:25:40.662Z",
  "artikler": [
+  {
+   "titel": "Regeringens svar på Pisa: Totalforbud mod mobiltelefoner i skolen og en ny trepart",
+   "resume": "Statsminister Mette Frederiksen og de tre andre regeringspartiledere lover penge til flere lærere og mindre klasser på stort Pisa-pressemøde. Og en ny trepart skal markere et kursskifte i skolepolitik",
+   "url": "https://www.folkeskolen.dk/regeringens-svar-paa-pisa-totalforbud-mod-mobiltelefoner-i-skolen-og-en-ny-trepart/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-10T13:22:22.000Z"
+  },
+  {
+   "titel": "Regeringen vil igen lovgive mobiltelefoner ud af skolen",
+   "resume": "Der skal være et \"totalforbud\" mod mobiltelefoner i undervisning og i skolegården, siger statsminister.",
+   "url": "https://www.berlingske.dk/politik/regeringen-vil-igen-lovgive-mobiltelefoner-ud-af-skolen?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T13:15:45.000Z"
+  },
+  {
+   "titel": "Regeringen vil igen lovgive mobiltelefoner ud af skolen",
+   "resume": "Der skal være et \"totalforbud\" mod mobiltelefoner i undervisning og i skolegården, siger statsminister.",
+   "url": "https://www.bt.dk/politik/regeringen-vil-igen-lovgive-mobiltelefoner-ud-af-skolen?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T13:15:45.000Z"
+  },
+  {
+   "titel": "Regeringen vil igen lovgive mobiltelefoner ud af skolen",
+   "resume": "Der skal være et ’totalforbud’ mod mobiltelefoner i undervisning og i skolegården, siger statsminister.",
+   "url": "https://politiken.dk/danmark/art10978191/Regeringen-vil-igen-lovgive-mobiltelefoner-ud-af-skolen",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T13:10:00.000Z"
+  },
+  {
+   "titel": "Ung mand er blevet stukket med kniv foran gymnasium",
+   "resume": "En ung mand er bragt til hospitalet efter knivstik ved Herlev Gymnasium.",
+   "url": "https://www.berlingske.dk/indland/ung-mand-er-blevet-stukket-med-kniv-foran-gymnasium?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T13:06:49.000Z"
+  },
+  {
+   "titel": "Ung mand er blevet stukket med kniv foran gymnasium",
+   "resume": "En ung mand er bragt til hospitalet efter knivstik ved Herlev Gymnasium.",
+   "url": "https://www.bt.dk/krimi/ung-mand-er-blevet-stukket-med-kniv-foran-gymnasium?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T13:06:48.000Z"
+  },
+  {
+   "titel": "Fynsk politi melder ud: Ingen grund til utryghed",
+   "resume": "Politiet har undersøgt et mistænkeligt forhold ved en skole i Odense. Nu melder de ud, hvad der er sket.",
+   "url": "https://ekstrabladet.dk/krimi/fynsk-politi-melder-ud-ingen-grund-til-utryghed/11285456",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T13:06:39.000Z"
+  },
+  {
+   "titel": "Ung mand er blevet stukket med kniv foran gymnasium",
+   "resume": "En ung mand er bragt til hospitalet efter knivstik ved Herlev Gymnasium.",
+   "url": "https://politiken.dk/danmark/art10978186/Ung-mand-er-blevet-stukket-med-kniv-foran-gymnasium",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T13:06:06.000Z"
+  },
+  {
+   "titel": "Undersøgende matematik kan styrke elevers deltagelse i en specialskolekontekst",
+   "resume": "Karin Kolditz Mogensens pædagogiske diplomprojekt er indstillet til en pris for b.la. at dokumentere hvordan elever, som traditionelt tilbydes rigid struktur frem for åbne opgaver, i høj grad kan få g",
+   "url": "https://www.folkeskolen.dk/undersoegende-matematik-kan-styrke-elevers-deltagelse-i-en-specialskolekontekst/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-10T13:01:28.000Z"
+  },
+  {
+   "titel": "Stor efterforskning i gang: Mand med kniv set på skole",
+   "resume": "",
+   "url": "https://www.bt.dk/krimi/stor-efterforskning-i-gang-mand-med-kniv-set-paa-skole?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T12:53:30.000Z"
+  },
+  {
+   "titel": "Pilot efter flyulykke: 'Min karriere er ovre'",
+   "resume": "Han instruerede hende i at fortælle sin mor, at han var involveret i en ulykke, men overlevede.",
+   "url": "https://www.bt.dk/udland/pilot-efter-flyulykke-min-karriere-er-ovre?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T12:40:04.000Z"
+  },
+  {
+   "titel": "Flere skoler i Jylland har modtaget tomme trusler om angreb",
+   "resume": "Politi opfordrer forældre til at tale med børn, efter at flere skoler har modtaget tomme trusler om angreb.",
+   "url": "https://www.berlingske.dk/indland/flere-skoler-i-jylland-har-modtaget-tomme-trusler-om-angreb?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T12:34:45.000Z"
+  },
+  {
+   "titel": "Flere skoler i Jylland har modtaget tomme trusler om angreb",
+   "resume": "Politi opfordrer forældre til at tale med børn, efter at flere skoler har modtaget tomme trusler om angreb.",
+   "url": "https://www.bt.dk/krimi/flere-skoler-i-jylland-har-modtaget-tomme-trusler-om-angreb?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T12:34:45.000Z"
+  },
   {
    "titel": "Forskningschef: Krav om digital regulering i skoler må ikke stå alene",
    "resume": "Andreas Rasch-Christensen fra VIA University College peger på manglende kvalifikationer hos uuddannede lærere.",
