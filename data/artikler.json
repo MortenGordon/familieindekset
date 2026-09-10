@@ -1,6 +1,54 @@
 {
- "opdateret": "2026-09-10T07:27:58.452Z",
+ "opdateret": "2026-09-10T08:29:19.483Z",
  "artikler": [
+  {
+   "titel": "Oslo Kommune forbyder briller med kunstig intelligens i skoler",
+   "resume": "Lokalpolitiker i Oslo mener, at det er regeringens ansvar, at AI-briller ikke bruges i norske skoler.",
+   "url": "https://www.berlingske.dk/internationalt/oslo-kommune-forbyder-briller-med-kunstig-intelligens-i-skoler?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T08:16:43.000Z"
+  },
+  {
+   "titel": "Oslo Kommune forbyder briller med kunstig intelligens i skoler",
+   "resume": "Lokalpolitiker i Oslo mener, at det er regeringens ansvar, at AI-briller ikke bruges i norske skoler.",
+   "url": "https://www.bt.dk/udland/oslo-kommune-forbyder-briller-med-kunstig-intelligens-i-skoler?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T08:16:43.000Z"
+  },
+  {
+   "titel": "Normkritisk undervisning i samfundsfag styrker elevernes empati og ruster dem til at deltage i det demokratiske samfund",
+   "resume": "Peter Mejlvang Finne og Søs-Alberte Langelund Iversen er indstillet til en pris for deres bachelorprojekt, der undersøger hvordan man kan undervise normkritisk om køn og seksualitet i samfundsfag, så ",
+   "url": "https://www.folkeskolen.dk/normkritisk-undervisning-i-samfundsfag-styrker-elevernes-empati-og-ruster-dem-til-at-deltage-i-det-demokratiske-samfund/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-10T08:12:37.000Z"
+  },
+  {
+   "titel": "DF vil løfte folkeskolen med eftersidning og karakterer fra 4. klasse",
+   "resume": "Alex Ahrendtsen (DF) mener, at der skal en kulturændring til blandt skolelærere for at løfte folkeskolen.",
+   "url": "https://www.berlingske.dk/politik/df-vil-loefte-folkeskolen-med-eftersidning-og-karakterer-fra-4-klasse?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T08:04:45.000Z"
+  },
+  {
+   "titel": "DF vil løfte folkeskolen med eftersidning og karakterer fra 4. klasse",
+   "resume": "Alex Ahrendtsen (DF) mener, at der skal en kulturændring til blandt skolelærere for at løfte folkeskolen.",
+   "url": "https://www.bt.dk/politik/df-vil-loefte-folkeskolen-med-eftersidning-og-karakterer-fra-4-klasse?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T07:52:45.000Z"
+  },
+  {
+   "titel": "Forbyder AI-briller",
+   "resume": "Lokalpolitiker i Oslo mener, at det er regeringens ansvar, at AI-briller ikke bruges i norske skoler",
+   "url": "https://ekstrabladet.dk/nyheder/oslo-kommune-forbyder-ai-briller-i-skoler/11285059",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T07:49:38.000Z"
+  },
   {
    "titel": "Unge blæksprutter danner en form for 'fight clubs'",
    "resume": "At blæksprutter kan finde på at daske fisk væk i ny og næ, er ikke ny viden. Og selvom det godt kan virke som unfair vilkår, at en modstander med otte arme slår på en uden, viser ny forskning, at blæk",
@@ -1029,6 +1077,14 @@
    "titel": "Vi er ved at uddanne en generation, som mangler helt basale færdigheder",
    "resume": "PISA-krisen understreger en deprimerende sandhed om vores børn. Der er akut brug for at styrke folkeskolen og tæmme teknologien",
    "url": "https://www.information.dk/leder/2026/09/ved-uddanne-generation-mangler-helt-basale-faerdigheder",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-08T11:14:37.000Z"
+  },
+  {
+   "titel": "Vi er ved at uddanne en generation, som mangler helt basale færdigheder",
+   "resume": "PISA-krisen understreger en deprimerende sandhed om vores børn. Der er akut brug for at styrke folkeskolen og tæmme teknologien",
+   "url": "https://www.information.dk/indland/leder/2026/09/ved-uddanne-generation-mangler-helt-basale-faerdigheder",
    "kilde": "Information",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-08T11:14:37.000Z"
