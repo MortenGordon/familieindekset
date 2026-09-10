@@ -1,6 +1,78 @@
 {
- "opdateret": "2026-09-10T16:26:05.932Z",
+ "opdateret": "2026-09-10T17:24:58.372Z",
  "artikler": [
+  {
+   "titel": "Skærmforskeren satte sin baby foran et fjernsyn. Nu vil han mane en »overdrevet frygt« til jorden",
+   "resume": "Skærmdebatten har plantet en frygt hos forældre, mener forsker Andreas Lieberoth. Men der er ifølge ham ikke evidens for, at skærmtid i sig selv har negative konsekvenser for de helt små. Det er alle ",
+   "url": "https://www.berlingske.dk/vores-liv/skaermforskeren-satte-sin-baby-foran-et-fjernsyn-nu-vil-han-mane-en-overdrevet-frygt-til-jorden?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T17:21:38.000Z"
+  },
+  {
+   "titel": "Von der Leyen vil fremlægge plan mod algoritmer i sociale medier",
+   "resume": "I \"State of the Union\"-talen fremlægges plan om EU's beskyttelse af børn mod sociale mediers algoritmer.",
+   "url": "https://www.berlingske.dk/internationalt/von-der-leyen-vil-fremlaegge-plan-mod-algoritmer-i-sociale-medier?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T17:16:50.000Z"
+  },
+  {
+   "titel": "Von der Leyen vil fremlægge plan mod algoritmer i sociale medier",
+   "resume": "I \"State of the Union\"-talen fremlægges plan om EU's beskyttelse af børn mod sociale mediers algoritmer.",
+   "url": "https://www.bt.dk/udland/von-der-leyen-vil-fremlaegge-plan-mod-algoritmer-i-sociale-medier?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T17:16:50.000Z"
+  },
+  {
+   "titel": "Gymnasieelev blev stukket ned på stisystem i Herlev",
+   "resume": "En ung mand er bragt til hospitalet efter knivstik ved Herlev Gymnasium. Han meldes uden for livsfare.",
+   "url": "https://www.berlingske.dk/indland/gymnasieelev-blev-stukket-ned-paa-stisystem-i-herlev?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T17:16:46.000Z"
+  },
+  {
+   "titel": "Gymnasieelev blev stukket ned på stisystem i Herlev",
+   "resume": "En ung mand er bragt til hospitalet efter knivstik ved Herlev Gymnasium. Han meldes uden for livsfare.",
+   "url": "https://www.bt.dk/krimi/gymnasieelev-blev-stukket-ned-paa-stisystem-i-herlev?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T17:16:46.000Z"
+  },
+  {
+   "titel": "Hans Engell: Nederlag for Mette F.",
+   "resume": "- Hvis man ser på det her store knæk, så er det sket, mens Mette har haft ansvaret, siger Hans Engell om krisen i de danske skoler",
+   "url": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/engell-efter-pressemoede-nederlag-for-mette-f./11285665",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T17:06:07.000Z"
+  },
+  {
+   "titel": "Ny rapport: Idrætsfaget bliver mere og mere ensporet",
+   "resume": "Boldspil fylder mere og mere i idrætsundervisningen, mens andre aktiviteter forsvinder. Samtidig oplever over halvdelen af lærerne mindre opbakning fra forældrene, kommunen, skolebestyrelsen og skolen",
+   "url": "https://www.folkeskolen.dk/ny-rapport-idraetsfaget-bliver-mere-ensporet-mens-opbakningen-falder/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-10T17:00:00.000Z"
+  },
+  {
+   "titel": "LIVE: Følg 'Danmarks største forældremøde' her",
+   "resume": "",
+   "url": "https://www.bt.dk/politik/live-foelg-danmarks-stoerste-foraeldremoede-her?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T16:48:19.000Z"
+  },
+  {
+   "titel": "Von der Leyen vil fremlægge plan mod algoritmer",
+   "resume": "I ’State of the Union’-talen fremlægges plan om EU’s beskyttelse af børn mod sociale mediers algoritmer.",
+   "url": "https://politiken.dk/internationalt/art10978534/Von-der-Leyen-vil-freml%C3%A6gge-plan-mod-algoritmer",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T16:47:58.000Z"
+  },
   {
    "titel": "Samlet borgerlig front vil lukke udskældt pulje: »Det her er spild af skatteborgernes penge«",
    "resume": "Siden 2022 er der blevet uddelt over 80 millioner kroner til alt fra undervisning i »Indiens tredje køn« til at lære unge at være »aktivister«. Nu vil en samlet skare af borgerlige partier have sløjfe",
@@ -18,7 +90,7 @@
    "dato": "2026-09-10T16:21:55.000Z"
   },
   {
-   "titel": "Heste-ben, sikkerhedssko og kunstig lastbil skal få unge til at blive håndværkere",
+   "titel": "Hesteben, sikkerhedssko og kunstig lastbil skal få unge til at blive håndværkere",
    "resume": "Hedensted Kommune ligger helt i toppen, når det drejer sig om at få unge til at vælge en erhvervsuddannelse. Men kommunen arbejder også for det.",
    "url": "https://www.dr.dk/nyheder/indland/heste-ben-sikkerhedssko-og-kunstig-lastbil-skal-faa-unge-til-blive-haandvaerkere",
    "kilde": "DR Indland",
@@ -538,6 +610,14 @@
    "dato": "2026-09-10T05:13:06.000Z"
   },
   {
+   "titel": "Konstant alarmberedskab er ikke et godt sted at være for vores skole",
+   "resume": "Så er der igen udbrudt panik om folkeskolen. Bekymring er en stærk kulturel kraft",
+   "url": "https://www.information.dk/kultur/2026/09/konstant-alarmberedskab-godt-sted-vaere-vores-skole",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T04:45:46.000Z"
+  },
+  {
    "titel": "Løbehjuls-ulykker: 121 alvorligt kvæstet - en død",
    "resume": "Forsikringsselskab oplever, at det særligt er unge, der kommer til skade på elløbehjul",
    "url": "https://ekstrabladet.dk/nyheder/samfund/elloebehjul-i-ulykker-paa-stribe-121-alvorligt-kvaestet-en-doed/11284842",
@@ -592,6 +672,14 @@
    "kilde": "Folkeskolen",
    "kategori": "skole-pasning",
    "dato": "2026-09-10T02:34:00.000Z"
+  },
+  {
+   "titel": "De, der tror, de unge er dummere end os andre, har historisk taget fejl",
+   "resume": "Det mærkelige er, at ledere som vores statsminister, der fører kamp mod sociale medier som et monster for vores børn, selv er med til at udbrede det i samfundet",
+   "url": "https://www.information.dk/debat/2026/09/tror-unge-dummere-andre-historisk-taget-fejl",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-09T22:58:56.000Z"
   },
   {
    "titel": "Efter historisk ringe resultat: Forældre dropper læsearrangementer",
@@ -744,6 +832,14 @@
    "kilde": "DR Indland",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-09T15:09:00.000Z"
+  },
+  {
+   "titel": "Farvel til bøgerne: Vi er på vej mod det post-alfabetiske samfund",
+   "resume": "Det er ikke kun børnene, som læser mindre og dårligere. Men hvad betyder overgangen fra skrift til små videoer egentlig for vores samfund, vores bevidsthed og vores politiske system? Nok en hel del",
+   "url": "https://www.information.dk/indland/2026/09/farvel-boegerne-paa-vej-post-alfabetiske-samfund",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-09T14:44:47.000Z"
   },
   {
    "titel": "Dansk klub henter VM-spiller - for to måneder",
