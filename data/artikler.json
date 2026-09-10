@@ -1,13 +1,21 @@
 {
- "opdateret": "2026-09-10T13:25:40.662Z",
+ "opdateret": "2026-09-10T14:26:29.671Z",
  "artikler": [
   {
-   "titel": "Regeringens svar på Pisa: Totalforbud mod mobiltelefoner i skolen og en ny trepart",
-   "resume": "Statsminister Mette Frederiksen og de tre andre regeringspartiledere lover penge til flere lærere og mindre klasser på stort Pisa-pressemøde. Og en ny trepart skal markere et kursskifte i skolepolitik",
-   "url": "https://www.folkeskolen.dk/regeringens-svar-paa-pisa-totalforbud-mod-mobiltelefoner-i-skolen-og-en-ny-trepart/",
-   "kilde": "Folkeskolen",
-   "kategori": "skole-pasning",
-   "dato": "2026-09-10T13:22:22.000Z"
+   "titel": "Minister vil have forældrene i tale: Så her er de, Magnus",
+   "resume": "",
+   "url": "https://www.dr.dk/nyheder/indland/reels/minister-vil-have-foraeldrene-i-tale-saa-her-er-de-magnus",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T14:00:00.000Z"
+  },
+  {
+   "titel": "Ung mand er blevet stukket med kniv foran gymnasium",
+   "resume": "En ung mand er bragt til hospitalet efter knivstik ved Herlev Gymnasium. Han meldes uden for livsfare.",
+   "url": "https://www.bt.dk/krimi/ung-mand-er-blevet-stukket-med-kniv-foran-gymnasium?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T13:55:46.000Z"
   },
   {
    "titel": "Regeringen vil igen lovgive mobiltelefoner ud af skolen",
@@ -15,7 +23,7 @@
    "url": "https://www.berlingske.dk/politik/regeringen-vil-igen-lovgive-mobiltelefoner-ud-af-skolen?referrer=RSS",
    "kilde": "Berlingske",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-10T13:15:45.000Z"
+   "dato": "2026-09-10T13:52:47.000Z"
   },
   {
    "titel": "Regeringen vil igen lovgive mobiltelefoner ud af skolen",
@@ -23,7 +31,23 @@
    "url": "https://www.bt.dk/politik/regeringen-vil-igen-lovgive-mobiltelefoner-ud-af-skolen?referrer=RSS",
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-10T13:15:45.000Z"
+   "dato": "2026-09-10T13:52:44.000Z"
+  },
+  {
+   "titel": "Flere skoler i Jylland har modtaget tomme trusler om angreb",
+   "resume": "Politi opfordrer forældre til at tale med børn, efter at flere skoler har modtaget tomme trusler om angreb.",
+   "url": "https://www.berlingske.dk/indland/flere-skoler-i-jylland-har-modtaget-tomme-trusler-om-angreb?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T13:25:43.000Z"
+  },
+  {
+   "titel": "Regeringens svar på Pisa: Totalforbud mod mobiltelefoner i skolen og en ny trepart",
+   "resume": "Statsminister Mette Frederiksen og de tre andre regeringspartiledere lover penge til flere lærere og mindre klasser på stort Pisa-pressemøde. Og en ny trepart skal markere et kursskifte i skolepolitik",
+   "url": "https://www.folkeskolen.dk/regeringens-svar-paa-pisa-totalforbud-mod-mobiltelefoner-i-skolen-og-en-ny-trepart/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-10T13:22:22.000Z"
   },
   {
    "titel": "Regeringen vil igen lovgive mobiltelefoner ud af skolen",
@@ -40,14 +64,6 @@
    "kilde": "Berlingske",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-10T13:06:49.000Z"
-  },
-  {
-   "titel": "Ung mand er blevet stukket med kniv foran gymnasium",
-   "resume": "En ung mand er bragt til hospitalet efter knivstik ved Herlev Gymnasium.",
-   "url": "https://www.bt.dk/krimi/ung-mand-er-blevet-stukket-med-kniv-foran-gymnasium?referrer=RSS",
-   "kilde": "B.T.",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-10T13:06:48.000Z"
   },
   {
    "titel": "Fynsk politi melder ud: Ingen grund til utryghed",
@@ -88,14 +104,6 @@
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-10T12:40:04.000Z"
-  },
-  {
-   "titel": "Flere skoler i Jylland har modtaget tomme trusler om angreb",
-   "resume": "Politi opfordrer forældre til at tale med børn, efter at flere skoler har modtaget tomme trusler om angreb.",
-   "url": "https://www.berlingske.dk/indland/flere-skoler-i-jylland-har-modtaget-tomme-trusler-om-angreb?referrer=RSS",
-   "kilde": "Berlingske",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-10T12:34:45.000Z"
   },
   {
    "titel": "Flere skoler i Jylland har modtaget tomme trusler om angreb",
