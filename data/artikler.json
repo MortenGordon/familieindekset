@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-09-10T06:32:23.140Z",
+ "opdateret": "2026-09-10T07:27:58.452Z",
  "artikler": [
   {
    "titel": "Unge blæksprutter danner en form for 'fight clubs'",
@@ -8,6 +8,54 @@
    "kilde": "Videnskab.dk",
    "kategori": "sundhed-trivsel",
    "dato": "2026-09-10T07:22:00.000Z"
+  },
+  {
+   "titel": "Venstre-dissident går enegang igen og skriver under på borgerforslag: »Er det satire..?«",
+   "resume": "Dagens politiske nyheder: Skolen som politisk kampplads, Venstre-dissident går enegang, og Tesfaye langer ud efter DF: »Helt gak i låget.« Hele dit politiske overblik her.",
+   "url": "https://www.berlingske.dk/politik/venstre-dissident-gaar-enegang-igen-og-skriver-under-paa-borgerforslager-det-satire?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T07:08:52.000Z"
+  },
+  {
+   "titel": "Snyd med kunstig intelligens er udbredt i skolen viser undersøgelse",
+   "resume": "Halvdelen af skoleeleverne har brugt en AI-chatbot på en måde, de karakteriserer som snyd, viser undersøgelse.",
+   "url": "https://politiken.dk/danmark/uddannelse/art10976934/Snyd-med-kunstig-intelligens-er-udbredt-i-skolen-viser-unders%C3%B8gelse",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T06:46:24.000Z"
+  },
+  {
+   "titel": "AI-snyd i skolen er udbredt",
+   "resume": "Halvdelen af skoleeleverne har brugt en AI-chatbot på en måde, de karakteriserer som snyd, viser undersøgelse",
+   "url": "https://ekstrabladet.dk/nyheder/samfund/udbredt-ai-snyd-i-skolen-brug-for-klare-regler/11284919",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T06:46:01.000Z"
+  },
+  {
+   "titel": "Snyd med kunstig intelligens er udbredt i skolen viser undersøgelse",
+   "resume": "Halvdelen af skoleeleverne har brugt en AI-chatbot på en måde, de karakteriserer som snyd, viser undersøgelse.",
+   "url": "https://www.bt.dk/samfund/snyd-med-kunstig-intelligens-er-udbredt-i-skolen-viser-undersoegelse?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T06:41:46.000Z"
+  },
+  {
+   "titel": "Snyd med kunstig intelligens er udbredt i skolen viser undersøgelse",
+   "resume": "Halvdelen af skoleeleverne har brugt en AI-chatbot på en måde, de karakteriserer som snyd, viser undersøgelse.",
+   "url": "https://www.berlingske.dk/danmark/snyd-med-kunstig-intelligens-er-udbredt-i-skolen-viser-undersoegelse?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T06:41:45.000Z"
+  },
+  {
+   "titel": "Historisk dårlig Pisa-måling har sat Christiansborg på den anden ende, men problemerne i skolen er langtfra nye",
+   "resume": "Talrige undersøgelser har i årevis dokumenteret et faldende fagligt niveau i folkeskolen. Men på Christiansborg har det haltet med lydhørheden, lyder kritikken fra fagfolk.",
+   "url": "https://politiken.dk/danmark/art10975653/Historisk-d%C3%A5rlig-Pisa-m%C3%A5ling-har-sat-Christiansborg-p%C3%A5-den-anden-ende-men-problemerne-i-skolen-er-langtfra-nye",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T06:31:58.000Z"
   },
   {
    "titel": "Seks ud af ti elever i 9. klasse snyder med AI. Læreren fra Nordsjælland så det ramme skolen som en »tsunami«",
