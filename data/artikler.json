@@ -1,6 +1,46 @@
 {
- "opdateret": "2026-09-10T18:27:57.205Z",
+ "opdateret": "2026-09-10T19:22:11.382Z",
  "artikler": [
+  {
+   "titel": "Red Barnets landsindsamling giver millioner til børn",
+   "resume": "Red Barnet afholdt søndag landsindsamling, hvor danskere samlede 6,8 millioner kroner ind til primært børn.",
+   "url": "https://www.berlingske.dk/danmark/red-barnets-landsindsamling-giver-millioner-til-boern?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T19:02:46.000Z"
+  },
+  {
+   "titel": "Red Barnets landsindsamling giver millioner til børn",
+   "resume": "Red Barnet afholdt søndag landsindsamling, hvor danskere samlede 6,8 millioner kroner ind til primært børn.",
+   "url": "https://www.bt.dk/samfund/red-barnets-landsindsamling-giver-millioner-til-boern?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T19:02:46.000Z"
+  },
+  {
+   "titel": "Politiet finder flere uretmæssigt slettede afgørelser i register",
+   "resume": "Børneattester og våbentilladelser er fortsat i bero, mens politiet undersøger slettefejl i Kriminalregisteret.",
+   "url": "https://www.berlingske.dk/indland/politiet-finder-flere-uretmaessigt-slettede-afgoerelser-i-register?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T18:47:47.000Z"
+  },
+  {
+   "titel": "Politiet finder flere uretmæssigt slettede afgørelser i register",
+   "resume": "Børneattester og våbentilladelser er fortsat i bero, mens politiet undersøger slettefejl i Kriminalregisteret.",
+   "url": "https://www.bt.dk/krimi/politiet-finder-flere-uretmaessigt-slettede-afgoerelser-i-register?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T18:47:47.000Z"
+  },
+  {
+   "titel": "Politiet finder endnu flere slettefejl i Kriminalregister",
+   "resume": "Børneattester og våbentilladelser er fortsat i bero, mens politiet undersøger slettefejl i Kriminalregisteret.",
+   "url": "https://politiken.dk/danmark/art10978571/Politiet-finder-endnu-flere-slettefejl-i-Kriminalregister",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T18:42:59.000Z"
+  },
   {
    "titel": "»Han var alt for klog til vores kontor«. Her er historien om terrorkrigens danske Forrest Gump",
    "resume": "Der findes enkelte mennesker, der som i filmen ’Forrest Gump’ har en særlig evne til at befinde sig der, hvor store verdenshistoriske begivenheder udfolder sig. Til dem hører Afghanistan-veteranen Mor",
