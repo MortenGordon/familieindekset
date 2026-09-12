@@ -1,13 +1,21 @@
 {
- "opdateret": "2026-09-12T08:25:30.725Z",
+ "opdateret": "2026-09-12T09:24:35.174Z",
  "artikler": [
   {
-   "titel": "Voldsom familiestrid: Politiet rykkede ud til knivstikkeri",
-   "resume": "Natten til lørdag rykkede Østjyllands Politi ud til en hændelse, hvor en mand var blevet stukket med kniv af et familiemedlem.",
-   "url": "https://www.bt.dk/krimi/voldsom-familiestrid-politiet-rykkede-ud-til-knivstikkeri?referrer=RSS",
-   "kilde": "B.T.",
+   "titel": "Slår fast: De har en kæmpe fordel",
+   "resume": "FC Midtjyllands bestyrelsesformand, Claus Steinlein, bakker op om ændringen, der betyder, at ingen klub fremover skal kunne spille pokalfinale på sit eget stadion - men erkender samtidig, at han er sp",
+   "url": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/splittet-steinlein-fck-har-en-kaempe-fordel/11287389",
+   "kilde": "Ekstra Bladet",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-12T08:14:56.000Z"
+   "dato": "2026-09-12T09:21:24.000Z"
+  },
+  {
+   "titel": "Da politiet stod i indkørslen, vidste han, at noget forfærdeligt var sket. Dagen efter skulle han træffe et valg, ingen forældre bør stå over for",
+   "resume": "»Der er to mulige udfald,« fortalte lægerne, mens Lucas' hjerte stadig bankede. Midt i Jesper Hoppes allerstørste sorg blev en anden familie ringet op. Nu har han en opfordring til alle.",
+   "url": "https://www.berlingske.dk/vores-liv/da-politiet-stod-i-indkoerslen-vidste-han-at-noget-forfaerdeligt-var-sket-dagen-efter-skulle-han-traeffe-et-valg-ingen-foraeldre-boer-staa-over-for?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-12T08:47:59.000Z"
   },
   {
    "titel": "Trump er i Irland for at møde premierminister og se golf",
@@ -15,7 +23,7 @@
    "url": "https://www.berlingske.dk/internationalt/trump-er-i-irland-for-at-moede-premierminister-og-se-golf?referrer=RSS",
    "kilde": "Berlingske",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-12T08:01:44.000Z"
+   "dato": "2026-09-12T08:39:45.000Z"
   },
   {
    "titel": "Trump er i Irland for at møde premierminister og se golf",
@@ -23,7 +31,23 @@
    "url": "https://www.bt.dk/udland/trump-er-i-irland-for-at-moede-premierminister-og-se-golf?referrer=RSS",
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-12T08:01:44.000Z"
+   "dato": "2026-09-12T08:39:45.000Z"
+  },
+  {
+   "titel": "Markant stigning i voldssager med børn",
+   "resume": "",
+   "url": "https://www.dr.dk/nyheder/indland/reels/markant-stigning-i-voldssager-med-boern",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-12T08:35:00.000Z"
+  },
+  {
+   "titel": "Voldsom familiestrid: Politiet rykkede ud til knivstikkeri",
+   "resume": "Natten til lørdag rykkede Østjyllands Politi ud til en hændelse, hvor en mand var blevet stukket med kniv af et familiemedlem.",
+   "url": "https://www.bt.dk/krimi/voldsom-familiestrid-politiet-rykkede-ud-til-knivstikkeri?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-12T08:14:56.000Z"
   },
   {
    "titel": "Trump er landet: Skal mødes med Irlands premierminister",
