@@ -1,6 +1,78 @@
 {
- "opdateret": "2026-09-13T03:25:45.923Z",
+ "opdateret": "2026-09-14T04:25:34.957Z",
  "artikler": [
+  {
+   "titel": "Pensionsadvarsel: Kan koste 1,7 mio.",
+   "resume": "For første gang i næsten ti år er antallet af unge uden pensionsopsparing steget. En sen start kan koste dyrt, advarer cheføkonom",
+   "url": "https://ekstrabladet.dk/penge/pensionsadvarsel-til-unge-kan-koste-17-millioner-kroner/11288365",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-14T04:21:20.000Z"
+  },
+  {
+   "titel": "Nye lærere arbejder under forskellige vilkår: ”Der er enorme forskelle fra skole til skole”",
+   "resume": "En undersøgelse afslører, at nyuddannede lærere bliver mødt med forskellige arbejdsvilkår i deres første job. Der er mange lærerstartsordninger i kommunerne, men de svinger i kvalitet fra skole til sk",
+   "url": "https://www.folkeskolen.dk/nye-laerere-arbejder-under-forskellige-vilkaar-der-er-enorme-forskelle-fra-skole-til-skole/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-14T02:56:00.000Z"
+  },
+  {
+   "titel": "Lærer om overvågningsprogram i klassen: En genial opfindelse",
+   "resume": "I et år har Sorø Kommune gjort brug af to programmer, der blokerer uønskede hjemmesider og gør det muligt for lærerne at overvåge elevernes skærme i undervisningen. The post Lærer om overvågningsprogr",
+   "url": "https://www.folkeskolen.dk/laerer-om-overvaagningsprogram-i-klassen-en-genial-opfindelse/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-14T02:08:00.000Z"
+  },
+  {
+   "titel": "US Open-vinder hylder sin mor for at trodse lægernes dom",
+   "resume": "Som barn fik Alexander Zverev konstateret diabetes. Moren insisterede på, at det ikke skulle være en hindring.",
+   "url": "https://www.bt.dk/tennis/us-open-vinder-hylder-sin-mor-for-at-trodse-laegernes-dom?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-14T01:49:46.000Z"
+  },
+  {
+   "titel": "Han har gjort selv de største bedre: Bob Dylan blev til mere end en mumlende sanger i hans lydunivers",
+   "resume": "Han har produceret stribevis af mesterværker med Bob Dylan, U2, Emmylou Harris og sig selv. Her fortæller Daniel Lanois om at strejfe alene rundt som barn, om at gøre Dylan til mere end en mumlende sa",
+   "url": "https://politiken.dk/kultur/art10965090/Bob-Dylan-blev-til-mere-end-en-mumlende-sanger-i-hans-lydunivers",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-13T18:24:46.000Z"
+  },
+  {
+   "titel": "Skolebiblioteksformand: Ikke flere læsekampagner – nu skal der investeres",
+   "resume": "Skolebiblioteket kan og bør spille en central rolle i løsningen af den alvorlige læsekrise, som Pisa-undersøgelsen har afsløret, mener formanden for Skolebiblioteksforeningen, Runa Barbara Petersen. M",
+   "url": "https://www.folkeskolen.dk/skolebiblioteksformand-ikke-flere-laesekampagner-nu-skal-der-investeres/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-13T17:05:00.000Z"
+  },
+  {
+   "titel": "»Jeg lå i nat og scrollede ned over listen af tidligere vindere og blev så rørt«",
+   "resume": "May el-Toukhy og Mathilde Arcel landede søndag eftermiddag i Københavns Lufthavn, hvor de blev mødt af fans og familie. Begge fortæller om store, men forskellige håb for fremtiden.",
+   "url": "https://politiken.dk/kultur/film_og_tv/art10981020/%C2%BBJeg-l%C3%A5-i-nat-og-scrollede-ned-over-listen-af-tidligere-vindere-og-blev-s%C3%A5-r%C3%B8rt%C2%AB",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-13T16:44:18.000Z"
+  },
+  {
+   "titel": "Sådan siger du nej, når dit barn plager om et ulovligt el-løbehjul",
+   "resume": "Her får du gode råd til, hvordan du tager snakken, når dit barns største ønske er et ulovligt el-løbehjul.",
+   "url": "https://www.dr.dk/nyheder/indland/saadan-siger-du-nej-naar-dit-barn-plager-om-et-ulovligt-el-loebehjul",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-13T14:00:00.000Z"
+  },
+  {
+   "titel": "Gymnasium pudser narkohund på eleverne: Det er helt fantastisk",
+   "resume": "Konservative vil have pulje til narkohunde på ungdomsuddannelser med i forhandlinger.",
+   "url": "https://www.dr.dk/nyheder/indland/gymnasium-pudser-narkohund-paa-eleverne-det-er-helt-fantastisk",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-13T11:33:26.000Z"
+  },
   {
    "titel": "Vi har normeringer i vuggestuen. Hvorfor ikke i grisestalden?",
    "resume": "<p>Hvis vi vil forbedre dyrevelf&#230;rden, m&#229; vi sikre, at der er tid nok til at tilse dyrene, og at de dyrl&#230;ger, der skal opdage problemerne, ikke er afh&#230;ngige af landm&#230;ndene som",
@@ -1080,6 +1152,14 @@
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-10T15:55:30.000Z"
+  },
+  {
+   "titel": "Det er ikke børnene, der skal opfinde sikkerhedsselen til de sociale medier",
+   "resume": "En kommende dansk aldersgrænse for sociale medier møder opbakning hos Red Barnet. Men politikerne svigter, hvis de stopper der, mener generalsekretæren",
+   "url": "https://www.information.dk/moti/2026/09/boernene-opfinde-sikkerhedsselen-sociale-medier",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-10T15:53:36.000Z"
   },
   {
    "titel": "Magnus Heunicke: Lærernes arbejdsvilkår skal drøftes i en trepart",
