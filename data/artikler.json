@@ -1,6 +1,30 @@
 {
- "opdateret": "2026-09-14T04:27:46.119Z",
+ "opdateret": "2026-09-14T05:25:36.393Z",
  "artikler": [
+  {
+   "titel": "Business-overblik: Lars Larsen-familien sætter milliardkoncern på slankekur",
+   "resume": "Vi læser erhvervsnyhederne og tjekker aktiekurserne fra morgenstunden. Her er hele dit Business-overblik.",
+   "url": "https://www.berlingske.dk/business/business-overblik-lars-larsen-familien-saetter-milliardkoncern-paa-slankekur?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-14T05:06:40.000Z"
+  },
+  {
+   "titel": "Er en ny techombudsmand løsningen på magtesløsheden?",
+   "resume": "Vi slipper 15-årige løs på sociale medier, hvor mange unge møder skadelige billeder og videoer. Nu vil politikerne finde en ny myndighed, der kan være den voksne beskytter.",
+   "url": "https://politiken.dk/kultur/medier/art10975662/Er-en-ny-techombudsmand-l%C3%B8sningen-p%C3%A5-magtesl%C3%B8sheden",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-14T04:59:04.000Z"
+  },
+  {
+   "titel": "Elever med indvandrerbaggrund halter efter i Pisa-undersøgelse - nu skal kommunerne til hastemøde",
+   "resume": "Det kræver flere ressourcer at løfte det faglige niveau for børn med indvandrerbaggrund, lyder det før hastemøde i Kommunernes Landsforening.",
+   "url": "https://www.dr.dk/nyheder/indland/elever-med-indvandrerbaggrund-halter-efter-i-pisa-undersoegelse-nu-skal-kommunerne-til-hastemoede",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-14T04:30:00.000Z"
+  },
   {
    "titel": "Pensionsadvarsel: Kan koste 1,7 mio.",
    "resume": "For første gang i næsten ti år er antallet af unge uden pensionsopsparing steget. En sen start kan koste dyrt, advarer cheføkonom",
