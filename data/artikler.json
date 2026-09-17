@@ -1,6 +1,30 @@
 {
- "opdateret": "2026-09-17T16:26:52.736Z",
+ "opdateret": "2026-09-17T17:23:25.398Z",
  "artikler": [
+  {
+   "titel": "'Vi drukner': Forældres bedste og værste oplevelser med Aula",
+   "resume": "Moderaterne vil gerne sige farvel til Aula. Men blandt forældre er holdningerne delte.",
+   "url": "https://www.dr.dk/nyheder/indland/vi-drukner-foraeldres-bedste-og-vaerste-oplevelser-med-aula",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-17T16:38:00.000Z"
+  },
+  {
+   "titel": "Sagens akter inkluderer også deling af børneporno som sex med dyr",
+   "resume": "",
+   "url": "https://ekstrabladet.dk/krimi/transbetjent-tiltalt-voldtog-14-aarig-paa-toilet/11292546",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-17T16:36:34.000Z"
+  },
+  {
+   "titel": "Borgmester omringet af vrede skolebørn",
+   "resume": "",
+   "url": "https://www.dr.dk/nyheder/indland/reels/borgmester-omringet-af-vrede-skoleboern",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-17T16:27:00.000Z"
+  },
   {
    "titel": "’Der var hele tiden noget, jeg kunne tjekke’: Unge reagerer på EU-forslag om brug af sociale medier",
    "resume": "På Bjergsnæs Efterskole mener flere unge, at EU har gang i et rigtig godt initiativ med at begrænse børn og unges skærmforbrug.",
@@ -506,6 +530,14 @@
    "dato": "2026-09-16T15:00:00.000Z"
   },
   {
+   "titel": "Vi ældre må ærgre os gule og grønne over ikke at have haft en mobil i skoletiden",
+   "resume": "Børn kommer næppe erkendelse og livserfaring dybere med telefonen i en skuffe hjemme hos mor",
+   "url": "https://www.information.dk/debat/2026/09/aeldre-maa-aergre-gule-groenne-haft-mobil-skoletiden",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-16T14:40:37.000Z"
+  },
+  {
    "titel": "Chok-besked på Aula: Truede med skoleskyderi",
    "resume": "En ukendt person brugte en elevs Aula-profil til at sendte en trussel om et muligt skoleskyderi",
    "url": "https://ekstrabladet.dk/krimi/chok-besked-paa-aula-truede-med-skoleskyderi/11291439",
@@ -600,6 +632,14 @@
    "kilde": "DR Indland",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-16T10:02:04.000Z"
+  },
+  {
+   "titel": "Betal de unge for at læse bøger, og bagtal Medina for at underholde våbenhandlere",
+   "resume": "På kulturgangen i denne uge talte vi om Medina, der har spillet til Termas sommerfest, om DR, der er bange for, at AI afanonymiserer deres kilder, og om at blive betalt for at læse bøger",
+   "url": "https://www.information.dk/kultur/2026/09/betal-unge-laese-boeger-bagtal-medina-underholde-vaabenhandlere",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-16T08:58:25.000Z"
   },
   {
    "titel": "EU foreslår forbud mod sociale medier for børn under 13 år",
