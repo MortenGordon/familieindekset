@@ -1,21 +1,13 @@
 {
- "opdateret": "2026-09-17T00:32:40.644Z",
+ "opdateret": "2026-09-17T01:26:04.828Z",
  "artikler": [
   {
-   "titel": "Anders Bondo: Der er én åbenlys løsning på folkeskolens udfordringer",
-   "resume": "<p>Der indkaldes til pressem&#248;der, krisem&#248;der og storm&#248;der, og det fyger med mere eller mindre gennemt&#230;nkte forslag til at redde skolen. Men hvis elevernes faglige niveau skal l&#24",
-   "url": "https://www.altinget.dk/artikel/pisa-panik-loeser-ikke-det-egentlige-problem-alt-for-mange-elever-bliver-ikke-undervist-af-en-uddannet-laerer",
-   "kilde": "Altinget",
-   "kategori": "skole-pasning",
-   "dato": "2026-09-17T00:00:00.000Z"
-  },
-  {
-   "titel": "Kvinder sagsøger Epsteins dødsbo for at opbevare billeder af dem",
-   "resume": "40 personer sagsøger Epsteins dødsbo, fordi finansmanden angiveligt havde overgrebsbilleder af dem som børn.",
-   "url": "https://www.berlingske.dk/internationalt/kvinder-sagsoeger-epsteins-doedsbo-for-at-opbevare-billeder-af-dem?referrer=RSS",
-   "kilde": "Berlingske",
+   "titel": "Sagsøger Epsteins dødsbo",
+   "resume": "40 personer sagsøger Epsteins dødsbo, fordi finansmanden angiveligt havde overgrebsbilleder af dem som børn",
+   "url": "https://ekstrabladet.dk/nyheder/kvinder-sagsoeger-epsteins-doedsbo-for-at-opbevare-billeder-af-dem/11292406",
+   "kilde": "Ekstra Bladet",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-16T22:45:47.000Z"
+   "dato": "2026-09-17T01:25:21.000Z"
   },
   {
    "titel": "Kvinder sagsøger Epsteins dødsbo for at opbevare billeder af dem",
@@ -23,7 +15,23 @@
    "url": "https://www.bt.dk/udland/kvinder-sagsoeger-epsteins-doedsbo-for-at-opbevare-billeder-af-dem?referrer=RSS",
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-16T22:45:45.000Z"
+   "dato": "2026-09-17T01:10:50.000Z"
+  },
+  {
+   "titel": "Kvinder sagsøger Epsteins dødsbo for at opbevare billeder af dem",
+   "resume": "40 personer sagsøger Epsteins dødsbo, fordi finansmanden angiveligt havde overgrebsbilleder af dem som børn.",
+   "url": "https://www.berlingske.dk/internationalt/kvinder-sagsoeger-epsteins-doedsbo-for-at-opbevare-billeder-af-dem?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-17T01:10:49.000Z"
+  },
+  {
+   "titel": "Anders Bondo: Der er én åbenlys løsning på folkeskolens udfordringer",
+   "resume": "<p>Der indkaldes til pressem&#248;der, krisem&#248;der og storm&#248;der, og det fyger med mere eller mindre gennemt&#230;nkte forslag til at redde skolen. Men hvis elevernes faglige niveau skal l&#24",
+   "url": "https://www.altinget.dk/artikel/pisa-panik-loeser-ikke-det-egentlige-problem-alt-for-mange-elever-bliver-ikke-undervist-af-en-uddannet-laerer",
+   "kilde": "Altinget",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-17T00:00:00.000Z"
   },
   {
    "titel": "Kong Haakon giver afkald på langvarig tradition: ‘Det første tegn på offentlig utilfredshed?’",
