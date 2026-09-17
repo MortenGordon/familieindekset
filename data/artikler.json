@@ -1,6 +1,46 @@
 {
- "opdateret": "2026-09-17T15:26:40.769Z",
+ "opdateret": "2026-09-17T16:26:52.736Z",
  "artikler": [
+  {
+   "titel": "’Der var hele tiden noget, jeg kunne tjekke’: Unge reagerer på EU-forslag om brug af sociale medier",
+   "resume": "På Bjergsnæs Efterskole mener flere unge, at EU har gang i et rigtig godt initiativ med at begrænse børn og unges skærmforbrug.",
+   "url": "https://www.dr.dk/nyheder/indland/der-var-hele-tiden-noget-jeg-kunne-tjekke-unge-reagerer-paa-eu-forslag-om-brug-af-sociale-medier",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-17T16:00:00.000Z"
+  },
+  {
+   "titel": "FAKTA: Ni ud af ti forældre er på Aula flere gange om ugen",
+   "resume": "Hver anden forælder på skoleområdet oplever, at informationsmængden på Aula er for stor. Læs mere om Aula her.",
+   "url": "https://www.berlingske.dk/danmark/fakta-ni-ud-af-ti-foraeldre-er-paa-aula-flere-gange-om-ugen?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-17T15:57:45.000Z"
+  },
+  {
+   "titel": "Manglende børneattester giver problemer: »Vi er presset af det her. Det er alvorligt«",
+   "resume": "I to uger har Rigspolitiet ikke udstedt børneattester på grund af fejl i Kriminalregistret. Det har skabt store udfordringer i kommunerne. KL efterlyser en tidshorisont.",
+   "url": "https://politiken.dk/danmark/art10986808/Manglende-b%C3%B8rneattester-giver-problemer-%C2%BBVi-er-presset-af-det-her.-Det-er-alvorligt%C2%AB",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-17T15:49:03.000Z"
+  },
+  {
+   "titel": "Seks største kommuner i brev til minister: Børneatteststop er kritisk",
+   "resume": "Rigspolitiet har sat udstedelse af børneattest i bero efter fejl i register. Det påvirker driften i kommuner.",
+   "url": "https://www.bt.dk/politik/seks-stoerste-kommuner-i-brev-til-minister-boerneatteststop-er-kritisk?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-17T15:30:47.000Z"
+  },
+  {
+   "titel": "Seks største kommuner i brev til minister: Børneatteststop er kritisk",
+   "resume": "Rigspolitiet har sat udstedelse af børneattest i bero efter fejl i register. Det påvirker driften i kommuner.",
+   "url": "https://www.berlingske.dk/politik/seks-stoerste-kommuner-i-brev-til-minister-boerneatteststop-er-kritisk?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-17T15:30:47.000Z"
+  },
   {
    "titel": "SF og M har tabt kampen om friheden. Så kan man jo lukke Aula",
    "resume": "Analyse: I Moderaterne ved de godt, at Aula nok ikke kan afskaffes. Partiets forslag minder vælgerne om den tabte kamp for større frihed til lærere og skoleledere.",
@@ -40,22 +80,6 @@
    "kilde": "Berlingske",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-17T14:18:21.000Z"
-  },
-  {
-   "titel": "Seks største kommuner i brev til minister: Børneatteststop er kritisk",
-   "resume": "Rigspolitiet har sat udstedelse af børneattest i bero efter fejl i register. Det påvirker driften i kommuner.",
-   "url": "https://www.bt.dk/politik/seks-stoerste-kommuner-i-brev-til-minister-boerneatteststop-er-kritisk?referrer=RSS",
-   "kilde": "B.T.",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-17T14:07:51.000Z"
-  },
-  {
-   "titel": "Seks største kommuner i brev til minister: Børneatteststop er kritisk",
-   "resume": "Rigspolitiet har sat udstedelse af børneattest i bero efter fejl i register. Det påvirker driften i kommuner.",
-   "url": "https://www.berlingske.dk/politik/seks-stoerste-kommuner-i-brev-til-minister-boerneatteststop-er-kritisk?referrer=RSS",
-   "kilde": "Berlingske",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-17T14:07:50.000Z"
   },
   {
    "titel": "Malou Stella fra De unge mødre er dømt i narkosag",
