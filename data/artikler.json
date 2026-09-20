@@ -1,6 +1,38 @@
 {
- "opdateret": "2026-09-20T19:22:00.009Z",
+ "opdateret": "2026-09-20T20:24:05.428Z",
  "artikler": [
+  {
+   "titel": "Hun ser det i klasseværelset på Frederiksberg. Pludselig er pigernes faglige niveau styrtdykket",
+   "resume": "Nye tal fra sommerens afgangsprøver og sidste uges PISA-resultater bekræfter en gådefuld tendens. En lærer fra Frederiksberg mærker det til dagligt: Pludselig klarer pigerne sig markant dårligere i sk",
+   "url": "https://www.berlingske.dk/indland/hun-ser-det-i-klassevaerelset-paa-frederiksberg-pludselig-er-pigernes-faglige-niveau-styrtdykket?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-20T20:15:25.000Z"
+  },
+  {
+   "titel": "Stephania Potalivo afslører vild detalje: Skal fejre fødselsdag med dansk musikikon",
+   "resume": "Den store dag skal markeres langt fra Danmark, og skuespilleren får selskab af én helt særlig gæst.",
+   "url": "https://www.bt.dk/danske-kendte/stephania-potalivo-afsloerer-vild-detalje-skal-fejre-foedselsdag-med-dansk-musikikon?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-20T19:31:31.000Z"
+  },
+  {
+   "titel": "Ung mand er død efter bil kolliderede med træ på Fyn",
+   "resume": "En bil med tre unge mænd kolliderede natten til søndag med et træ. En er søndag afgået ved døden.",
+   "url": "https://www.bt.dk/krimi/ung-mand-er-doed-efter-bil-kolliderede-med-trae-paa-fyn?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-20T19:22:45.000Z"
+  },
+  {
+   "titel": "Ung mand er død efter bil kolliderede med træ på Fyn",
+   "resume": "En bil med tre unge mænd kolliderede natten til søndag med et træ. En er søndag afgået ved døden.",
+   "url": "https://www.berlingske.dk/indland/ung-mand-er-doed-efter-bil-kolliderede-med-trae-paa-fyn?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-20T19:22:44.000Z"
+  },
   {
    "titel": "Døde og lemlæstede kvinder knyttes til 'skræk-hus'",
    "resume": "Flere forsvundne kvinder er dukket op på billeder og optagelser hos en far og søn i Philadelphia. Nogle af optagelserne viser horrible scener",
@@ -50,6 +82,14 @@
    "dato": "2026-09-20T16:43:06.000Z"
   },
   {
+   "titel": "Haveslanger og gladiatorer: ”Det er bare skideskægt at arbejde med som lærer”",
+   "resume": "En gruppe elever fik pludselig meget mere fra hånden, da Nivå Skole prøvede kræfter med storylinemetoden. The post Haveslanger og gladiatorer: ”Det er bare skideskægt at arbejde med som lærer” appeare",
+   "url": "https://www.folkeskolen.dk/haveslanger-og-gladiatorer-det-er-bare-skideskaegt-at-arbejde-med-som-laerer/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-20T16:00:00.000Z"
+  },
+  {
    "titel": "Schweizisk fødselar forsvarer VM-trøjen i enkeltstart",
    "resume": "Den schweiziske cykelrytter Marlen Reusser vandt søndag VM i enkeltstart for andet år i træk.",
    "url": "https://www.berlingske.dk/sport/schweizisk-foedselar-forsvarer-vm-troejen-i-enkeltstart?referrer=RSS",
@@ -64,22 +104,6 @@
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-20T15:25:28.000Z"
-  },
-  {
-   "titel": "Ung mand er død efter bil kolliderede med træ på Fyn",
-   "resume": "En bil med tre unge mænd kolliderede natten til søndag med et træ. En er søndag afgået ved døden.",
-   "url": "https://www.berlingske.dk/indland/ung-mand-er-doed-efter-bil-kolliderede-med-trae-paa-fyn?referrer=RSS",
-   "kilde": "Berlingske",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-20T15:17:46.000Z"
-  },
-  {
-   "titel": "Ung mand er død efter bil kolliderede med træ på Fyn",
-   "resume": "En bil med tre unge mænd kolliderede natten til søndag med et træ. En er søndag afgået ved døden.",
-   "url": "https://www.bt.dk/krimi/ung-mand-er-doed-efter-bil-kolliderede-med-trae-paa-fyn?referrer=RSS",
-   "kilde": "B.T.",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-20T15:17:46.000Z"
   },
   {
    "titel": "Ung person er død efter bil kolliderede med træ på Fyn",
