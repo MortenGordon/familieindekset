@@ -1,6 +1,22 @@
 {
- "opdateret": "2026-09-21T04:27:12.948Z",
+ "opdateret": "2026-09-21T05:25:43.558Z",
  "artikler": [
+  {
+   "titel": "Meloni vil forbyde burka og niqab i italienske skoler",
+   "resume": "Integration er et centralt valgtema i Italien frem mod parlamentsvalget, der skal afholdes næste år.",
+   "url": "https://politiken.dk/internationalt/art10990012/Meloni-vil-forbyde-burka-og-niqab-i-italienske-skoler",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-21T05:03:27.000Z"
+  },
+  {
+   "titel": "Frederik Vad er blevet far: 'Min verden har forandret sig'",
+   "resume": "Den 32-årige socialdemokrat deler nu en stor nyhed.",
+   "url": "https://www.bt.dk/politik/frederik-vad-er-blevet-far-min-verden-har-forandret-sig?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-21T04:35:10.000Z"
+  },
   {
    "titel": "Indvandrerfamilier begrænser, hvem unge må blive kærester med. Nu går minister i rette med »mentale parallelsamfund«",
    "resume": "En ud af fem ikkevestlige indvandrere får deres valg af partner begrænset af familien, og det hænger direkte sammen med »den største udfordring på udlændinge- og integrationsområdet«, mener minister. ",
@@ -32,6 +48,22 @@
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-21T03:01:48.000Z"
+  },
+  {
+   "titel": "Sådan oplever lærerne den eskalerende uro og larm",
+   "resume": "Stadig stigende problemer med undervisningsforstyrrende uro er ikke kun noget, eleverne rapporterer om i Pisa-undersøgelsen. Bl.a. lærerundersøgelsen Talis dokumenterer, at danske lærere bruger stadig",
+   "url": "https://www.folkeskolen.dk/saadan-oplever-laererne-den-eskalerende-uro-og-larm/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-21T02:30:00.000Z"
+  },
+  {
+   "titel": "Pisa-viden: Her har forsker fundet et ”kæmpe potentiale” for bedre læring",
+   "resume": "Hvor er der mest at hente, hvis skolerne skal vende den negative udvikling? Det har skoleforsker Christian Christrup Kjeldsen forsøgt at finde svar på i de tusindvis af Pisa-tal. The post Pisa-viden: ",
+   "url": "https://www.folkeskolen.dk/pisa-data-her-har-forsker-fundet-et-kaempe-potentiale-for-bedre-laering/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-21T02:30:00.000Z"
   },
   {
    "titel": "Vil have burkaforbud i skolerne",
