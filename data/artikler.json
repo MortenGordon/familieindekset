@@ -1,6 +1,30 @@
 {
- "opdateret": "2026-09-22T13:27:31.330Z",
+ "opdateret": "2026-09-22T14:27:03.574Z",
  "artikler": [
+  {
+   "titel": "Skole advarer forældre: Piger antastet af mand i bil",
+   "resume": "Manden henvendte sig til de to piger mandag aften.",
+   "url": "https://www.bt.dk/krimi/skole-advarer-foraeldre-piger-antastet-af-mand-i-bil?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-22T14:18:49.000Z"
+  },
+  {
+   "titel": "15 mænd er kendt skyldige i bombeangreb i Sri Lanka",
+   "resume": "Angrebene påskesøndag i 2019 kostede 279 mennesker livet. Blandt ofrene var tre danske børn.",
+   "url": "https://www.berlingske.dk/internationalt/15-maend-er-kendt-skyldige-i-bombeangreb-i-sri-lanka?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-22T13:58:49.000Z"
+  },
+  {
+   "titel": "15 mænd er kendt skyldige i bombeangreb i Sri Lanka",
+   "resume": "Angrebene påskesøndag i 2019 kostede 279 mennesker livet. Blandt ofrene var tre danske børn.",
+   "url": "https://www.bt.dk/udland/15-maend-er-kendt-skyldige-i-bombeangreb-i-sri-lanka?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-22T13:58:49.000Z"
+  },
   {
    "titel": "Fra barsel til barnevogn: Sådan adskiller danske forældre sig fra britiske",
    "resume": "Og kan det virkelig passe, at danske babyer græder mindre end babyer i andre lande? Det undersøger dansk forsker.",
@@ -8,6 +32,22 @@
    "kilde": "Videnskab.dk",
    "kategori": "sundhed-trivsel",
    "dato": "2026-09-22T13:58:00.000Z"
+  },
+  {
+   "titel": "Robin Williams' datter raser over AI-videoer af sin afdøde far: 'Lad ham være i fred!'",
+   "resume": "»Bare fordi han er væk, betyder det ikke, at du kan bruge ham som en marionetdukke. Skam dig,« skriver datteren Zelda Williams.",
+   "url": "https://www.bt.dk/int-kendte/robin-williams-datter-raser-over-ai-videoer-af-sin-afdoede-far-lad-ham-vaere-i-fred?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-22T13:47:07.000Z"
+  },
+  {
+   "titel": "Skole advarer: Mand fulgte efter pige hjem",
+   "resume": "En pige havde en ubehagelig oplevelse efter skole, da en mand fulgte efter hende hjem i hendes have",
+   "url": "https://ekstrabladet.dk/krimi/forfulgt-efter-skole-ubehagelig-mand-loeb-efter-pige/11297661",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-22T13:45:53.000Z"
   },
   {
    "titel": "15 mænd dømt for blodigt terrorangreb i Sri Lanka i 2019",
