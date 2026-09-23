@@ -1,6 +1,30 @@
 {
- "opdateret": "2026-09-23T16:28:14.444Z",
+ "opdateret": "2026-09-23T17:26:06.068Z",
  "artikler": [
+  {
+   "titel": "Det Kongelige Teater åbner en vigtig dør med forestillingen om Yahya Hassan og hans søskende",
+   "resume": "Det Kongelige Teaters forestilling om Yahya Hassans familie tvinger os til at se det Danmark, vi ellers vender blikket fra.",
+   "url": "https://www.berlingske.dk/scene/det-kongelige-teater-aabner-en-vigtig-doer-med-forestillingen-om-yahya-hassan-og-hans-soeskende?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-23T17:17:05.000Z"
+  },
+  {
+   "titel": "Først tænkte hun »luk lortet« om Aula – men måske er der en bedre løsning",
+   "resume": "Måske skal vi forældre bare logge lidt ud i stedet for at se billeder fra vores børns udflugt og høre om glemt gymnastiktøj.",
+   "url": "https://www.berlingske.dk/synspunkter/foerst-taenkte-hun-luk-lortet-om-aula--men-maaske-er-der-en-bedre-loesning?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-23T16:54:34.000Z"
+  },
+  {
+   "titel": "Forældre glade for stort beløb til stop af skolelukninger",
+   "resume": "",
+   "url": "https://www.dr.dk/nyheder/indland/reels/foraeldre-glade-stort-beloeb-til-stop-af-skolelukninger",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-23T16:46:00.000Z"
+  },
   {
    "titel": "Ung mand er stukket med kniv på Brøndbyøster Station",
    "resume": "S-togene har ikke standset på Brøndbyøster Station onsdag eftermiddag på grund af et knivstikkeri.",
@@ -496,6 +520,14 @@
    "kilde": "Berlingske",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-22T12:04:28.000Z"
+  },
+  {
+   "titel": "Skolevægring rammer især lavindkomstfamilier. Men specialtilbuddene er blevet for eliten",
+   "resume": "Børn fra de økonomisk dårligst stillede familier har dobbelt så ofte et bekymrende skolefravær. Noget tyder på, at mange af dem ikke får den rette specialiserede hjælp",
+   "url": "https://www.information.dk/debat/2026/09/skolevaegring-rammer-isaer-lavindkomstfamilier-specialtilbuddene-blevet-eliten",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-22T11:03:53.000Z"
   },
   {
    "titel": "De indførte et forbud mod abort. Nu vil de ikke udlevere tallene for dødsfald blandt gravide kvinder",
