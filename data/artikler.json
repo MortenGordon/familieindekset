@@ -1,6 +1,46 @@
 {
- "opdateret": "2026-09-23T05:25:15.983Z",
+ "opdateret": "2026-09-23T06:32:07.004Z",
  "artikler": [
+  {
+   "titel": "MLS-klub smider sexistisk træner på porten",
+   "resume": "Federico Higuain er færdig som reserveholdstræner i Columbus Crew efter sexistisk kommentar til kvindelig dommer.",
+   "url": "https://www.bt.dk/fodbold/mls-klub-smider-sexistisk-traener-paa-porten?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-23T06:22:31.000Z"
+  },
+  {
+   "titel": "Politibetjent tiltalt for voldtægt af et barn og sexforbrydelser mod dyr",
+   "resume": "En svensk politibetjent står over for en stribe uhyre alvorlige anklager.",
+   "url": "https://www.bt.dk/udland/politibetjent-tiltalt-for-voldtaegt-af-et-barn-og-sexforbrydelser-mod-dyr?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-23T06:15:39.000Z"
+  },
+  {
+   "titel": "Merete faldt i kommunal fælde: 'Det er en pengemaskine'",
+   "resume": "Merete Sejtens svigersøns fødselsdag i København blev 510 kroner dyrere end forventet, da de faldt i berygtet parkeringsfælde.",
+   "url": "https://www.bt.dk/samfund/merete-faldt-i-kommunal-faelde-det-er-en-pengemaskine?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-23T06:07:06.000Z"
+  },
+  {
+   "titel": "Regeringen afsætter en halv milliard til at bremse skolelukninger",
+   "resume": "Kommuner i landdistrikter skal have økonomisk støtte til at undgå skolelukninger i fremtiden, siger minister.",
+   "url": "https://www.dr.dk/nyheder/indland/regeringen-afsaetter-en-halv-milliard-til-bremse-skolelukninger",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-23T05:29:49.000Z"
+  },
+  {
+   "titel": "Unge lollikker er glade for livet på øen: »Det er nok det bedste, vi har hernede«",
+   "resume": "Lolland skal skære helt ind til knoglen, men ikke alt er trist og gråt, hvis man spørger de unge, som Politiken mødte på Campus Nakskov. Her guider de til det fedeste ved livet på øen.",
+   "url": "https://politiken.dk/danmark/art10962291/Unge-lollikker-er-glade-for-livet-p%C3%A5-%C3%B8en-%C2%BBDet-er-nok-det-bedste-vi-har-hernede%C2%AB",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-23T05:26:16.000Z"
+  },
   {
    "titel": "Familiefar tiltalt for grove voldtægter: Så farlig er han",
    "resume": "37-årig tiltalt for voldtægt, mishandling og psykisk vold mod flere kvinder. Retslægerådet konkluderer, at manden på fri fod vil være til fare for sine omgivelser",
