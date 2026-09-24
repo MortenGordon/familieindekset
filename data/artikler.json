@@ -1,6 +1,30 @@
 {
- "opdateret": "2026-09-24T14:27:39.170Z",
+ "opdateret": "2026-09-24T15:27:52.812Z",
  "artikler": [
+  {
+   "titel": "Ekspert: Melonis burkaforbud ligner en afledningsmanøvre",
+   "resume": "Italiens regering vil forbyde ansigtsslør på uddannelsesinstitutioner og begrænse antallet af udenlandske elever per klasse. Kritikere ser tiltaget som et politisk signal fra en presset regering.",
+   "url": "https://politiken.dk/internationalt/art10995647/Melonis-burkaforbud-ligner-en-afledningsman%C3%B8vre",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-24T15:00:35.000Z"
+  },
+  {
+   "titel": "Teenager fængslet for at stikke 16-årig med kniv på togstation",
+   "resume": "En 16-årig dreng blev onsdag stukket med kniv på Brøndbyøster Station. Jævnaldrende er sigtet for drabsforsøg.",
+   "url": "https://www.berlingske.dk/indland/teenager-faengslet-for-at-stikke-16-aarig-med-kniv-paa-togstation?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-24T14:41:56.000Z"
+  },
+  {
+   "titel": "Teenager fængslet for at stikke 16-årig med kniv på togstation",
+   "resume": "En 16-årig dreng blev onsdag stukket med kniv på Brøndbyøster Station. Jævnaldrende er sigtet for drabsforsøg.",
+   "url": "https://www.bt.dk/krimi/teenager-faengslet-for-at-stikke-16-aarig-med-kniv-paa-togstation?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-24T14:41:56.000Z"
+  },
   {
    "titel": "Ung dansker sætter stjerner til vægs på fæl stigning og tager sin første sejr",
    "resume": "Antonio Tiberi og Tim Wellens kunne intet stille op mod Tobias Svarre, der tog sin første professionelle sejr.",
@@ -8,6 +32,14 @@
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-24T14:22:15.000Z"
+  },
+  {
+   "titel": "Forsker har fundet opskriften på at gøre kanonlitteratur relevant for eleverne",
+   "resume": "Med affektiv læsning har lektor Thomas Thurah udviklet nye måder at engagere elever i de gamle klassikere på. Han roser udkastet til den nye fagplan i dansk for netop at give mulighed for at sanse lit",
+   "url": "https://www.folkeskolen.dk/forsker-har-fundet-opskriften-paa-at-goere-kanonlitteratur-relevant-for-eleverne/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-24T14:08:44.000Z"
   },
   {
    "titel": "Hun elsker Allah. Hun elsker sin familie. Og hun elsker kvinder. Men kan hun få lov til alle tre?",
@@ -32,22 +64,6 @@
    "kilde": "Folkeskolen",
    "kategori": "skole-pasning",
    "dato": "2026-09-24T13:41:51.000Z"
-  },
-  {
-   "titel": "Teenager fængslet for at stikke 16-årig med kniv på togstation",
-   "resume": "En 16-årig dreng blev onsdag stukket med kniv på Brøndbyøster Station. Jævnaldrende er sigtet for drabsforsøg.",
-   "url": "https://www.berlingske.dk/indland/teenager-faengslet-for-at-stikke-16-aarig-med-kniv-paa-togstation?referrer=RSS",
-   "kilde": "Berlingske",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-24T12:49:45.000Z"
-  },
-  {
-   "titel": "Teenager fængslet for at stikke 16-årig med kniv på togstation",
-   "resume": "En 16-årig dreng blev onsdag stukket med kniv på Brøndbyøster Station. Jævnaldrende er sigtet for drabsforsøg.",
-   "url": "https://www.bt.dk/krimi/teenager-faengslet-for-at-stikke-16-aarig-med-kniv-paa-togstation?referrer=RSS",
-   "kilde": "B.T.",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-24T12:49:45.000Z"
   },
   {
    "titel": "Offer var i livsfare efter knivstik på S-togsstation",
