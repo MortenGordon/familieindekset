@@ -1,6 +1,62 @@
 {
- "opdateret": "2026-09-25T06:32:03.134Z",
+ "opdateret": "2026-09-25T07:27:13.834Z",
  "artikler": [
+  {
+   "titel": "Weekender og aftener skal nedbringe ventetiden i børne- og ungepsykiatrien",
+   "resume": "Regeringen, Danske Regioner og Kommunernes Landsforening har fredag præsenteret en akutplan.",
+   "url": "https://www.berlingske.dk/politik/weekender-og-aftener-skal-nedbringe-ventetiden-i-boerne-og-ungepsykiatrien?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T07:24:51.000Z"
+  },
+  {
+   "titel": "Weekender og aftener skal nedbringe ventetiden i børne- og ungepsykiatrien",
+   "resume": "Regeringen, Danske Regioner og Kommunernes Landsforening har fredag præsenteret en akutplan.",
+   "url": "https://www.bt.dk/politik/weekender-og-aftener-skal-nedbringe-ventetiden-i-boerne-og-ungepsykiatrien?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T07:24:51.000Z"
+  },
+  {
+   "titel": "Ny akutplan skal nedbringe ventetider i børne- og ungdomspsykiatrien",
+   "resume": "Planen vil både styrke psykiatrien og den tidlige hjælp i kommunerne til børn og unge i mistrivsel.",
+   "url": "https://www.dr.dk/nyheder/indland/ny-akutplan-skal-nedbringe-ventetider-i-boerne-og-ungdomspsykiatrien",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T07:24:36.000Z"
+  },
+  {
+   "titel": "»Vi skal have stoppet den her flodbølge ind imod psykiatrien«: Regeringen afsætter en milliard kroner til at bekæmpe ventetider i børne- og ungepsykiatrien",
+   "resume": "Færre børn og unge skal vente i månedsvis på psykiatrisk udredning og behandling. Men der er også en del, der skal have hjælp, inden de overhovedet når psykiatrien for at få en diagnose.",
+   "url": "https://politiken.dk/danmark/sundhed/art10996463/Regeringen-afs%C3%A6tter-en-milliard-kroner-til-at-bek%C3%A6mpe-ventetider-i-b%C3%B8rne-og-ungepsykiatrien",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T07:15:17.000Z"
+  },
+  {
+   "titel": "Pædagogfaget bløder: - Alarmerende udvikling",
+   "resume": "En ny undersøgelse fra BUPL viser en dyster udvikling i landets daginstitutioner. Kvaliteten af børnepasningen daler i takt med antallet af pædagoger",
+   "url": "https://ekstrabladet.dk/nyheder/samfund/paedagogfaget-bloeder-det-er-alarmerende/11300651",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T07:10:24.000Z"
+  },
+  {
+   "titel": "LIVE Akutplan for børne- og ungepsykiatrien præsenteres",
+   "resume": "Regeringen, kommunerne og regionerne vil give børn og unge hurtigere hjælp til psykiatrisk behandling.",
+   "url": "https://www.dr.dk/nyheder/indland/live-akutplan-boerne-og-ungepsykiatrien-praesenteres",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T06:46:33.000Z"
+  },
+  {
+   "titel": "Friskolerne føler sig overset i regeringens 'skolepulje': Vi har samme udfordringer som de kommunale skoler",
+   "resume": "Både foreningen Friskolerne og Landdistrikternes Fællesråd opfordrer regeringen til at huske friskolerne.",
+   "url": "https://www.dr.dk/nyheder/indland/friskolerne-foeler-sig-overset-i-regeringens-skolepulje-vi-har-samme-udfordringer-som-de-kommunale",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T06:40:00.000Z"
+  },
   {
    "titel": "Børn skal lære at skrive og regne, før vi giver dem adgang til AI",
    "resume": "Kunstig intelligens kan både have positive og negative følger for vores samfund. Dansk Industri og de borgerlige partiledere har tilsyneladende kun øje for det første.",
@@ -66,7 +122,7 @@
    "dato": "2026-09-25T02:10:00.000Z"
   },
   {
-   "titel": "'Børnene kan faktisk godt kan klare sig': På nordjysk skole har de skruet ned for særbehandlingerne",
+   "titel": "'Børnene kan faktisk godt klare sig': På nordjysk skole har de skruet ned for særbehandlingerne",
    "resume": "På Gudumholm Skole er de i højere grad begyndt at sige nej, når forældre vil have særaftaler til deres børn.",
    "url": "https://www.dr.dk/nyheder/indland/boernene-kan-faktisk-godt-kan-klare-sig-paa-nordjysk-skole-har-de-skruet-ned-saerbehandlingerne",
    "kilde": "DR Indland",
@@ -192,6 +248,14 @@
    "kilde": "Folkeskolen",
    "kategori": "skole-pasning",
    "dato": "2026-09-24T13:41:51.000Z"
+  },
+  {
+   "titel": "Første år med juniormesterlære: Én ud af tre elever har ikke bestået folkeskoleeksamen",
+   "resume": "Hver tredje elev i den nye juniormesterlæreordning bestod ikke dansk og matematik denne sommer. Alligevel betragter Gribskov Kommune og skolelederen på Højby Skole ordningen som en succes. De oplever ",
+   "url": "https://www.folkeskolen.dk/foerste-aar-med-juniormesterlaere-en-ud-af-tre-elever-har-ikke-bestaaet-folkeskoleeksamen/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-24T13:13:40.000Z"
   },
   {
    "titel": "Offer var i livsfare efter knivstik på S-togsstation",
