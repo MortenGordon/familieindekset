@@ -1,13 +1,45 @@
 {
- "opdateret": "2026-09-25T07:27:13.834Z",
+ "opdateret": "2026-09-25T08:28:31.995Z",
  "artikler": [
+  {
+   "titel": "Ny forskning: Lærere gav elever fra middelklassen bedre karakterer",
+   "resume": "Karakterforskellene på elever fra gode og mindre gode socioøkonomiske forhold er faldet, efter at elevernes egen lærer ikke længere deltager i bedømmelsen af de skriftlige afgangsprøver The post Ny fo",
+   "url": "https://www.folkeskolen.dk/ny-forskning-laerere-gav-elever-fra-middelklassen-bedre-karakterer/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-25T08:27:18.000Z"
+  },
+  {
+   "titel": "Ny eksamensform mindsker sociale forskelle i karakterer",
+   "resume": "Frem til 2016 blev skriftlige afgangsprøver i dansk bedømt af lærer og censor. Siden har det kun været censor.",
+   "url": "https://www.bt.dk/samfund/ny-eksamensform-mindsker-sociale-forskelle-i-karakterer?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T08:23:49.000Z"
+  },
+  {
+   "titel": "Ny eksamensform mindsker sociale forskelle i karakterer",
+   "resume": "Frem til 2016 blev skriftlige afgangsprøver i dansk bedømt af lærer og censor. Siden har det kun været censor.",
+   "url": "https://www.berlingske.dk/danmark/ny-eksamensform-mindsker-sociale-forskelle-i-karakterer?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T08:23:47.000Z"
+  },
+  {
+   "titel": "Sigtet for voldtægtsforsøg: Viklede hundesnore om ung kvindes hals",
+   "resume": "",
+   "url": "https://www.bt.dk/krimi/sigtet-for-voldtaegtsforsoeg-viklede-hundesnore-om-ung-kvindes-hals?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T08:22:28.000Z"
+  },
   {
    "titel": "Weekender og aftener skal nedbringe ventetiden i børne- og ungepsykiatrien",
    "resume": "Regeringen, Danske Regioner og Kommunernes Landsforening har fredag præsenteret en akutplan.",
    "url": "https://www.berlingske.dk/politik/weekender-og-aftener-skal-nedbringe-ventetiden-i-boerne-og-ungepsykiatrien?referrer=RSS",
    "kilde": "Berlingske",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-25T07:24:51.000Z"
+   "dato": "2026-09-25T08:01:47.000Z"
   },
   {
    "titel": "Weekender og aftener skal nedbringe ventetiden i børne- og ungepsykiatrien",
@@ -15,7 +47,31 @@
    "url": "https://www.bt.dk/politik/weekender-og-aftener-skal-nedbringe-ventetiden-i-boerne-og-ungepsykiatrien?referrer=RSS",
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
-   "dato": "2026-09-25T07:24:51.000Z"
+   "dato": "2026-09-25T08:01:46.000Z"
+  },
+  {
+   "titel": "Bertel Haarder efter PISA: Pas på de pædagogiske blålys",
+   "resume": "Det er respekten for skolen, lærerne og fagenes vigtighed, der giver lærerne den autoritet, der skal til, for at børnene lærer, hvad de skal.",
+   "url": "https://www.berlingske.dk/kommentatorer/bertel-haarder-efter-pisapas-paa-de-paedagogiske-blaalys?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T08:00:01.000Z"
+  },
+  {
+   "titel": "Mere end 600 stuer har ikke en eneste fast pædagog, viser undersøgelse",
+   "resume": "6 ud af 10 pædagoger svarer, at de altid eller ofte går hjem med dårlig samvittighed over ikke at kunne gøre det godt nok for børnene.",
+   "url": "https://www.dr.dk/nyheder/indland/mere-end-600-stuer-har-ikke-en-eneste-fast-paedagog-viser-undersoegelse",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T07:43:16.000Z"
+  },
+  {
+   "titel": "Nu er den på plads: Her er akutplanen for børne- og ungdomspsykiatrien",
+   "resume": "Regeringen, Danske Regioner og Kommunernes Landsforening har fredag præsenteret en akutplan",
+   "url": "https://ekstrabladet.dk/nyheder/politik/nu-er-den-paa-plads-her-er-akutplanen-for-boerne-og-ungdomspsykiatrien/11300726",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-25T07:31:27.000Z"
   },
   {
    "titel": "Ny akutplan skal nedbringe ventetider i børne- og ungdomspsykiatrien",
@@ -42,7 +98,7 @@
    "dato": "2026-09-25T07:10:24.000Z"
   },
   {
-   "titel": "LIVE Akutplan for børne- og ungepsykiatrien præsenteres",
+   "titel": "LIVE Akutplan for børne- og ungepsykiatrien præsenteret",
    "resume": "Regeringen, kommunerne og regionerne vil give børn og unge hurtigere hjælp til psykiatrisk behandling.",
    "url": "https://www.dr.dk/nyheder/indland/live-akutplan-boerne-og-ungepsykiatrien-praesenteres",
    "kilde": "DR Indland",
@@ -80,6 +136,14 @@
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-25T06:06:47.000Z"
+  },
+  {
+   "titel": "Børne- og ungepsykiatrien er blevet Mette Frederiksens problem. Nu skal regionerne vise resultater",
+   "resume": "<p>Regeringen fors&#248;ger med sin nye akutplan b&#229;de at skaffe mere kapacitet her og nu og at forhindre, at lige s&#229; mange b&#248;rn ender i k&#248; til psykiatrien. Det er et stort politisk",
+   "url": "https://www.altinget.dk/artikel/boerne-og-ungepsykiatrien-er-blevet-mette-frederiksens-problem-nu-skal-regionerne-vise-resultater",
+   "kilde": "Altinget",
+   "kategori": "skole-pasning",
+   "dato": "2026-09-25T05:29:00.000Z"
   },
   {
    "titel": "Molotovcocktail kastet mod børnefamilies vindue: 'Vi er alle i chok'",
@@ -320,6 +384,14 @@
    "kilde": "Ekstra Bladet",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-24T09:06:22.000Z"
+  },
+  {
+   "titel": "Ny tand efter graviditeten? Det skal du vide om tandimplantat",
+   "resume": "Graviditet og amning kan gøre mere ved dine tænder, end du måske tror. Hormonerne påvirker tandkødet, kvalmeperioden kan have givet syreskader, og mange kvinder opdager efter barselsorlovens kaos, at ",
+   "url": "https://min-mave.dk/artikel/lb-artikler/sponsoreret-artikler/ny-tand-efter-graviditeten-det-skal-du-vide-om-tandimplantat",
+   "kilde": "Min Mave",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-09-24T08:12:09.000Z"
   },
   {
    "titel": "Nomineret til særprisen ”Skolens Teknologier”: AI kan støtte elevers skriftlige sprogudvikling i engelsk, når lærerens rammesætning er tydelig",
