@@ -1,6 +1,38 @@
 {
- "opdateret": "2026-09-28T06:35:19.542Z",
+ "opdateret": "2026-09-28T07:29:35.854Z",
  "artikler": [
+  {
+   "titel": "Otte kommuner dumper krav om antal ansatte i børnehaverne",
+   "resume": "Der skal være mindst én pædagogisk ansat til seks børn i børnehaverne. Otte kommuner dumper kravet.",
+   "url": "https://politiken.dk/danmark/art10999397/Otte-kommuner-dumper-krav-om-antal-ansatte-i-b%C3%B8rnehaverne",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-28T07:26:20.000Z"
+  },
+  {
+   "titel": "Færre kommuner dumper krav om antal ansatte i børnehaverne",
+   "resume": "Der skal være mindst én pædagogisk ansat til seks børn i børnehaverne. Otte kommuner dumper kravet.",
+   "url": "https://www.berlingske.dk/danmark/faerre-kommuner-dumper-krav-om-antal-ansatte-i-boernehaverne?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-28T07:25:55.000Z"
+  },
+  {
+   "titel": "Færre kommuner dumper krav om antal ansatte i børnehaverne",
+   "resume": "Der skal være mindst én pædagogisk ansat til seks børn i børnehaverne. Otte kommuner dumper kravet.",
+   "url": "https://www.bt.dk/samfund/faerre-kommuner-dumper-krav-om-antal-ansatte-i-boernehaverne?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-28T07:25:55.000Z"
+  },
+  {
+   "titel": "Ingen ændring i antallet af pædagoger per barn i dagsinstitutionerne",
+   "resume": "Antallet af pædagoger per barn i daginstitutioner lå i 2025 på stort set samme niveau som året før.",
+   "url": "https://www.dr.dk/nyheder/indland/ingen-aendring-i-antallet-af-paedagoger-per-barn-i-dagsinstitutionerne",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-28T06:54:16.000Z"
+  },
   {
    "titel": "Unge mænd står i kø til hjemmeplejen i Sønderborg: 'Det er som om, det er blevet cool at være noget for andre'",
    "resume": "I Sønderborg Kommune oplever de større interesse for hjemmeplejen fra de unge mænd.",
