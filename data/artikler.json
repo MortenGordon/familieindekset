@@ -1,6 +1,62 @@
 {
- "opdateret": "2026-09-28T07:29:35.854Z",
+ "opdateret": "2026-09-28T08:30:44.390Z",
  "artikler": [
+  {
+   "titel": "Landsretten dømmer pædagog til forvaring for overgreb på børn",
+   "resume": "En 53-årig pædagog, der er idømt forvaring for overgreb på børn, brændemærkede et af sine ofre.",
+   "url": "https://www.bt.dk/krimi/landsretten-doemmer-paedagog-til-forvaring-for-overgreb-paa-boern?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-28T08:27:48.000Z"
+  },
+  {
+   "titel": "Landsretten dømmer pædagog til forvaring for overgreb på børn",
+   "resume": "En 53-årig pædagog, der er idømt forvaring for overgreb på børn, brændemærkede et af sine ofre.",
+   "url": "https://www.berlingske.dk/indland/landsretten-doemmer-paedagog-til-forvaring-for-overgreb-paa-boern?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-28T08:27:47.000Z"
+  },
+  {
+   "titel": "Teenagere sigtet for at planlægge skoleangreb skal fortsat være fængslet",
+   "resume": "Mens politiet efterforsker mistanke om et planlagt terrorangreb, sidder tre drenge fængslet på institution.",
+   "url": "https://www.bt.dk/krimi/teenagere-sigtet-for-at-planlaegge-skoleangreb-skal-fortsat-vaere-faengslet?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-28T08:19:01.000Z"
+  },
+  {
+   "titel": "Teenagere sigtet for at planlægge skoleangreb skal fortsat være fængslet",
+   "resume": "Mens politiet efterforsker mistanke om et planlagt terrorangreb, sidder tre drenge fængslet på institution.",
+   "url": "https://www.berlingske.dk/indland/teenagere-sigtet-for-at-planlaegge-skoleangreb-skal-fortsat-vaere-faengslet?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-28T08:18:57.000Z"
+  },
+  {
+   "titel": "Færre kommuner dumper krav om antal ansatte i børnehaverne",
+   "resume": "Der skal være mindst én pædagogisk ansat til seks børn i børnehaverne. Otte kommuner dumper kravet.",
+   "url": "https://www.berlingske.dk/danmark/faerre-kommuner-dumper-krav-om-antal-ansatte-i-boernehaverne?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-28T08:18:54.000Z"
+  },
+  {
+   "titel": "Færre kommuner dumper krav om antal ansatte i børnehaverne",
+   "resume": "Der skal være mindst én pædagogisk ansat til seks børn i børnehaverne. Otte kommuner dumper kravet.",
+   "url": "https://www.bt.dk/samfund/faerre-kommuner-dumper-krav-om-antal-ansatte-i-boernehaverne?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-28T08:18:54.000Z"
+  },
+  {
+   "titel": "Voldtog flere børn: Forvaring til klubpædagog:",
+   "resume": "Den 53-årige klubpædagog Jesper Witte har mandag fået stadfæstet sin forvaringsdom i Østre Landsret for voldtægt og seksuelle krænkelser af børn",
+   "url": "https://ekstrabladet.dk/krimi/voldtog-flere-boern-forvaring-til-klubpaedagog/11303121",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-28T07:30:42.000Z"
+  },
   {
    "titel": "Otte kommuner dumper krav om antal ansatte i børnehaverne",
    "resume": "Der skal være mindst én pædagogisk ansat til seks børn i børnehaverne. Otte kommuner dumper kravet.",
@@ -10,24 +66,8 @@
    "dato": "2026-09-28T07:26:20.000Z"
   },
   {
-   "titel": "Færre kommuner dumper krav om antal ansatte i børnehaverne",
-   "resume": "Der skal være mindst én pædagogisk ansat til seks børn i børnehaverne. Otte kommuner dumper kravet.",
-   "url": "https://www.berlingske.dk/danmark/faerre-kommuner-dumper-krav-om-antal-ansatte-i-boernehaverne?referrer=RSS",
-   "kilde": "Berlingske",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-28T07:25:55.000Z"
-  },
-  {
-   "titel": "Færre kommuner dumper krav om antal ansatte i børnehaverne",
-   "resume": "Der skal være mindst én pædagogisk ansat til seks børn i børnehaverne. Otte kommuner dumper kravet.",
-   "url": "https://www.bt.dk/samfund/faerre-kommuner-dumper-krav-om-antal-ansatte-i-boernehaverne?referrer=RSS",
-   "kilde": "B.T.",
-   "kategori": "hverdagslogistik",
-   "dato": "2026-09-28T07:25:55.000Z"
-  },
-  {
-   "titel": "Ingen ændring i antallet af pædagoger per barn i dagsinstitutionerne",
-   "resume": "Antallet af pædagoger per barn i daginstitutioner lå i 2025 på stort set samme niveau som året før.",
+   "titel": "Ingen ændring i antallet af medarbejdere per barn i dagsinstitutionerne",
+   "resume": "Antallet af medarbejdere per barn i daginstitutioner lå i 2025 på stort set samme niveau som året før.",
    "url": "https://www.dr.dk/nyheder/indland/ingen-aendring-i-antallet-af-paedagoger-per-barn-i-dagsinstitutionerne",
    "kilde": "DR Indland",
    "kategori": "hverdagslogistik",
@@ -1216,6 +1256,14 @@
    "kilde": "Folkeskolen",
    "kategori": "skole-pasning",
    "dato": "2026-09-24T13:41:51.000Z"
+  },
+  {
+   "titel": "Poleret teaterforestilling om Yahya Hassans dysfunktionelle familie",
+   "resume": "’Familien Hassan’ om den afdøde digter Yahya Hassan på Det Kongelige Teater er næsten blevet for smuk",
+   "url": "https://www.information.dk/kultur/anmeldelse/2026/09/poleret-teaterforestilling-yahya-hassans-dysfunktionelle-familie",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-24T13:10:40.000Z"
   },
   {
    "titel": "Offer var i livsfare efter knivstik på S-togsstation",
