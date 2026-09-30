@@ -1,6 +1,70 @@
 {
- "opdateret": "2026-09-30T03:28:37.908Z",
+ "opdateret": "2026-09-30T04:29:11.275Z",
  "artikler": [
+  {
+   "titel": "Efter 34 år: Kristi Noem skal skilles",
+   "resume": "Kristi og Bryon Noem blev gift i 1992 og har tre voksne børn sammen.",
+   "url": "https://www.bt.dk/udland/efter-34-aar-kristi-noem-skal-skilles?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-30T04:28:10.000Z"
+  },
+  {
+   "titel": "Gymnasieelevers brug af kunstig intelligens er kortlagt. Forsker er både overrasket og bekymret",
+   "resume": "Mere end hver tredje gymnasieelev har svært ved selv at komme i gang med en opgave uden ai, viser ny rapport. Forsker mener, at der er noget større på spil end blot en snak om snyd. Men der gemmer sig",
+   "url": "https://politiken.dk/danmark/uddannelse/undervisningsprisen/art10982631/Gymnasieelevers-brug-af-kunstig-intelligens-er-kortlagt.-Forsker-er-b%C3%A5de-overrasket-og-bekymret",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-30T04:24:17.000Z"
+  },
+  {
+   "titel": "Børn og unge overfalder og ydmyger jævnaldrende og deler det på sociale medier",
+   "resume": "Her er alt, du skal vide, for at komme i gang med dagen.",
+   "url": "https://www.berlingske.dk/dagens-overblik/boern-og-unge-overfalder-og-ydmyger-jaevnaldrende-og-deler-det-paa-sociale-medier?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-30T04:10:17.000Z"
+  },
+  {
+   "titel": "Pierre Collignon: Derfor bringer vi voldsvideoer med børn",
+   "resume": "",
+   "url": "https://www.berlingske.dk/samfund/pierre-collignon-derfor-bringer-vi-voldsvideoer-med-boern?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-30T04:04:09.000Z"
+  },
+  {
+   "titel": "Berlingske har undersøgt de farlige børn på nettet. Her kan du læse om vores metoder og etiske overvejelser",
+   "resume": "Hvorfor viser Berlingske de voldsomme ydmygelsesvideoer af børn og unge? Og hvordan har vi fundet frem til dem? Læs om metoder og etiske overvejelser bag Berlingskes seneste afsløringer i serien »Farl",
+   "url": "https://www.berlingske.dk/indland/berlingske-har-undersoegt-de-farlige-boern-paa-nettet-her-kan-du-laese-om-vores-metoder-og-etiske-overvejelser?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-30T04:02:55.000Z"
+  },
+  {
+   "titel": "Tæsk, trusler og udskamning. Danske børn og unge ydmyges i videoer på sociale medier",
+   "resume": "Børn og unge tæsker, truer og nedværdiger andre børn i ydmygelsesvideoer. Videoerne deles igen og igen på sociale medier, hvor de unge ofre bliver udstillet. Fænomenet vækker bekymring blandt eksperte",
+   "url": "https://www.berlingske.dk/indland/taesk-trusler-og-udskamning-danske-boern-og-unge-ydmyges-i-videoer-paa-sociale-medier?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-30T04:02:21.000Z"
+  },
+  {
+   "titel": "»Sig, du er en luder« og »kys min sko«. Med en falsk profil fandt vi 58 videoer, hvor danske unge tæves og ydmyges",
+   "resume": "På sociale medier som TikTok, Snapchat og Telegram gemmer sig stribevis af videoer med brutale ydmygelser og overfald på danske børn og unge. Berlingske fik med en falsk profil et sjældent kig ned i a",
+   "url": "https://www.berlingske.dk/indland/sig-du-er-en-luder-og-kys-min-sko-med-en-falsk-profil-fandt-vi-58-videoer-hvor-danske-unge-taeves-og-ydmyges?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-30T04:00:49.000Z"
+  },
+  {
+   "titel": "Naboer til krudtfabrik: 'Hvis det er for farligt til en børnehave – hvorfor må vores børn så bo her?'",
+   "resume": "Familier tæt på kommende ammunitionsfabrik kritiserer staten for manglende information om deres sikkerhed og fremtid.",
+   "url": "https://www.dr.dk/nyheder/naboer-til-krudtfabrik-hvis-det-er-farligt-til-en-boernehave-hvorfor-maa-vores-boern-saa-bo-her",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-30T03:30:00.000Z"
+  },
   {
    "titel": "Der er håb i luften i Budapest. Men de unge holder øje med Orbáns efterfølger",
    "resume": "<p>Viktor Orb&#225;n er v&#230;k, og troen p&#229; forandring er tilbage. Men P&#233;ter Magyar har ikke frit spil. Ungarerne har nemlig opdaget, at magthavere kan v&#230;ltes, og de er klar til at g&",
@@ -53,6 +117,14 @@
    "titel": "»Der sker så mange frygtelige ting i familier, som man helst ikke vil tale om«",
    "resume": "»Jeg synes, at familien som koncept er megauhyggelig«, siger den forfatter Maria Dixen, der trækker på sine egne klaustrofobiske oplevelser med familierelationer, når hun skriver sine anmelderroste bø",
    "url": "https://politiken.dk/kultur/boger/art10965818/%C2%BBDer-sker-s%C3%A5-mange-frygtelige-ting-i-familier-som-man-helst-ikke-vil-tale-om%C2%AB",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-09-29T20:05:00.000Z"
+  },
+  {
+   "titel": "»Det lille håb, der var blevet tændt i mig, blev fuldstændig slukket på Forfatterskolen«",
+   "resume": "»Jeg synes, at familien som koncept er megauhyggelig«, siger forfatter Maria Dixen, der trækker på sine egne klaustrofobiske oplevelser med familierelationer, når hun skriver sine anmelderroste bøger.",
+   "url": "https://politiken.dk/kultur/boger/art10965818/%C2%BBDet-lille-h%C3%A5b-der-var-blevet-t%C3%A6ndt-i-mig-blev-fuldst%C3%A6ndig-slukket-p%C3%A5-Forfatterskolen%C2%AB",
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-09-29T20:05:00.000Z"
