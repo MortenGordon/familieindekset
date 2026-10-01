@@ -1,6 +1,30 @@
 {
- "opdateret": "2026-10-01T08:32:12.101Z",
+ "opdateret": "2026-10-01T09:30:24.194Z",
  "artikler": [
+  {
+   "titel": "Prisnominerede Mathilde og Birgitte: Vi skal give eleverne konkrete strategier til at bruge AI kritisk",
+   "resume": "Kunstig intelligens kan understøtte digital dannelse, når elever lærer at bruge teknologien som sparringspartner, analyseværktøj og genstand for kritisk vurdering, skriver Mathilde Kofoed og Birgitte ",
+   "url": "https://www.folkeskolen.dk/prisnominerede-mathilde-og-birgitte-vi-skal-give-eleverne-konkrete-strategier-til-at-bruge-ai-kritisk/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-01T09:20:22.000Z"
+  },
+  {
+   "titel": "Drabstiltalt kan ikke huske at have skudt sin ekskæreste",
+   "resume": "En 52-årig drabstiltalt mand truede sin ekskæreste med at dræbe hende og hendes børn, forklarer vidne.",
+   "url": "https://www.berlingske.dk/indland/drabstiltalt-kan-ikke-huske-at-have-skudt-sin-ekskaereste?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-01T09:13:49.000Z"
+  },
+  {
+   "titel": "Drabstiltalt kan ikke huske at have skudt sin ekskæreste",
+   "resume": "En 52-årig drabstiltalt mand truede sin ekskæreste med at dræbe hende og hendes børn, forklarer vidne.",
+   "url": "https://www.bt.dk/krimi/drabstiltalt-kan-ikke-huske-at-have-skudt-sin-ekskaereste?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-01T09:13:49.000Z"
+  },
   {
    "titel": "Prisnominerede Liv: Hjælp eleverne med at koble følelser med fagsprog i kristendomskundskab",
    "resume": "Udtryk som ”jeg synes” og ”jeg føler” er blevet en tendens i kristendomskundskab, skriver Liv Helgesen. For at hjælpe elevernes fagsprog på vej, har hun udviklet to modeller for dialogisk faglighed og",
@@ -37,6 +61,14 @@
    "titel": "Barnets sygedag er stadig ikke en reel ret for mange ansatte på hospitalerne",
    "resume": "Jordemødre, sygeplejersker og andre ansatte i landets regioner har en særlig regel, som kan afskære dem fra barnets sygedag. To undersøgelser tyder på, at der gives mange afslag.",
    "url": "https://politiken.dk/danmark/oekonomi/art10993164/Barnets-sygedag-er-stadig-ikke-en-reel-ret-for-mange-ansatte-p%C3%A5-hospitalerne",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-01T06:58:51.000Z"
+  },
+  {
+   "titel": "Da jordemoderen ringede for at melde afbud med et sygt barn derhjemme, fik hun nej. Det er ikke usædvanligt",
+   "resume": "Jordemødre, sygeplejersker og andre ansatte i landets regioner har en særlig regel, som kan afskære dem fra barnets sygedag. To undersøgelser tyder på, at der gives mange afslag.",
+   "url": "https://politiken.dk/danmark/oekonomi/art10993164/Da-jordemoderen-ringede-for-at-melde-afbud-med-et-sygt-barn-derhjemme-fik-hun-nej.-Det-er-ikke-us%C3%A6dvanligt",
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-10-01T06:58:51.000Z"
@@ -371,7 +403,7 @@
   },
   {
    "titel": "Skoler og plejehjem lukker. Budgetaftale på plads i en af landets fattigste kommuner",
-   "resume": "Lolland sparer netto 53 millioner næste år, det stiger til 173 millioner i 2030",
+   "resume": "Lolland sparer netto 53 millioner næste år, det stiger til 173 millioner i 2030 i følge økonomidirektør Thomas de Richelieu.",
    "url": "https://www.dr.dk/nyheder/indland/skoler-og-plejehjem-lukker-budgetaftale-paa-plads-i-en-af-landets-fattigste-kommuner",
    "kilde": "DR Indland",
    "kategori": "hverdagslogistik",
