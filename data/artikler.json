@@ -1,6 +1,62 @@
 {
- "opdateret": "2026-10-03T12:32:48.913Z",
+ "opdateret": "2026-10-03T17:16:01.247Z",
  "artikler": [
+  {
+   "titel": "Fædre patruljerer mod overfald i skov – nu skaber initiativet splittelse på Borgen",
+   "resume": "Efter to overfald på kvinder i Riis Skov i Aarhus er lokale fædre begyndt at »patruljere« i området. Østjyllands Politi advarer mod initiativet, og sagen deler nu retsordførerne på Christiansborg.",
+   "url": "https://www.berlingske.dk/politik/faedre-patruljerer-mod-overfald-i-skov--nu-skaber-initiativet-splittelse-paa-borgen?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T16:54:27.000Z"
+  },
+  {
+   "titel": "Dansk skuespillerinde gravid: Føder om en måned",
+   "resume": "Efter flere års forhold deler parret nu en stor nyhed",
+   "url": "https://ekstrabladet.dk/underholdning/dkkendte/foeder-om-en-maaned-marie-bach-hansen-er-gravid/11309254",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T16:53:41.000Z"
+  },
+  {
+   "titel": "Vild støvsuger-succes: Familien scorer 6,5 milliarder",
+   "resume": "Dyson-familien har fået udbetalt 750 millioner pund fra støvsugerimperiet. Det er næsten dobbelt så meget som selskabets overskud i seneste regnskab",
+   "url": "https://ekstrabladet.dk/penge/skruer-op-for-stoevsugeren-dyson-familien-scorer-65-milliarder/11309068",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T16:48:04.000Z"
+  },
+  {
+   "titel": "Politiet melder ud: Familien savner hende",
+   "resume": "",
+   "url": "https://www.bt.dk/krimi/politiet-melder-ud-familien-savner-hende?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T16:37:00.000Z"
+  },
+  {
+   "titel": "Voldsomme protester: Lærer overhældt med benzin",
+   "resume": "Læreren fortæller om en 'brændende fornemmelse i øjet'.",
+   "url": "https://www.bt.dk/udland/voldsomme-protester-laerer-overhaeldt-med-benzin?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T16:15:41.000Z"
+  },
+  {
+   "titel": "Se, hvem fik næsten statsborgerskab? Muslimer, europæere eller unge født i Danmark",
+   "resume": "De var godkendt til statsborgerskab, men så faldt loven bort. Nu venter de uden at kende de nye regler. Se, hvem de er.",
+   "url": "https://www.dr.dk/nyheder/indland/se-hvem-fik-naesten-statsborgerskab-muslimer-europaeere-eller-unge-foedt-i-danmark",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T16:00:00.000Z"
+  },
+  {
+   "titel": "Hvorfor kan mænd ikke få lov at sige nej til forældreskab? Her er de sædvanlige spørgsmål – og mine svar",
+   "resume": "Indvendingerne mod mænds mulighed for at frasige sig forældreskabet er mange. Argumenterne er knap så mange. Jeg svarer her på dem, der bliver ved med at gå igen.",
+   "url": "https://www.berlingske.dk/kommentatorer/hvorfor-kan-maend-ikke-faa-lov-at-sige-nej-til-foraeldreskab-her-er-de-saedvanlige-spoergsmaal--og-mine-svar?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T15:11:06.000Z"
+  },
   {
    "titel": "23-årig kvinde død efter taxaulykke i Grønland",
    "resume": "En ung kvinde blev natten til lørdag påkørt af en taxa i det centrale Nuuk, hvorefter hun afgik ved døden",
@@ -18,7 +74,7 @@
    "dato": "2026-10-03T12:04:38.000Z"
   },
   {
-   "titel": "Cecilia bekæmper ensomhed ved at invitere fremmede til pizza og bartur. 'Det kan være rigtigt svært at finde venner i dag'",
+   "titel": "Cecilia bekæmper ensomhed ved at invitere fremmede til pizza og bartur: 'Det kan være rigtigt svært at finde venner i dag'",
    "resume": "Ifølge Cecilias mor var det nemmere at få venner i gamle dage",
    "url": "https://www.dr.dk/nyheder/indland/cecilia-bekaemper-ensomhed-ved-invitere-fremmede-til-pizza-og-bartur-det-kan-vaere-rigtigt-svaert",
    "kilde": "DR Indland",
@@ -176,6 +232,14 @@
    "kilde": "Berlingske",
    "kategori": "hverdagslogistik",
    "dato": "2026-10-02T17:26:47.000Z"
+  },
+  {
+   "titel": "Ildsjælslærer vinder hæderspris: Insisterer på, at elever uden sprog får en stemme",
+   "resume": "Fredag blev Københavns Lærerforenings Gyldne Pegepind givet til en lærer, der gør en helt særlig indsats for, at elever med svære fysiske og psykiske handicap oplever, at de har indflydelse på deres e",
+   "url": "https://www.folkeskolen.dk/ildsjaelslaerer-vinder-haederspris-insisterer-paa-at-elever-uden-sprog-faar-en-stemme/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-02T17:15:00.000Z"
   },
   {
    "titel": "81-årige Oda vil være skoleven og sikre, at børnene får nok omsorg",
