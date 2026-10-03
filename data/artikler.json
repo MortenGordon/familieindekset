@@ -1,6 +1,86 @@
 {
- "opdateret": "2026-10-03T01:11:52.597Z",
+ "opdateret": "2026-10-03T06:31:52.893Z",
  "artikler": [
+  {
+   "titel": "Teenagere tiltalt: Lejlighed med tre børn blev ramt af skudbyge",
+   "resume": "Anklager mener, at teenagere forsøgte at slå en familie på fem ihjel i Kastrup som en bestillingsopgave.",
+   "url": "https://www.berlingske.dk/indland/teenagere-tiltalt-lejlighed-med-tre-boern-blev-ramt-af-skudbyge?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T06:17:44.000Z"
+  },
+  {
+   "titel": "Teenagere tiltalt: Lejlighed med tre børn blev ramt af skudbyge",
+   "resume": "Anklager mener, at teenagere forsøgte at slå en familie på fem ihjel i Kastrup som en bestillingsopgave.",
+   "url": "https://www.bt.dk/krimi/teenagere-tiltalt-lejlighed-med-tre-boern-blev-ramt-af-skudbyge?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T06:17:44.000Z"
+  },
+  {
+   "titel": "Knap to ud af tre vil slukke for sociale medier for unge om natten",
+   "resume": "Sociale medier bør være forpligtede til at blokere unges adgang til at se indhold om natten, siger direktør.",
+   "url": "https://www.berlingske.dk/danmark/knap-to-ud-af-tre-vil-slukke-for-sociale-medier-for-unge-om-natten?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T05:57:44.000Z"
+  },
+  {
+   "titel": "Knap to ud af tre vil slukke for sociale medier for unge om natten",
+   "resume": "Sociale medier bør være forpligtede til at blokere unges adgang til at se indhold om natten, siger direktør.",
+   "url": "https://www.bt.dk/samfund/knap-to-ud-af-tre-vil-slukke-for-sociale-medier-for-unge-om-natten?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T05:57:44.000Z"
+  },
+  {
+   "titel": "Drama omkring Elon Musk: Pludselig single",
+   "resume": "Parret havde fire børn sammen.",
+   "url": "https://www.bt.dk/udland/drama-omkring-elon-musk-pludselig-single?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T05:57:21.000Z"
+  },
+  {
+   "titel": "Berlingske mener: Techgiganterne fortjener viral udskamning for deres feje svigt",
+   "resume": "Der er god grund til at være rystet over ydmygelsesvideoer, hvor børn og unge udsættes for brutal fysisk og verbal vold – og over de sociale mediers ansvarsfralæggelse.",
+   "url": "https://www.berlingske.dk/ledere/berlingske-mener-techgiganterne-fortjener-viral-udskamning-for-deres-feje-svigt?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T05:57:15.000Z"
+  },
+  {
+   "titel": "Eksperter: Danmark bryder konventioner, hvis 231 bestemte børn ikke får statsborgerskab",
+   "resume": "Børn har ret til at høre til i et land, men det bryder Danmark, når statsborgerskab længe sættes på pause, mener eksperter. Det rammer nemlig statsløse børn, der er født her.",
+   "url": "https://www.dr.dk/nyheder/indland/eksperter-danmark-bryder-konventioner-hvis-231-bestemte-boern-ikke-faar-statsborgerskab",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T05:29:00.000Z"
+  },
+  {
+   "titel": "»Det er nogle helt andre tal, end hvis pengene bare stod på en almindelig børneopsparing«",
+   "resume": "Med al sandsynlighed kan tre-årige Carl og et-årige Ebbe se frem til en solid økonomisk forlomme, når de fylder 18 år. Voksende tendens blandt børnefamilier kan give »ekstrem sneboldeffekt« over tid, ",
+   "url": "https://politiken.dk/danmark/oekonomi/art10985284/%C2%BBDet-er-nogle-helt-andre-tal-end-hvis-pengene-bare-stod-p%C3%A5-en-almindelig-b%C3%B8rneopsparing%C2%AB",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T04:59:12.000Z"
+  },
+  {
+   "titel": "For nogle børn stopper fritidstilbud efter 3. klasse - undersøgelse på vej",
+   "resume": "Ikke alle kommuner har fritidstilbud til børn efter 3. klasse. Undervisningsministeren vil afdække området",
+   "url": "https://ekstrabladet.dk/nyheder/samfund/for-nogle-boern-stopper-fritidstilbud-efter-3.-klasse-undersoegelse-paa-vej/11308710",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-03T04:41:57.000Z"
+  },
+  {
+   "titel": "Grønlandsk kommune stopper salg af alkohol",
+   "resume": "Forbuddet sker for blandt andet at beskytte børnene, oplyser kommunen Kujalleq.",
+   "url": "https://www.dr.dk/nyheder/indland/groenland/groenlandsk-kommune-stopper-salg-af-alkohol",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-02T23:20:08.000Z"
+  },
   {
    "titel": "Regering vil bruge 150 millioner på uddannet personale i dagtilbud",
    "resume": "Halvdelen af de nye penge til børneområde på finanslov skal bruges på uddannelse af pædagoger, mener regering.",
