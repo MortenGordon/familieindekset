@@ -1,6 +1,86 @@
 {
- "opdateret": "2026-10-05T09:02:19.258Z",
+ "opdateret": "2026-10-05T18:26:33.092Z",
  "artikler": [
+  {
+   "titel": "Kessler-familiens feriemareridt: 'Det var forfærdeligt'",
+   "resume": "Strandet i Asien – kunne ikke komme hjem i flere uger.",
+   "url": "https://www.bt.dk/boksning/kessler-familiens-feriemareridt-det-var-forfaerdeligt?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T18:09:42.000Z"
+  },
+  {
+   "titel": "For meget et lotteri: Lærerstuderende drømmer om ens vejledning for alle",
+   "resume": "Nogle studerende taber i praktiklotteriet. Få her næstforperson i LL Karoline Dolmers råd til praktikkoordinatorer og -lærere, som kan være med til at afhjælpe, at der er så stor forskel på de lærerst",
+   "url": "https://www.folkeskolen.dk/for-meget-et-lotteri-saadan-tager-du-ansvar-for-at-du-faar-det-fulde-ud-af-din-praktik/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-05T17:30:00.000Z"
+  },
+  {
+   "titel": "Alarm om børn i skilsmissekaos: Hjælpen kommer for sent",
+   "resume": "Familieretshuset skulle hurtigt holde møder med forældre i svære skilsmissesager. Det lykkedes ikke, og nu er målet om hurtige møder droppet.",
+   "url": "https://www.dr.dk/nyheder/indland/alarm-om-boern-i-skilsmissekaos-hjaelpen-kommer-sent",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T16:00:00.000Z"
+  },
+  {
+   "titel": "189 mennesker er indlagt efter mistanke om udbrud af pest i Rusland",
+   "resume": "I Rusland er en ung forsker død af en formodet lungeinfektion. Russiske medier oplyser, at der er mistanke om et potentielt udbrud af pest, og at flere kan være smittet. Russiske myndigheder afviser m",
+   "url": "https://politiken.dk/internationalt/art11008871/189-mennesker-er-indlagt-efter-mistanke-om-udbrud-af-pest-i-Rusland",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T15:56:58.000Z"
+  },
+  {
+   "titel": "Politiet har løsladt den anholdte efter frygt for angreb på skole",
+   "resume": "Efter at have anholdt og afhørt 19-årig om trusler har politiet valgt at sætte ham fri igen.",
+   "url": "https://politiken.dk/danmark/art11009949/Politiet-har-l%C3%B8sladt-den-anholdte-efter-frygt-for-angreb-p%C3%A5-skole",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T14:15:30.000Z"
+  },
+  {
+   "titel": "Eleverne forsvinder væk fra folkeskolen: Se hvordan det står til i din kommune",
+   "resume": "Flere og flere forældre vælger folkeskolen fra og privatskolerne til, viser ny rapport. The post Eleverne forsvinder væk fra folkeskolen: Se hvordan det står til i din kommune appeared first on Folkes",
+   "url": "https://www.folkeskolen.dk/eleverne-forsvinder-vaek-fra-folkeskolen-se-hvordan-det-staar-til-i-din-kommune/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-05T13:04:50.000Z"
+  },
+  {
+   "titel": "15-årig dreng mister hånd under protest i Frankrig",
+   "resume": "En 15-årig elev har mandag fået sprængt sin hånd af under en protest mod nedslidte skoler i Frankrig.",
+   "url": "https://politiken.dk/internationalt/art11009529/15-%C3%A5rig-dreng-mister-h%C3%A5nd-under-protest-i-Frankrig",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T11:48:13.000Z"
+  },
+  {
+   "titel": "Hun bliver bedt om at udpege sin underarm. Prompte ryger begge hænder op i armhulerne",
+   "resume": "Hvad er forskellen mellem ’underarm’ og ’under armen’ eller ru hud og udslæt? I København har man succes med en særlig sprogskole, der rykker ud til sosu-elever på plejecentre over hele kommunen.",
+   "url": "https://politiken.dk/danmark/art10974481/Hun-bliver-bedt-om-at-udpege-sin-underarm.-Prompte-ryger-begge-h%C3%A6nder-op-i-armhulerne",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T11:41:41.000Z"
+  },
+  {
+   "titel": "Voldsomme gymnasieprotester i Frankrig kan tage ny fart tirsdag",
+   "resume": "Mere end 5.000 personer er anholdt under protester, hvor unge franskmænd demonstrerer for bedre vilkår på gymnasierne. Hærværk og overfald fra unge er blevet fulgt af politivold. Politikerne skændes",
+   "url": "https://www.information.dk/udland/2026/10/voldsomme-gymnasieprotester-frankrig-kan-tage-ny-fart-tirsdag",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T11:07:29.000Z"
+  },
+  {
+   "titel": "Ragnars skilsmisse trak ud. Først efter 578 dage vidste børnene, hvor de skulle bo",
+   "resume": "Far så pludseligt ikke sine børn efter skilsmisse. Og så blev dage til måneder og år, før det var afgjort, hvor børnene skulle bo.",
+   "url": "https://www.dr.dk/nyheder/indland/ragnars-skilsmisse-trak-ud-foerst-efter-578-dage-vidste-boernene-hvor-de-skulle-bo",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T10:00:00.000Z"
+  },
   {
    "titel": "Da Melissa Hansen gik i ottende klasse, var hun på fagligt niveau med en elev i anden klasse. Det var mobningen, der »ødelagde« hende",
    "resume": "Grove beskeder og eksklusion var en del af Melissa Hansens dagligdag i folkeskolen, og det har haft store faglige og personlige konsekvenser for hendes liv. Men hendes historie er ikke enestående, for",
@@ -16,6 +96,22 @@
    "kilde": "DR Indland",
    "kategori": "hverdagslogistik",
    "dato": "2026-10-05T08:01:00.000Z"
+  },
+  {
+   "titel": "Hvor er vi henne, når en mor skal undskylde for at lave madpakke? Familien må afpolitiseres",
+   "resume": "Det er skørt, når politiske mål trumfer trangen til at drage omsorg for sit eget barn. Men desværre er politiseringen af familien så voldsom, at den har skabt et nyt fangenskab for kvinden",
+   "url": "https://www.information.dk/debat/2026/10/henne-naar-mor-undskylde-lave-madpakke-familien-maa-afpolitiseres",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T07:43:01.000Z"
+  },
+  {
+   "titel": "16-årige skal ikke reparere på årtiers fejlslagne integrationspolitik",
+   "resume": "Det er et politisk svigt at lade gymnasieelever være skakbrikker i et socialt spil. Vi skal løse problemerne langt tidligere",
+   "url": "https://www.information.dk/debat/2026/10/16-aarige-reparere-paa-aartiers-fejlslagne-integrationspolitik",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T07:21:23.000Z"
   },
   {
    "titel": "Adam Goslett har selv båret og født sit barn",
@@ -13016,14 +13112,6 @@
    "kilde": "Boerns Vilkaar",
    "kategori": "sundhed-trivsel",
    "dato": "2026-04-10T04:00:00.000Z"
-  },
-  {
-   "titel": "Excel kursus: Få styr på dine sundhedsdata og din hverdag",
-   "resume": "Dette indhold er sponsoreret. Mange forbinder måske ikke Microsoft Excel med sundhed og velvære, men faktisk spiller struktur, overblik og data en stor rolle – også når det handler om kost, maveproble",
-   "url": "https://min-mave.dk/artikel/sponsoreret-660/excel-kursus-faa-styr-paa-dine-sundhedsdata-og-din-hverdag",
-   "kilde": "Min Mave",
-   "kategori": "sundhed-trivsel",
-   "dato": "2026-04-08T10:57:35.000Z"
   }
  ]
 }
