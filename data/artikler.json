@@ -1,6 +1,22 @@
 {
- "opdateret": "2026-10-05T18:26:33.092Z",
+ "opdateret": "2026-10-06T00:48:23.846Z",
  "artikler": [
+  {
+   "titel": "Ung mand død og flere alvorligt tilskadekomne i busulykke i Sverige",
+   "resume": "40 personer befandt sig i bus, der mandag forulykkede i det sydlige Sverige. En 18-årig mand er omkommet.",
+   "url": "https://www.berlingske.dk/internationalt/ung-mand-doed-og-flere-alvorligt-tilskadekomne-i-busulykke-i-sverige?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T19:48:47.000Z"
+  },
+  {
+   "titel": "Evas far skulle vente måneder på udredning for demens",
+   "resume": "",
+   "url": "https://www.dr.dk/nyheder/indland/reels/evas-far-skulle-vente-maaneder-paa-udredning-demens",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T19:00:00.000Z"
+  },
   {
    "titel": "Kessler-familiens feriemareridt: 'Det var forfærdeligt'",
    "resume": "Strandet i Asien – kunne ikke komme hjem i flere uger.",
@@ -16,6 +32,14 @@
    "kilde": "Folkeskolen",
    "kategori": "skole-pasning",
    "dato": "2026-10-05T17:30:00.000Z"
+  },
+  {
+   "titel": "En ung mand død og flere alvorligt tilskadekomne i busulykke i Sverige",
+   "resume": "Seks til otte personer vurderes at være alvorligt sårede efter en busulykke i det sydlige Sverige.",
+   "url": "https://politiken.dk/internationalt/art11010081/En-ung-mand-d%C3%B8d-og-flere-alvorligt-tilskadekomne-i-busulykke-i-Sverige",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-05T17:17:25.000Z"
   },
   {
    "titel": "Alarm om børn i skilsmissekaos: Hjælpen kommer for sent",
