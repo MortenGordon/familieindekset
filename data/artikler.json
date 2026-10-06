@@ -1,6 +1,78 @@
 {
- "opdateret": "2026-10-06T00:48:23.846Z",
+ "opdateret": "2026-10-06T07:33:22.299Z",
  "artikler": [
+  {
+   "titel": "Mand sigtet for drabsforsøg for sprængning i september",
+   "resume": "En familie var hjemme, da der i september skete sprængning i en privat bolig i Vorre. De kom ikke til skade.",
+   "url": "https://www.bt.dk/krimi/mand-sigtet-for-drabsforsoeg-for-spraengning-i-september?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-06T07:31:48.000Z"
+  },
+  {
+   "titel": "Eksplosion i hus med familie: Sigtet for drabsforsøg",
+   "resume": "En familie var til stede i huset, da eksplosionen fandt sted",
+   "url": "https://ekstrabladet.dk/krimi/eksplosion-i-hus-med-familie-37-aarig-sigtet-for-drabsforsoeg/11311412",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-06T07:22:21.000Z"
+  },
+  {
+   "titel": "Jarl Friis-Mikkelsen hastede til hospitalet: 'Jeg var dybt rystet'",
+   "resume": "Den kendte tv-personlighed var rystet og måtte bare se sin afdøde mangeårige makker på hospitalet, selvom han frygtede at bryde ind i familiens sorg, beskriver han i ny selvbiografi",
+   "url": "https://ekstrabladet.dk/underholdning/dkkendte/jarl-friis-mikkelsen-hastede-til-hospitalet-jeg-var-dybt-rystet/11310496",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-06T07:15:54.000Z"
+  },
+  {
+   "titel": "Børn og forældre venter på, at skilsmissen lander. Dobbeltarbejde trækker den ud",
+   "resume": "Ventetiden i skilsmissesager bliver længere på grund af dobbeltarbejde, lyder det fra advokater og dommer. Politikere vil se på systemet.",
+   "url": "https://www.dr.dk/nyheder/indland/boern-og-foraeldre-venter-paa-skilsmissen-lander-dobbeltarbejde-traekker-den-ud",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-06T07:12:00.000Z"
+  },
+  {
+   "titel": "Forbrugerråd anmelder populær kreatørs indhold - alkohol og Red Bull er uegnet for børn",
+   "resume": "Forbrugerrådet Tænk har anmeldt indholdskreatør Rasmus Søndergaard til Forbrugerombudsmanden. Rådet mener, at hans samarbejde med Red Bull strider med loven for 'uegnede reklamer' til mindreårige.",
+   "url": "https://www.dr.dk/nyheder/indland/forbrugerraad-anmelder-populaer-kreatoers-indhold-alkohol-og-red-bull-er-uegnet-boern",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-06T05:00:00.000Z"
+  },
+  {
+   "titel": "Politikere vil lukke børneradio med Andreas Odbjerg og Tony Scott",
+   "resume": "Pengene og sendetilladelsen til det statsfinansierede lydunivers til børn, Huligennem, løber ud til nytår. Spørgsmålet er, om børneradioen får lov til at overleve.",
+   "url": "https://politiken.dk/kultur/medier/art11007087/Politikere-vil-lukke-b%C3%B8rneradio-med-Andreas-Odbjerg-og-Tony-Scott",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-06T04:52:31.000Z"
+  },
+  {
+   "titel": "Fund fra jernalderen: Barnekranie under stuegulvet og døde i væggen",
+   "resume": "Knogler fundet under stuegulve og på bopladser kaster nyt lys over jernalderens forhold til de døde.",
+   "url": "https://videnskab.dk/kultur-samfund/fund-fra-jernalderen-barnekranie-under-stuegulvet-og-doede-i-vaeggen/",
+   "kilde": "Videnskab.dk",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-10-06T03:30:00.000Z"
+  },
+  {
+   "titel": "ISOBRO sammenligner fradrag for støtte til syge børn og skovredning med vinduespudsning og gulvvarme",
+   "resume": "<p>I nyt politisk udspil foresl&#229;r organisationen at fjerne loftet for fradrag for velg&#248;renhed. Det er ikke f&#248;rste gang, nogen foresl&#229;r det - alligevel mener generalsekret&#230;r Ke",
+   "url": "https://www.altinget.dk/artikel/isobro-sammenligner-fradrag-for-stoette-til-syge-boern-og-skovredning-med-vinduespudsning-og-gulvvarme",
+   "kilde": "Altinget",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-06T03:00:00.000Z"
+  },
+  {
+   "titel": "Lærere ligger i trist top 10 over voldsudsatte faggrupper",
+   "resume": "Sammen med politifolk, pædagoger og sygeplejersker ligger lærerne højt på listen over dem, der oftest bliver udsat for vold og trusler på jobbet. Lærerforeningen er ikke overrasket og peger på endnu e",
+   "url": "https://www.folkeskolen.dk/laerere-ligger-i-traels-top-ti-over-voldsudsatte-faggrupper/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-06T02:49:00.000Z"
+  },
   {
    "titel": "Ung mand død og flere alvorligt tilskadekomne i busulykke i Sverige",
    "resume": "40 personer befandt sig i bus, der mandag forulykkede i det sydlige Sverige. En 18-årig mand er omkommet.",
