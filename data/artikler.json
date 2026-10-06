@@ -1,6 +1,70 @@
 {
- "opdateret": "2026-10-06T07:33:22.299Z",
+ "opdateret": "2026-10-06T15:10:44.872Z",
  "artikler": [
+  {
+   "titel": "Derfor ender engelske børn på hospitalet med huller i tænderne",
+   "resume": "To velstående velfærdsstater, så hvorfor opdager det ene land tandproblemer tidligt, mens det andet halter bagefter?",
+   "url": "https://videnskab.dk/krop-sundhed/derfor-ender-engelske-boern-paa-hospitalet-med-huller-i-taenderne/",
+   "kilde": "Videnskab.dk",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-10-06T13:58:00.000Z"
+  },
+  {
+   "titel": "Statsministeren vil indgå samfundskontrakt, der giver mere respekt og tid til lærerne",
+   "resume": "Mette Frederiksen tog hul på den nye folketingssæson med at tale om et behov for mere tid til lærerne og flere penge til skolerne. The post Statsministeren vil indgå samfundskontrakt, der giver mere r",
+   "url": "https://www.folkeskolen.dk/statsministeren-tiden-er-inde-til-en-samfundskontrakt-der-giver-med-mere-respekt-og-tid-til-laererne/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-06T12:14:18.000Z"
+  },
+  {
+   "titel": "86.000 elever deltager i protester i Frankrig",
+   "resume": "Eleverne protesterer mod højt lærerfravær, for lange undervisningsdage og nedslidte faciliteter.",
+   "url": "https://politiken.dk/internationalt/art11011312/86.000-elever-deltager-i-protester-i-Frankrig",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-06T12:08:12.000Z"
+  },
+  {
+   "titel": "Her er de nye skoletiltag på vej fra regeringen",
+   "resume": "Regeringen har tirsdag løftet sløret for, hvilke lovforslag der er på vej i den kommende tid. The post Her er de nye skoletiltag på vej fra regeringen appeared first on Folkeskolen.",
+   "url": "https://www.folkeskolen.dk/her-er-de-tiltag-regeringen-varsler-med-paa-skoleomraadet/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-06T11:20:01.000Z"
+  },
+  {
+   "titel": "Parret nåede at få 27 børn, før de blev stoppet. En vulgær idé drev dem",
+   "resume": "Da politiet trængte ind i en villa i Los Angeles, blev de mødt af et uhyggeligt syn. Her boede 21 forsømte småbørn. Ny podcast bringer os dybt ind i det uregulerede marked for børn født via kommerciel",
+   "url": "https://politiken.dk/kultur/kultur_podcast/art10974961/Parret-n%C3%A5ede-at-f%C3%A5-27-b%C3%B8rn-f%C3%B8r-de-blev-stoppet.-En-vulg%C3%A6r-id%C3%A9-drev-dem",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-06T10:59:09.000Z"
+  },
+  {
+   "titel": "Mange skoler kæmper med udadreagerende elever: Bilal ved, hvad der virker",
+   "resume": "Lærerne i ny rapport har ret, når de peger på, hvordan skoler kommer problemer med vold til livs. Det mener læreren Bilal, der har stået med voldsproblemer i skolen og løst dem. The post Mange skoler ",
+   "url": "https://www.folkeskolen.dk/mange-skoler-kaemper-med-udadreagerende-elever-bilal-ved-hvad-der-virker/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-06T09:21:52.000Z"
+  },
+  {
+   "titel": "FDM advarer mod to 'livsfarlige' autostole",
+   "resume": "På en af modellerne gik spændet op under testen af autostole til små børn.",
+   "url": "https://www.dr.dk/nyheder/indland/fdm-advarer-mod-livsfarlige-autostole",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-06T08:06:56.000Z"
+  },
+  {
+   "titel": "Prisnomineret: Brug undersøgende matematik og styrk specialskolelevers deltagelse, siger Karin",
+   "resume": "Undersøgende matematik rummer et stort potentiale for specialskoleelever, skriver Karin Mogensen i sit pædagogiske diplomprojekt, der er nomineret til en pris hos Lærerprofession.dk. The post Prisnomi",
+   "url": "https://www.folkeskolen.dk/prisnomineret-brug-undersoegende-matematik-og-styrk-specialskolelevers-deltagelse-siger-karin/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-06T08:02:00.000Z"
+  },
   {
    "titel": "Mand sigtet for drabsforsøg for sprængning i september",
    "resume": "En familie var hjemme, da der i september skete sprængning i en privat bolig i Vorre. De kom ikke til skade.",
@@ -58,7 +122,7 @@
    "dato": "2026-10-06T03:30:00.000Z"
   },
   {
-   "titel": "ISOBRO sammenligner fradrag for støtte til syge børn og skovredning med vinduespudsning og gulvvarme",
+   "titel": "Isobro sammenligner fradrag for støtte til syge børn og skovredning med vinduespudsning og gulvvarme",
    "resume": "<p>I nyt politisk udspil foresl&#229;r organisationen at fjerne loftet for fradrag for velg&#248;renhed. Det er ikke f&#248;rste gang, nogen foresl&#229;r det - alligevel mener generalsekret&#230;r Ke",
    "url": "https://www.altinget.dk/artikel/isobro-sammenligner-fradrag-for-stoette-til-syge-boern-og-skovredning-med-vinduespudsning-og-gulvvarme",
    "kilde": "Altinget",
