@@ -1,6 +1,78 @@
 {
- "opdateret": "2026-10-12T05:55:05.765Z",
+ "opdateret": "2026-10-12T15:21:55.721Z",
  "artikler": [
+  {
+   "titel": "Nødråb fra offentligt ansatte: »Jeg turde ikke gå ned til hoveddøren, mine børn var bange, det var vi alle«",
+   "resume": "Borgere har krav på at vide, hvilke medarbejdere der behandler deres sager i det offentlige. Men den ret bliver misbrugt til chikane og forfølgelse, lyder opråb fra København. Minister er enig.",
+   "url": "https://politiken.dk/danmark/art11009262/%C2%BBJeg-turde-ikke-g%C3%A5-ned-til-hovedd%C3%B8ren-mine-b%C3%B8rn-var-bange-det-var-vi-alle%C2%AB",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-12T14:58:53.000Z"
+  },
+  {
+   "titel": "7-årige Vega slipper for hospitalsbesøg hver 14. dag med nyt apparat",
+   "resume": "Et lille apparat, kaldet ’BiBi’, hjælper 7-årige Vega så meget, at familien ikke længere behøver tage turen fra Børkop til Odense Universitetshospital.",
+   "url": "https://www.dr.dk/nyheder/indland/7-aarige-vega-slipper-hospitalsbesoeg-hver-14-dag-med-nyt-apparat",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-12T10:12:00.000Z"
+  },
+  {
+   "titel": "Prisnomineret: Lad eleverne læse med fødderne, siger Andrea",
+   "resume": "Andrea Christensen har udviklet fire didaktiske principper til at arbejde med podwalks i dansk i sit bachelorprojekt, som er nomineret til prisen for årets bedste bachelorprojekt hos Lærerprofession.d",
+   "url": "https://www.folkeskolen.dk/prisnomineret-lad-eleverne-laese-med-foedderne-siger-andrea/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-12T10:00:00.000Z"
+  },
+  {
+   "titel": "To medarbejdere ramt af skud på skole i Frankrig",
+   "resume": "En 14-årig er ifølge AFP anholdt mistænkt for at stå bag skyderi mod skolepersonale med en jagtriffel.",
+   "url": "https://politiken.dk/internationalt/art11019380/To-medarbejdere-ramt-af-skud-p%C3%A5-skole-i-Frankrig",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-12T09:50:06.000Z"
+  },
+  {
+   "titel": "'Det er fristende at spille, når man keder sig': Nu vil kommune begrænse skærmene i skolen",
+   "resume": "Efter år med computeren som fast makker i klasselokalet vil Tårnby Kommune nu gøre undervisningen mindre digital.",
+   "url": "https://www.dr.dk/nyheder/indland/det-er-fristende-spille-naar-man-keder-sig-nu-vil-kommune-begraense-skaermene-i-skolen",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-12T09:43:00.000Z"
+  },
+  {
+   "titel": "Peter gik forgæves for at se elefanter med sine børn - nu har han selv lavet løsningen",
+   "resume": "På en ny hjemmeside kan man indberette, om elefanterne i København Zoo kan ses fra Frederiksberg Have.",
+   "url": "https://www.dr.dk/nyheder/indland/peter-gik-forgaeves-se-elefanter-med-sine-boern-nu-har-han-selv-lavet-loesningen",
+   "kilde": "DR Hovedstaden",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-12T09:27:00.000Z"
+  },
+  {
+   "titel": "Politiet uddeler fejlagtigt løbehjulsbøder til forældre",
+   "resume": "12 gange har politiet udstedt bøder til forældre, hvis børn er blevet taget i at køre ulovligt på elløbehjul.",
+   "url": "https://politiken.dk/danmark/art11019162/Politiet-uddeler-fejlagtigt-l%C3%B8behjulsb%C3%B8der-til-for%C3%A6ldre",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-12T08:32:37.000Z"
+  },
+  {
+   "titel": "15-årige Alma er socialt anbragt bag seks meter høje hegn med kriminelle drenge",
+   "resume": "På sikrede institutioner anbringes psykisk sårbare børn i stigende grad med unge, der er sigtet for eller har begået alvorlig kriminalitet. Gennem en unik adgang har vi fulgt 15-årige Alma og resten a",
+   "url": "https://politiken.dk/danmark/art10958493/15-%C3%A5rige-Alma-er-socialt-anbragt-bag-seks-meter-h%C3%B8je-hegn-med-kriminelle-drenge",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-12T06:30:45.000Z"
+  },
+  {
+   "titel": "Hvilken skærm er skolens skurk?",
+   "resume": "",
+   "url": "https://www.dr.dk/nyheder/indland/reels/hvilken-skaerm-er-skolens-skurk",
+   "kilde": "DR Hovedstaden",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-12T06:30:00.000Z"
+  },
   {
    "titel": "Mobilerne skal ud af klassen - men det er en helt anden skærm, der er problemet, lyder det fra skoleforskere",
    "resume": "Skoleforskere mener, at politikerne burde kigge på computerne og ikke private mobiltelefoner, hvis de vil gøre noget ved elevernes faglighed.",
@@ -58,7 +130,7 @@
    "dato": "2026-10-11T17:30:00.000Z"
   },
   {
-   "titel": "Lærer: Perspektivering er meget mere end en parentes til prøven: Den kan få eleverne til at mærke litteraturen",
+   "titel": "Lærer: Perspektivering er meget mere end en parentes til prøven",
    "resume": "Jan Frydenbjerg bombarderer sine elever med tekster. Han elsker at få eleverne til at spejle sig i teksterne eller teksterne i hinanden på kreative måder. ”Det er, når de mærker litteraturen, at den s",
    "url": "https://www.folkeskolen.dk/laerer-perspektivering-er-meget-mere-end-en-parentes-til-proeven-den-kan-faa-eleverne-til-at-maerke-litteraturen/",
    "kilde": "Folkeskolen",
