@@ -1,6 +1,30 @@
 {
- "opdateret": "2026-10-11T23:41:51.096Z",
+ "opdateret": "2026-10-12T05:55:05.765Z",
  "artikler": [
+  {
+   "titel": "Mobilerne skal ud af klassen - men det er en helt anden skærm, der er problemet, lyder det fra skoleforskere",
+   "resume": "Skoleforskere mener, at politikerne burde kigge på computerne og ikke private mobiltelefoner, hvis de vil gøre noget ved elevernes faglighed.",
+   "url": "https://www.dr.dk/nyheder/indland/mobilerne-skal-ud-af-klassen-men-det-er-en-helt-anden-skaerm-der-er-problemet-lyder-det-fra",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-12T04:00:00.000Z"
+  },
+  {
+   "titel": "3-årig stemplet som psykopat: Sådan fik børn diagnoser før i tiden",
+   "resume": "I 70 år fik problembørn psykopati-diagnosen, men så blev vi klogere, viser ny historisk gennemgang.",
+   "url": "https://videnskab.dk/kultur-samfund/treaarig-stemplet-som-psykopat-saadan-fik-boern-diagnoser-foer-i-tiden/",
+   "kilde": "Videnskab.dk",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-10-12T03:30:00.000Z"
+  },
+  {
+   "titel": "Skoleleder: Så langt rækker regeringens skolepenge",
+   "resume": "Fynsk skoleleder er glad for udsigten til flere penge til folkeskolen, men der skal meget mere til, hvis det skal gøre en forskel. The post Skoleleder: Så langt rækker regeringens skolepenge appeared ",
+   "url": "https://www.folkeskolen.dk/skoleleder-saa-langt-raekker-regeringens-skolepenge/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-12T02:31:00.000Z"
+  },
   {
    "titel": "Ung Brøndby-angriber brød måltørke efter svær sæsonstart",
    "resume": "Efter et halvt år uden mål og bøvl med skader scorede Jacob Ambæk to gange i sikker Brøndby-sejr over Lyngby.",
@@ -24,6 +48,22 @@
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-10-11T19:07:14.000Z"
+  },
+  {
+   "titel": "Forskning: Skolebibliotekarer har kompetencerne – men savner klare rammer",
+   "resume": "Skolebibliotekarer føler sig fagligt rustede til deres opgave, men de mangler ledelse og klare rammer i forhold til, hvornår, hvordan og sammen med hvem de skal vejlede. Det viser første del af en sto",
+   "url": "https://www.folkeskolen.dk/forskning-skolebibliotekarer-har-kompetencerne-men-savner-klare-rammer/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-11T17:30:00.000Z"
+  },
+  {
+   "titel": "Lærer: Perspektivering er meget mere end en parentes til prøven: Den kan få eleverne til at mærke litteraturen",
+   "resume": "Jan Frydenbjerg bombarderer sine elever med tekster. Han elsker at få eleverne til at spejle sig i teksterne eller teksterne i hinanden på kreative måder. ”Det er, når de mærker litteraturen, at den s",
+   "url": "https://www.folkeskolen.dk/laerer-perspektivering-er-meget-mere-end-en-parentes-til-proeven-den-kan-faa-eleverne-til-at-maerke-litteraturen/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-11T17:30:00.000Z"
   },
   {
    "titel": "Fransk forfatter: Indfødte hvide europæere udsættes for racisme i skolegården",
