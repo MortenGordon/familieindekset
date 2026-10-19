@@ -1,6 +1,62 @@
 {
- "opdateret": "2026-10-19T01:15:48.360Z",
+ "opdateret": "2026-10-19T06:15:21.039Z",
  "artikler": [
+  {
+   "titel": "Forældre har ondt i maven: Så dyrt er det at have et barn i den gratis folkeskole",
+   "resume": "Det har konsekvenser for børnene at stå uden for fællesskabet, når forældrene ikke kan betale, siger organisation.",
+   "url": "https://www.dr.dk/nyheder/indland/foraeldre-har-ondt-i-maven-saa-dyrt-er-det-have-et-barn-i-den-gratis-folkeskole",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-19T05:45:00.000Z"
+  },
+  {
+   "titel": "Ny forskning: Hvis du bor i denne type bolig, har du 50 procent større chance for at få børn",
+   "resume": "Danskerne får færre børn end før i tiden. Nu har forskere undersøgt betydningen af folks boligform i forhold til sandsynligheden for at få børn, og forskellene er markante.",
+   "url": "https://politiken.dk/danmark/oekonomi/art11021241/Hvis-du-bor-i-denne-type-bolig-har-du-50-procent-st%C3%B8rre-chance-for-at-f%C3%A5-b%C3%B8rn",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-19T04:59:18.000Z"
+  },
+  {
+   "titel": "Manosfæren fylder mere og mere: En lærer oplever det hos drenge helt nede i 3. klasse",
+   "resume": "En ny undersøgelse giver et indblik i, hvor meget manosfæren fylder for drenge på TikTok. Her fortæller lærere, hvordan de oplever, det påvirker drengene. The post Manosfæren fylder mere og mere: En l",
+   "url": "https://www.folkeskolen.dk/manosfaeren-fylder-mere-og-mere-en-laerer-oplever-det-hos-drenge-helt-nede-i-3-klasse/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-19T04:00:00.000Z"
+  },
+  {
+   "titel": "Unge mænds feed flyder over med kvindefjendsk indhold: De eksponeres næsten dagligt",
+   "resume": "Indhold fra den såkaldte manosfære har tidligere floreret i lukkede internetfora, men gør nu sit indtog blandt helt almindelig unge danske mænd og drenge, viser ny rapport.",
+   "url": "https://www.dr.dk/nyheder/indland/unge-maends-feed-flyder-over-med-kvindefjendsk-indhold-de-eksponeres-naesten-dagligt",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-19T04:00:00.000Z"
+  },
+  {
+   "titel": "”Hold din kæft, din luder”: Her er, hvad lærerne lægger øre til på jobbet",
+   "resume": "Elevernes sprog er blevet grovere de seneste fem år, mener syv ud af ti lærere. Her er nogle eksempler på, hvad elever siger til deres undervisere. The post ”Hold din kæft, din luder”: Her er, hvad læ",
+   "url": "https://www.folkeskolen.dk/hold-din-kaeft-din-luder-her-er-hvad-laererne-laegger-oerer-til-paa-jobbet/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-19T02:47:00.000Z"
+  },
+  {
+   "titel": "Ny undersøgelse: Elever sviner deres lærere til",
+   "resume": "Hver tredje lærer har oplevet groft og krænkende sprog fra elever i den seneste uge, viser undersøgelse. Elevernes sprog nedbryder lærernes autoritet og true den nødvendige rollefordeling i skolen, ad",
+   "url": "https://www.folkeskolen.dk/ny-undersoegelse-elever-sviner-deres-laerere-til/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-19T02:47:00.000Z"
+  },
+  {
+   "titel": "Tirsdag holder lærerne kongres: Her er de største emner",
+   "resume": "Undervisningsministeren og KL's formand besøger kongres om emner som den kommende skoletrepart, de mange ikke-læreruddannede ved katederet og et ønske om færre kongresser i fremtiden. The post Tirsdag",
+   "url": "https://www.folkeskolen.dk/tirsdag-holder-laererne-kongres-her-er-de-stoerste-emner/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-19T02:30:00.000Z"
+  },
   {
    "titel": "Afgav dopingtest ved siden af sin døde mor",
    "resume": "Valentina Cavallari havde lige mistet sin mor, da anti-dopingmyndighederne kom og bankede på",
@@ -434,7 +490,7 @@
    "dato": "2026-10-16T15:43:40.000Z"
   },
   {
-   "titel": "Prisnominerede Jonatan og Kalle: En promptet lærer kan støtte tænkning og give hurtig hjælp i matematik",
+   "titel": "Dobbeltnominerede Jonatan og Kalle: En promptet lærer kan støtte tænkning og give hurtig hjælp i matematik",
    "resume": "Kalle Thobo-Carlsen og Jonatan Stjernholms undersøgelse viser potentialer og udfordringer ved det promptdesign, de har udviklet til matematik. Deres projekt er både nomineret til prisen for årets beds",
    "url": "https://www.folkeskolen.dk/prisnominerede-jonatan-og-kalle-en-promptet-laerer-kan-stoette-taenkning-og-give-hurtig-hjaelp-i-matematik/",
    "kilde": "Folkeskolen",
