@@ -1,6 +1,78 @@
 {
- "opdateret": "2026-10-20T04:48:30.567Z",
+ "opdateret": "2026-10-20T10:03:03.584Z",
  "artikler": [
+  {
+   "titel": "Lærerformand vejrer morgenluft: Vi står et sted nu, vi kun kunne drømme om for ti år siden",
+   "resume": "Statsministeren taler om lærernes arbejdsvilkår, regeringen vil sikre folkeskolernes økonomi, og lærerne blev nævnt 40 gange på regeringens Pisa-pressemøde, fremhæver Gordon Ørskov Madsen. The post Læ",
+   "url": "https://www.folkeskolen.dk/laererformand-vejrer-morgenluft-vi-staar-et-sted-nu-vi-kun-kunne-droemme-om-for-ti-aar-siden/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-20T09:57:55.000Z"
+  },
+  {
+   "titel": "Kommune frikendes i sagen om toårige Lucas' død",
+   "resume": "Forældre får ikke medhold i søgsmål mod Slagelse Kommune. En dreng døde, og en pige fik alvorlig forstoppelse.",
+   "url": "https://www.berlingske.dk/indland/kommune-frikendes-i-sagen-om-toaarige-lucas-doed?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-20T09:36:45.000Z"
+  },
+  {
+   "titel": "Kommune frikendes i sagen om toårige Lucas' død",
+   "resume": "Forældre får ikke medhold i søgsmål mod Slagelse Kommune. En dreng døde, og en pige fik alvorlig forstoppelse.",
+   "url": "https://www.bt.dk/krimi/kommune-frikendes-i-sagen-om-toaarige-lucas-doed?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-20T09:36:45.000Z"
+  },
+  {
+   "titel": "Wow: Dansk klub med rekordomsætning",
+   "resume": "Dansk klub lander rekordomsætning",
+   "url": "https://ekstrabladet.dk/sport/haandbold/mors-thy-lander-rekordoverskud-efter-staerk-saeson/11326527",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-20T09:14:39.000Z"
+  },
+  {
+   "titel": "Australsk politiker påkørt: Kendte den mistænkte",
+   "resume": "En mistænkt mands familie i sag om påkørt australsk politiker har været venner med offeret i mere end 20 år",
+   "url": "https://ekstrabladet.dk/ferie/udland/australsk-politiker-paakoert-kendte-den-mistaenkte/11326482",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-20T09:00:22.000Z"
+  },
+  {
+   "titel": "Fem spørgsmål forældre skal stille sig selv, inden samlekorts-sæsonen går i gang",
+   "resume": "Forældre skal lægge en plan for samlekort inden december. Ellers kan de komme til at stå i en svær situation, mener organisation.",
+   "url": "https://www.dr.dk/nyheder/indland/fem-spoergsmaal-foraeldre-skal-stille-sig-selv-inden-samlekorts-saesonen-gaar-i-gang",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-20T08:19:48.000Z"
+  },
+  {
+   "titel": "Landets mest kendte grøntsagsavler fraråder sønnen at overtage gården",
+   "resume": "Søren Wiuff er landets mest kendte grøntsagsavler. Han elsker sit liv på familiegården. Alligevel er han ikke begejstret for, at sønnen Lucas vil overtage den.",
+   "url": "https://politiken.dk/danmark/art11002546/Landets-mest-kendte-gr%C3%B8ntsagsavler-frar%C3%A5der-s%C3%B8nnen-at-overtage-g%C3%A5rden",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-20T07:49:49.000Z"
+  },
+  {
+   "titel": "»Mor og far skal vide, at det her vælter ind over vores unge mænd«",
+   "resume": "Ligestillings- og beskæftigelsesminister Ane Halsboe-Jørgensen (S) er alarmeret over ny rapport om manosfærens påvirkning af danske unge. Forældre har også et kæmpe ansvar, mener hun.",
+   "url": "https://politiken.dk/kultur/art11026712/%C2%BBMor-og-far-skal-vide-at-det-her-v%C3%A6lter-ind-over-vores-unge-m%C3%A6nd%C2%AB",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-20T05:15:28.000Z"
+  },
+  {
+   "titel": "Både DR og TV 2 lancerer samlekort til årets julekalendere - og det møder kritik",
+   "resume": "Samlekort er populære, men sætter også forældre og børn under pres i en i forvejen presset juletid, mener Skole og Forældre.",
+   "url": "https://www.dr.dk/nyheder/indland/dr-og-tv-2-lancerer-begge-samlekort-til-aarets-julekalendere-nu-handler-det-om-hvor-mange-penge-man",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-20T05:00:00.000Z"
+  },
   {
    "titel": "Olivers fede aften i New York",
    "resume": "For anden gang i denne sæson scorer Bjorkstrand to gange i én kamp for sin nye klub, New York Rangers",
@@ -26,12 +98,36 @@
    "dato": "2026-10-20T04:00:00.000Z"
   },
   {
+   "titel": "Stigende mistrivsel betyder flere konflikter mellem skole og hjem",
+   "resume": "Både skole og forældre oplever samarbejdet omkring elever i mistrivsel som konfliktfyldt, viser en ny rapport fra Socialt Udviklingscenter. The post Stigende mistrivsel betyder flere konflikter mellem",
+   "url": "https://www.folkeskolen.dk/stigende-mistrivsel-betyder-flere-konflikter-mellem-skole-og-hjem/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-20T04:00:00.000Z"
+  },
+  {
    "titel": "For lidt tid og for meget uro får lærere til at føle sig stressede",
    "resume": "I en undersøgelse fra Danmarks Lærerforening føler halvdelen af lærerne sig stressede dagligt eller ugentligt.",
    "url": "https://www.bt.dk/samfund/for-lidt-tid-og-for-meget-uro-faar-laerere-til-at-foele-sig-stressede?referrer=RSS",
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
    "dato": "2026-10-20T03:32:47.000Z"
+  },
+  {
+   "titel": "Triste tal: Hver tredje lærer har været sygemeldt på grund af stress",
+   "resume": "En ny undersøgelse fra Danmarks Lærerforening afslører endnu mere alvorlige tal, end lærerformanden selv havde forventet. Men han er optimistisk i forhold til, at der endelig bliver taget fat om probl",
+   "url": "https://www.folkeskolen.dk/triste-tal-hver-tredje-laerer-har-vaeret-sygemeldt-paa-grund-af-stress/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-20T02:36:00.000Z"
+  },
+  {
+   "titel": "Lærerforeningen holder kongres i Nyborg - følg den live fra klokken 10.30",
+   "resume": "Danmarks Lærerforenings kongres er samlet på Hotel Nyborg Strand tirsdag og onsdag. Du kan følge kongressen live her. The post Lærerforeningen holder kongres i Nyborg - følg den live fra klokken 10.30",
+   "url": "https://www.folkeskolen.dk/laererforeningen-holder-kongres-i-nyborg-foelg-den-live-fra-kl-1030/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-20T02:29:00.000Z"
   },
   {
    "titel": "På 80 sider gav ung historiker mig årets største aha-oplevelse",
