@@ -1,6 +1,70 @@
 {
- "opdateret": "2026-10-21T01:34:19.683Z",
+ "opdateret": "2026-10-21T07:37:49.539Z",
  "artikler": [
+  {
+   "titel": "AI rådgiver børn: 'I yderste led kan man forestille sig to chatbots, der sms'er til hinanden gennem børn'",
+   "resume": "Rapport fra Børns Vilkår viser, at børn og unge bruger AI-chatbots som fortrolig samtalepartner og rådgiver i spørgsmål om blandt andet relationer, sundhed og diagnoser.",
+   "url": "https://www.dr.dk/nyheder/indland/ai-raadgiver-boern-i-yderste-led-kan-man-forestille-sig-chatbots-der-sms-er-til-hinanden-gennem",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-21T07:12:00.000Z"
+  },
+  {
+   "titel": "Mistænkt for påkørsel af australsk politiker havde psykiske problemer",
+   "resume": "En mand, der er anklaget for at påkøre australsk politiker, havde psykiske problemer, siger tidligere lærer.",
+   "url": "https://www.bt.dk/udland/mistaenkt-for-paakoersel-af-australsk-politiker-havde-psykiske-problemer?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-21T07:08:45.000Z"
+  },
+  {
+   "titel": "Mistænkt for påkørsel af australsk politiker havde psykiske problemer",
+   "resume": "En mand, der er anklaget for at påkøre australsk politiker, havde psykiske problemer, siger tidligere lærer.",
+   "url": "https://www.berlingske.dk/internationalt/mistaenkt-for-paakoersel-af-australsk-politiker-havde-psykiske-problemer?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-21T07:08:44.000Z"
+  },
+  {
+   "titel": "Denne gang er Elinor ikke en overfornuftig tørkiks",
+   "resume": "Vi bliver aldrig trætte af Jane Austen og Brontë-søstrene, der bliver ved med at have noget at sige til nye generationer. Denne ’Fornuft og følelse’ har valgt en ny vej til ungdommens hjerte.",
+   "url": "https://politiken.dk/kultur/film_og_tv/filmanmeldelser/art11005095/Denne-gang-er-Elinor-ikke-en-overfornuftig-t%C3%B8rkiks",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-21T07:00:38.000Z"
+  },
+  {
+   "titel": "Lego Fonden udvider sit mål: Vil bidrage til at få flere gennem lærer­uddannelsen",
+   "resume": "Lego Fondens mange støttekroner skal ikke længere alene bruges på at udbrede en legende tilgang til læring. Sporskiftet skal markeres med et endnu ukendt nyt navn. The post Lego Fonden udvider sit mål",
+   "url": "https://www.folkeskolen.dk/lego-fonden-udvider-sit-maal-vil-bidrage-til-at-faa-flere-igennem-laereruddannelsen/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-21T05:00:00.000Z"
+  },
+  {
+   "titel": "Nu rammer Trumps 'drill baby, drill' for alvor klimaets kongetal",
+   "resume": "Trumps slås for det, han kalder \"flydende guld\", og det ses nu på hele verdens klimaprognoser. Vi står i \"en ny virkelighed\", lyder det.",
+   "url": "https://www.dr.dk/nyheder/viden/klima/nu-rammer-trumps-drill-baby-drill-alvor-klimaets-kongetal",
+   "kilde": "DR Viden",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-10-21T05:00:00.000Z"
+  },
+  {
+   "titel": "Stor forskel på top- og bund-kommunen: Flere 21-årige bor stadig hos forældre",
+   "resume": "Andelen af hjemmeboende 21-årige er steget fra 32 til 57 procent siden 2011.",
+   "url": "https://politiken.dk/danmark/art11029313/Stor-forskel-p%C3%A5-top-og-bund-kommunen-Flere-21-%C3%A5rige-bor-stadig-hos-for%C3%A6ldre",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-21T04:30:45.000Z"
+  },
+  {
+   "titel": "To unge mænd sigtet for spionage i Danmark",
+   "resume": "",
+   "url": "https://www.dr.dk/nyheder/indland/reels/unge-maend-sigtet-spionage-i-danmark",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-21T03:37:20.000Z"
+  },
   {
    "titel": "Børn efter 2. verdenskrig fik næsten ingen sukker: Kan have gavnet dem senere i livet",
    "resume": "Forskere finder lavere risiko for fem kræftformer hos folk, der var spædbørn efter 2. verdenskrig, hvor ressourcerne var knappe. Konklusionen udfordres dog af dansk forsker.",
@@ -8,6 +72,38 @@
    "kilde": "Videnskab.dk",
    "kategori": "sundhed-trivsel",
    "dato": "2026-10-21T03:30:00.000Z"
+  },
+  {
+   "titel": "Flere end hver anden 21-årig bor stadig hos forældre",
+   "resume": "Andelen af hjemmeboende 21-årige er steget fra 32 til 57 procent siden 2011.",
+   "url": "https://www.dr.dk/nyheder/indland/flere-end-hver-anden-21-aarig-bor-stadig-hos-foraeldre",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-21T03:29:41.000Z"
+  },
+  {
+   "titel": "Ny rapport: AI-chatbots er blevet en mellemmand i børn og unges relationer",
+   "resume": "Børn og unge anvender AI-tjenester, når de skal formulere beskeder til venner eller familie, og de vurderer, at tjenesten giver gode råd, når de kommer til spørgsmål om relationer. Indlægget Ny rappor",
+   "url": "https://bornsvilkar.dk/nyheder/ny-rapport-ai-chatbots-er-blevet-en-mellemmand-i-born-og-unges-relationer/",
+   "kilde": "Boerns Vilkaar",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-10-21T03:00:00.000Z"
+  },
+  {
+   "titel": "DLF før trepart: Flere uddannede lærere skal hjælpe folkeskolen ud af krise",
+   "resume": "Vilkårene for lærernes arbejde skal være et centralt omdrejningspunkt i en trepart om folkeskolen, lyder budskabet til politikerne fra Danmarks Lærerforenings kongres. The post DLF før trepart: Flere ",
+   "url": "https://www.folkeskolen.dk/dlf-foer-trepart-flere-uddannede-laerere-skal-hjaelpe-folkeskolen-ud-af-krise/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-21T02:17:00.000Z"
+  },
+  {
+   "titel": "Forældreformand: Vi skal bakke op om lærerens grænse",
+   "resume": "To ud af tre lærere ser elevernes grove sprog som dårlig opdragelse. Men alle forældre ønsker børn, der taler pænt, og rammerne kan med fordel sættes af skole og forældre sammen, mener Regitze Spenner",
+   "url": "https://www.folkeskolen.dk/foraeldreformand-skole-og-foraeldre-skal-saette-rammen-for-elevernes-sprog/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-21T02:03:00.000Z"
   },
   {
    "titel": "Sadistisk netværk blandt børn har rystet Sverige. Danmark må være klar",
