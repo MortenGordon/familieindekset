@@ -1,6 +1,54 @@
 {
- "opdateret": "2026-10-22T13:46:57.579Z",
+ "opdateret": "2026-10-22T18:31:31.894Z",
  "artikler": [
+  {
+   "titel": "Vil stoppe Sass-pension",
+   "resume": "Alle Folketingets partier vil afskaffe den ordning, der udløste tidlig politikerpension til børnepornodømte Henrik Sass Larsen (S)",
+   "url": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/omstridt-politikerpension-vil-stoppe-sass-model/11329199",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-22T17:49:22.000Z"
+  },
+  {
+   "titel": "Det er ulækkert. Decideret ulækkert",
+   "resume": "’Clayface’ er historien om den unge Hollywood-stjerne, der vansires og pludselig kan vælge et væld af ansigter at gemme sig bag.",
+   "url": "https://politiken.dk/kultur/film_og_tv/filmanmeldelser/art11005925/Det-er-ul%C3%A6kkert.-Decideret-ul%C3%A6kkert",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-22T17:37:02.000Z"
+  },
+  {
+   "titel": "Engelsklærere til CFU-konsulent: Hvordan får vi alle elever med?",
+   "resume": "Forskellen på elevernes niveau i engelsk er steget og kan i dag være op til fem klassetrin i samme klasse, vurderer CFU-konsulent Lise Fenger Poulsen. Hun får ofte henvendelser fra lærere, der beder o",
+   "url": "https://www.folkeskolen.dk/engelsklaerere-til-cfu-konsulent-hvordan-faar-vi-alle-elever-med/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-22T17:37:00.000Z"
+  },
+  {
+   "titel": "Talblindhedstest skal bredere ud: “Det vil gøre en stor forskel”",
+   "resume": "Talblindshedstesten skal give lærerne en god fornemmelse af, hvor deres elever ligger fagligt, og kan være med til at gribe eleverne tidligere, mener lærer, der har afprøvet dem. The post Talblindheds",
+   "url": "https://www.folkeskolen.dk/talblindhedstest-skal-bredere-ud-det-vil-goere-en-stor-forskel/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-22T17:30:00.000Z"
+  },
+  {
+   "titel": "Skole ændrer praksis efter Aula-nedbrud: Nu printes aftalerne ud",
+   "resume": "Elever måtte vente på at komme hjem fra skole, fordi skolens henteaftaler med forældrene ikke var tilgængelige.",
+   "url": "https://www.dr.dk/nyheder/indland/skole-aendrer-praksis-efter-aula-nedbrud-nu-printes-aftalerne-ud",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-22T15:03:00.000Z"
+  },
+  {
+   "titel": "Accepterer du homoseksualitet? Venstre vil have svar fra skoleelever i Odense",
+   "resume": "Politikerne skal passe på, at forslaget ikke fører til stigmatisering, siger Odense Pride.",
+   "url": "https://www.dr.dk/nyheder/indland/accepterer-du-homoseksualitet-venstre-vil-have-svar-fra-skoleelever-i-odense",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-22T14:37:29.000Z"
+  },
   {
    "titel": "Heunicke har ikke en tryllestav, men en plan for at gøre op med volden i skolen",
    "resume": "Undervisningsminister Magnus Heunicke (S) skulle torsdag i et åbent samråd forholde sig til, at lærerjobbet nu er et højrisikofag. The post Heunicke har ikke en tryllestav, men en plan for at gøre op ",
@@ -8,6 +56,14 @@
    "kilde": "Folkeskolen",
    "kategori": "skole-pasning",
    "dato": "2026-10-22T13:40:50.000Z"
+  },
+  {
+   "titel": "Opsigtsvækkende landsretsdom: Mundtlige beretninger er bevis nok",
+   "resume": "Fem ældre borgere, der som børn var anbragt på børnehjemmet Erritsøhus, får erstatning på 300.000 kroner, selv om der stort set kun findes deres egne beretninger om overgreb",
+   "url": "https://www.information.dk/indland/2026/10/opsigtsvaekkende-landsretsdom-mundtlige-beretninger-bevis-nok",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-22T13:35:51.000Z"
   },
   {
    "titel": "Ung mand sigtet for at bedrage ældre for mindst 700.000",
@@ -154,6 +210,14 @@
    "dato": "2026-10-21T19:07:06.000Z"
   },
   {
+   "titel": "Ole sidder stadig på en knold og synger",
+   "resume": "En sangbog med omvendte kønsroller har udløst voldsomme reaktioner. Som om nye udgaver af barndommens sange var et angreb, man måtte forsvare sig imod",
+   "url": "https://www.information.dk/kultur/2026/10/ole-sidder-stadig-paa-knold-synger",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-21T18:21:46.000Z"
+  },
+  {
    "titel": "Det bliver kaldt en »epidemi af nærsynethed blandt børn«. Nu kommer øjenlæge og forsker med sine råd til at bremse udviklingen",
    "resume": "Der er sket en stor stigning i antallet af børn, som bliver nærsynede. Det kan blive problemer senere i livet, fortæller øjenlæge og forsker. Hun peger på fire ting, som kan være med til at bremse udv",
    "url": "https://www.berlingske.dk/vores-liv/det-bliver-kaldt-en-epidemi-af-naersynethed-blandt-boern-nu-kommer-oejenlaege-og-forsker-med-sine-raad-til-at-bremse-udviklingen?referrer=RSS",
@@ -216,6 +280,22 @@
    "kilde": "Ekstra Bladet",
    "kategori": "hverdagslogistik",
    "dato": "2026-10-21T12:45:11.000Z"
+  },
+  {
+   "titel": "Sådan titulerer du korrekt i Moderne Tider",
+   "resume": "Du kan kun omtale din mor som »Mor«, hvis hun også er mor til den, du taler med",
+   "url": "https://www.information.dk/moti/2026/10/saadan-titulerer-korrekt-moderne-tider",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-21T12:10:09.000Z"
+  },
+  {
+   "titel": "Nordisk Råd hædrer samisk krimi og norsk ungdomsroman",
+   "resume": "Det er ikke en litterær sladderspalte, men derfor kan der godt være lidt sladder i Bogfolk – Informations ugentlige småtingsafdeling om bøger og især dem, der skaber dem",
+   "url": "https://www.information.dk/kultur/2026/10/nordisk-raad-haedrer-samisk-krimi-norsk-ungdomsroman",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-21T11:42:06.000Z"
   },
   {
    "titel": "Venskabet kommer på prøve, fordi Dan måske er ved at gøre de andres arbejde overflødigt",
