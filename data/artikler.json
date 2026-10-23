@@ -1,6 +1,46 @@
 {
- "opdateret": "2026-10-23T07:30:30.376Z",
+ "opdateret": "2026-10-23T13:24:54.891Z",
  "artikler": [
+  {
+   "titel": "'Det er lidt en katastrofe': Nordjyske børn venter halvandet år på udredning - og det skal laves om",
+   "resume": "Et politisk topmøde skal i dag forsøge at finde løsninger på Nordjyllands stigende antal børn og unge i mistrivsel.",
+   "url": "https://www.dr.dk/nyheder/indland/det-er-lidt-en-katastrofe-nordjyske-boern-venter-halvandet-aar-paa-udredning-og-det-skal-laves-om",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-23T12:54:12.000Z"
+  },
+  {
+   "titel": "Foruroligende anklager fik Meghan til at beskytte sine børn mod sin far",
+   "resume": "Siden 2018 har Meghan holdt afstand til sin far. Efter nye beskyldninger mod ham forklarer hun hvorfor.",
+   "url": "https://www.bt.dk/udland/foruroligende-anklager-fik-meghan-til-at-beskytte-sine-boern-mod-sin-far?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-23T12:35:45.000Z"
+  },
+  {
+   "titel": "Stine fik aftenens største bifald, da 200 forældre mødte stats- og undervisningsministeren",
+   "resume": "Stine Trolle Elmholdt høstede stort bifald til forældremøde med stats- og undervisningsministeren",
+   "url": "https://www.dr.dk/nyheder/indland/mor-til-folkeskolen-mangler-fokus-paa-dannelse-og-det-skyldes-de-mange-tests",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-23T12:01:17.000Z"
+  },
+  {
+   "titel": "Heidi blev kørt ned på den skolevej, der altid har manglet en cykelsti",
+   "resume": "I 40 år har de lokale kæmpet for en cykelsti på en 'pisse-farlig' skolevej. Nu har der igen været uheld på strækningen.",
+   "url": "https://www.dr.dk/nyheder/indland/heidi-blev-koert-ned-paa-den-skolevej-der-altid-har-manglet-en-cykelsti",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-23T10:26:00.000Z"
+  },
+  {
+   "titel": "Prisnominerede Malthe og Valdemar: Inddrag konkrete steder i nærområdet for at udvikle elevernes lyttekompetencer",
+   "resume": "Stedbaseret lytning har didaktisk potentiale ved at aktivere og udvikle elevers lytning gennem forestillingsevne og indlevelse, skriver Valdemar Petersen og Malthe Prahl, der er nomineret til prisen f",
+   "url": "https://www.folkeskolen.dk/prisnominerede-malthe-og-valdemar-inddrag-konkrete-steder-i-naeromraadet-for-at-udvikle-elevernes-lyttekompetencer/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-23T09:02:45.000Z"
+  },
   {
    "titel": "Bertel Haarder: Stop den årlige finanslovskomedie. Den er både barnlig og skadelig",
    "resume": "Når regeringen som en del af det politiske spil bevidst tilbageholder helt nødvendige bevillinger, går det ud over de små institutioner, som hvert år – eller hvert fjerde år – skal opsige medarbejdere",
@@ -64,6 +104,14 @@
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-10-22T20:35:14.000Z"
+  },
+  {
+   "titel": "Regeringen vil betale busbilletten for de unge. Udenfor byerne har danskerne et helt andet ønske",
+   "resume": "<p>Mens regeringens forslag om at lade unge rejse gratis med kollektiv trafik tages godt imod i storbyerne, dr&#248;mmer man i resten af landet mere om investeringer i flere afgange. En gratis billet ",
+   "url": "https://www.altinget.dk/artikel/regeringen-vil-betale-busbilletten-for-de-unge-udenfor-byerne-har-danskerne-et-helt-andet-oenske",
+   "kilde": "Altinget",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-22T18:45:00.000Z"
   },
   {
    "titel": "Vil stoppe Sass-pension",
