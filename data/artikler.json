@@ -1,6 +1,62 @@
 {
- "opdateret": "2026-10-28T08:28:15.424Z",
+ "opdateret": "2026-10-28T15:59:58.316Z",
  "artikler": [
+  {
+   "titel": "Dansk pokalsensation: Superliga-klub sendt ud",
+   "resume": "Brabrand IF overraskede på ny og sendte onsdag Superliga-klubben AC Horsens ud af Betano Pokalen, efter at klubben fra landets tredje bedste række vandt 1-0 efter forlænget spilletid",
+   "url": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/stor-pokalsensation-brabrand-sender-ac-horsens-ud/11335891",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-28T15:03:59.000Z"
+  },
+  {
+   "titel": "Spektakulær vikingetids-opdagelse: Den første i 100 år",
+   "resume": "En ualmindeligt sjælden mønt fra vikingetiden er fundet i Norge. Mønten blev slået under kong Olav Haraldsson, bedre kendt som Olav den Hellige. Det placerer den i en lille og eksklusiv klub, da mindr",
+   "url": "https://videnskab.dk/kultur-samfund/spektakulaer-vikingetids-opdagelse-den-foerste-i-100-aar/",
+   "kilde": "Videnskab.dk",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-10-28T14:52:14.000Z"
+  },
+  {
+   "titel": "Dansk oscarmodtager filmatiserer Tine Brylds trilogi",
+   "resume": "Anders Walter står bag kameraet, når fortællingen om ungdomsværket ’Liv og Alexander’ skal vækkes til live.",
+   "url": "https://politiken.dk/kultur/film_og_tv/art11038993/Dansk-oscarmodtager-filmatiserer-Tine-Brylds-trilogi",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-28T13:25:42.000Z"
+  },
+  {
+   "titel": "Politikere: Chatbotbamser er »ekstremt skræmmende« og »dybt bekymrende«",
+   "resume": "På tværs af Folketinget er politikerne enige: Chatbotbamser er ikke den fremtid, de ønsker for vores børn. Løsningen ser de til gengæld forskelligt på.",
+   "url": "https://politiken.dk/kultur/art11036607/Politikere-Chatbotbamser-er-%C2%BBekstremt-skr%C3%A6mmende%C2%AB-og-%C2%BBdybt-bekymrende%C2%AB",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-28T13:07:03.000Z"
+  },
+  {
+   "titel": "Nicola var så bange for at blive smidt ud af Danmark, at hun tøvede med at få børn",
+   "resume": "Den canadiske kvinde var tæt på at blive dansk statsborger. Alternativet og Enhedslisten presser på for, at løfter om statsborgerskab bliver indfriet.",
+   "url": "https://www.dr.dk/nyheder/indland/nicola-var-saa-bange-blive-smidt-ud-af-danmark-hun-toevede-med-faa-boern",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-28T11:05:00.000Z"
+  },
+  {
+   "titel": "Prisnominerede Caroline og Sofie: Sprogmodeller understøtter ikke automatisk elevernes læring",
+   "resume": "Caroline Gommesen og Sofie Jacobsen har udviklet en skriveprocesmodel til at arbejde med AI i dansk på mellemtrin i deres bachelorprojekt, der er nomineret til en pris hos Lærerprofession.dk. The post",
+   "url": "https://www.folkeskolen.dk/prisnominerede-caroline-og-sofie-sprogmodeller-understoetter-ikke-automatisk-elevernes-laering/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-28T09:20:51.000Z"
+  },
+  {
+   "titel": "De blev sendt til Danmark uden deres forældres samtykke - nu øjner adopterede nyt håb",
+   "resume": "I dag er der udløbsdato på myndighedssvigt mod børn. Men nyt forslag på Christiansborg kan måske hjælpe danskere, der blev adopteret uden forældres viden.",
+   "url": "https://www.dr.dk/nyheder/indland/de-blev-sendt-til-danmark-uden-deres-foraeldres-samtykke-nu-oejner-adopterede-nyt-haab",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-28T09:17:00.000Z"
+  },
   {
    "titel": "Sigmund Freuds personlige breve kommer på dansk auktion",
    "resume": "Breve, som den danske gren af Sigmund Freuds familie har bevaret i generationer, kommer nu under hammeren.",
@@ -11,7 +67,7 @@
   },
   {
    "titel": "»I dag tager vi vores børn tilbage«: Amerikanske stjerneforskere kalder nordisk manifest et historisk vendepunkt",
-   "resume": "Amerikanske topforskere peger på, at det nordiske manifest for barndom og demokrati kan blive et vendepunkt i kampen mod en nådesløs tech- og ai-industri.",
+   "resume": "Amerikanske topprofessorer peger på, at det nordiske manifest for barndom og demokrati repræsenterer et lysende håb i kampen mod en nådesløs tech- og ai-industri.",
    "url": "https://politiken.dk/danmark/art11036764/%C2%BBI-dag-tager-vi-vores-b%C3%B8rn-tilbage%C2%AB-Amerikanske-stjerneforskere-kalder-nordisk-manifest-et-historisk-vendepunkt",
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
@@ -32,6 +88,14 @@
    "kilde": "DR Indland",
    "kategori": "hverdagslogistik",
    "dato": "2026-10-28T05:15:00.000Z"
+  },
+  {
+   "titel": "Forskere har samlet 135 studier: Sådan holder du liv i elevernes glæde ved at skrive",
+   "resume": "Mange børn mister glæden ved at skrive i løbet af deres skolegang. Nu viser en ny forskningsoversigt vej til, hvordan man som lærer kan holde skrivelysten i live gennem medbestemmelse og mindre kontro",
+   "url": "https://www.folkeskolen.dk/skal-dine-elever-opleve-skrivelyst-maa-du-selv-skrive-med/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-28T03:30:00.000Z"
   },
   {
    "titel": "Dit barns bedste ven: AI-bamser er landet i Danmark",
@@ -72,6 +136,14 @@
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-10-27T18:32:14.000Z"
+  },
+  {
+   "titel": "I Rikkes timer danser eleverne tyske gloser ind",
+   "resume": "Der er både dans, musik og rollespil i Rikke Taber Graverholts tysktimer. Hun ser det som en af sine styrker som underviser, at hun selv var langsom til at lære i skolen. The post I Rikkes timer danse",
+   "url": "https://www.folkeskolen.dk/i-rikkes-timer-danser-eleverne-tyske-gloser-ind/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-27T18:30:00.000Z"
   },
   {
    "titel": "»Du er bare misundelig, fordi din far har valgt mig som næstkommanderende«",
