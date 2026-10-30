@@ -1,6 +1,46 @@
 {
- "opdateret": "2026-10-30T05:45:30.714Z",
+ "opdateret": "2026-10-30T12:53:02.766Z",
  "artikler": [
+  {
+   "titel": "Svindelforsøg var så overbevisende, at det kunne have snydt DI-direktørs mor",
+   "resume": "Lars Sandahls stemme blev manipuleret af svindlere, som forsøgte at få udbetalt mere end tre millioner kroner.",
+   "url": "https://www.dr.dk/nyheder/indland/svindelforsoeg-var-saa-overbevisende-det-kunne-have-snydt-di-direktoers-mor",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-30T11:02:19.000Z"
+  },
+  {
+   "titel": "63 børn fylder 18 år: De risikerer at komme bag i køen til statsborgerskab",
+   "resume": "Egentlig stod de til at få statsborgerskab med deres forældre. Men forsinkelser af omstridt lovforslag betyder, at 63 af dem når at fylde 18 år, og derfor skal de måske bag i køen på over 16.000 ansøg",
+   "url": "https://politiken.dk/danmark/politik/art11040250/63-b%C3%B8rn-fylder-18-%C3%A5r-De-risikerer-at-komme-bag-i-k%C3%B8en-til-statsborgerskab",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-30T10:26:36.000Z"
+  },
+  {
+   "titel": "Familiefar ønsker ikke flere akavede halloween-besøg, nu har han en løsning",
+   "resume": "Morten Christensen har lavet en hjemmeside, hvor du kan vise, om du er klar med slik den 31. oktober, så børnene ikke går forgæves.",
+   "url": "https://www.dr.dk/nyheder/indland/familiefar-oensker-ikke-flere-akavede-halloween-besoeg-nu-har-han-en-loesning",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-30T10:12:00.000Z"
+  },
+  {
+   "titel": "Skole sætter 'samtale' på skoleskemaet",
+   "resume": "Selvom skærmene var pakket væk, var det svært for eleverne at tale sammen. Nu gør fire ugers samtale-kursus en forskel.",
+   "url": "https://www.dr.dk/nyheder/indland/skole-saetter-samtale-paa-skoleskemaet",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-10-30T08:00:00.000Z"
+  },
+  {
+   "titel": "Landets skoleledere samlet: Vi kan godt levere, hvis vi bare får opbakning",
+   "resume": "Undervisningsministeren efterlyste skoleledere, der er tydelige i deres forventninger til elever, forældre og omverden, da han gæstede skoleledernes årsmøde. Gerne, lød svaret - hvis vi har opbakning ",
+   "url": "https://www.folkeskolen.dk/skoleledere-fra-hele-landet-samlet-vi-kan-godt-levere-hvis-vi-bare-faar-opbakning/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-10-30T03:30:00.000Z"
+  },
   {
    "titel": "Minister bekymret: Elever skriver dårligere",
    "resume": "Gennemsnittet i skriftlig Dansk A er på sit laveste niveau i 14 år på landets stx-gymnasier",
@@ -661,7 +701,7 @@
    "titel": "Hospitalschefer skal stå skoleret efter fyring af kritiske overlæger",
    "resume": "Politikere vil blandt andet have svar på, om patienter fortsat kan få den rette behandling.",
    "url": "https://www.dr.dk/nyheder/indland/hospitalschefer-skal-staa-skoleret-efter-fyring-af-kritiske-overlaeger",
-   "kilde": "DR Indland",
+   "kilde": "DR Hovedstaden",
    "kategori": "hverdagslogistik",
    "dato": "2026-10-26T05:00:00.000Z"
   },
