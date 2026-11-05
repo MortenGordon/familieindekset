@@ -1,6 +1,62 @@
 {
- "opdateret": "2026-11-05T10:52:43.868Z",
+ "opdateret": "2026-11-05T18:44:07.527Z",
  "artikler": [
+  {
+   "titel": "Teenager i chok: Hørte sin mors skrig",
+   "resume": "En rystet teenager var sidste år ufrivilligt vidne til voldsomt sammenstød mellem sin mor og vred ekskæreste, som nu er tiltalt i sag om serie-voldtægter af kvinder, dødstrusler og grov mishandling",
+   "url": "https://ekstrabladet.dk/krimi/chokeret-16-aarig-hoerte-sin-mors-skrig/11344478",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-05T18:14:35.000Z"
+  },
+  {
+   "titel": "De føler sig som uduelige mødre, men tør ikke fortælle det til nogen",
+   "resume": "Skam og skyldfølelse kan få kvinder til at skjule, hvor svært de har det efter en fødsel. Det gør kun ondt værre, fremgår det af vores hjernepodcast .",
+   "url": "https://videnskab.dk/krop-sundhed/de-foeler-sig-som-uduelige-moedre-men-toer-ikke-fortaelle-det-til-nogen/",
+   "kilde": "Videnskab.dk",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-11-05T17:24:00.000Z"
+  },
+  {
+   "titel": "Børn laver hilsen til forældre: Vi vil tale om det svære",
+   "resume": "",
+   "url": "https://www.dr.dk/nyheder/indland/reels/boern-laver-hilsen-til-foraeldre-vi-vil-tale-om-det-svaere",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-05T16:17:00.000Z"
+  },
+  {
+   "titel": "Politikere er bekymrede over vold i skolen: Børnesyn kan spænde ben for lærerens autoritet",
+   "resume": "Efterlader kommunale børnesyn reelt lærere magtesløse over for udadreagerende elever? Det svarede undervisningsminister Magnus Heunicke på i dag i et samråd indkaldt af Liberal Alliance. The post Poli",
+   "url": "https://www.folkeskolen.dk/politikere-er-bekymret-over-vold-i-skolen-boernesyn-kan-spaende-ben-for-laererens-autoritet/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-05T14:22:14.000Z"
+  },
+  {
+   "titel": "Daginstitution lukket efter fund af sundhedsfarligt støv på loftet",
+   "resume": "60 børn er flyttet til andre pasningstilbud, mens nordjysk institution undersøges for asbest.",
+   "url": "https://www.dr.dk/nyheder/indland/daginstitution-lukket-efter-fund-af-sundhedsfarligt-stoev-paa-loftet",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-05T13:30:00.000Z"
+  },
+  {
+   "titel": "TV 2 med løftet pegefinger: Medvirkende og deres familier har fået 'hadbeskeder og direkte trusler'",
+   "resume": "TV 2 bekræfter i et skriftligt svar, at de har stillet krisehjælp til rådighed for medvirkende.",
+   "url": "https://www.dr.dk/nyheder/indland/tv-2-med-loeftet-pegefinger-medvirkende-og-deres-familier-har-faaet-hadbeskeder-og-direkte-trusler",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-05T12:38:28.000Z"
+  },
+  {
+   "titel": "Unge mænd, latinoer og lavtuddannede har i stor stil vendt ryggen til Trumps republikanere",
+   "resume": "Store vælgervandringer viser, at amerikanerne ikke er så fast polariserede, som mange tror. USA er måske snarere blevet et land med mange protestvælgere.",
+   "url": "https://politiken.dk/internationalt/art11047533/Unge-m%C3%A6nd-latinoer-og-lavtuddannede-har-i-stor-stil-vendt-ryggen-til-Trumps-republikanere",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-05T12:35:20.000Z"
+  },
   {
    "titel": "Kandis-Johnny har mistet sin mor: 'Det er jo alligevel mærkeligt'",
    "resume": "Hele dansk top-familien var samlet om Gerda Hansen i hendes sidste tid. »Nu er det så min far, vi skal slå ring om,« fortæller Johnny Hansen til B.T.",
@@ -56,6 +112,14 @@
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
    "dato": "2026-11-05T10:11:43.000Z"
+  },
+  {
+   "titel": "Velkommen i Emil Thorups kirke, hvor den individuelle, dataoptimerede krop er verdens centrum",
+   "resume": "Danmarks longevity-apostel Emil Thorup har været på scenen for at rådgive om lang levetid. En babyble er ikke bare en ble, men et bevidst og eksistentielt valg. Søvn er ikke bare søvn, men et datauniv",
+   "url": "https://www.information.dk/moti/2026/11/velkommen-emil-thorups-kirke-individuelle-dataoptimerede-krop-verdens-centrum",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-05T09:30:44.000Z"
   },
   {
    "titel": "Det er en regulært rystende film",
