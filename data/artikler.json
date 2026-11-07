@@ -1,10 +1,34 @@
 {
- "opdateret": "2026-11-07T18:46:42.633Z",
+ "opdateret": "2026-11-07T22:44:32.856Z",
  "artikler": [
+  {
+   "titel": "Dansk forskning kobler to slags fertilitetsbehandlinger til øget kræftrisiko for børn",
+   "resume": "Kræft blandt børn er heldigvis sjælden, understreger forsker fra Kræftens Bekæmpelse.",
+   "url": "https://www.dr.dk/nyheder/viden/dansk-forskning-kobler-slags-fertilitetsbehandlinger-til-oeget-kraeftrisiko-boern",
+   "kilde": "DR Viden",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-11-07T20:21:00.000Z"
+  },
+  {
+   "titel": "Familier hyrer hjælp om natten: »Jeg har fået fuldstændig desperate, grædende kvinder i røret«",
+   "resume": "Nybagte forældre hyrer ’night nannies’ til at passe deres spædbørn om natten. Markedet er fortsat lille i Danmark, men tegn på en bredere tendens, mener professor.",
+   "url": "https://politiken.dk/danmark/art10938141/Familier-hyrer-hj%C3%A6lp-om-natten-%C2%BBJeg-har-f%C3%A5et-fuldst%C3%A6ndig-desperate-gr%C3%A6dende-kvinder-i-r%C3%B8ret%C2%AB",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-07T18:46:58.000Z"
+  },
   {
    "titel": "Alexia Gore Nielsen og hendes mand hyrede hjælp til at passe deres spædbarn om natten: »Som mor er det enormt sårbart«",
    "resume": "Familien Nielsen hyrede en ’night nanny’ til at passe deres spædbarn om natten, så forældrene kunne få noget tiltrængt søvn og overskud i lejligheden på Frederiksberg.",
    "url": "https://politiken.dk/danmark/forbrug/art11009323/Alexia-Gore-Nielsen-og-hendes-mand-hyrede-hj%C3%A6lp-til-at-passe-deres-sp%C3%A6dbarn-om-natten-%C2%BBSom-mor-er-det-enormt-s%C3%A5rbart%C2%AB",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-07T18:46:15.000Z"
+  },
+  {
+   "titel": "Familien Nielsen hyrede en 'night nanny' til at passe deres baby om natten",
+   "resume": "Familien Nielsen tog en dyr og tabubelagt beslutning få uger før fødslen af deres andet barn. Det har været fuldstændig afgørende for familiens trivsel, mener de i dag.",
+   "url": "https://politiken.dk/danmark/forbrug/art11009323/Familien-Nielsen-hyrede-en-night-nanny-til-at-passe-deres-baby-om-natten",
    "kilde": "Politiken",
    "kategori": "hverdagslogistik",
    "dato": "2026-11-07T18:46:15.000Z"
@@ -32,6 +56,14 @@
    "kilde": "Ekstra Bladet",
    "kategori": "hverdagslogistik",
    "dato": "2026-11-07T17:37:21.000Z"
+  },
+  {
+   "titel": "Ung russer lægger nul fingre imellem i portrættet af sit hjemlands hadefulde håbløshed",
+   "resume": "Hans lille debutroman er åbenbart så farlig, at den i dag er forbudt af de russiske myndigheder. Putin må virkelig være bange for bøsser.",
+   "url": "https://politiken.dk/kultur/boger/boganmeldelser/skonlitteratur_boger/art11033393/Ung-russer-l%C3%A6gger-nul-fingre-imellem-i-portr%C3%A6ttet-af-sit-hjemlands-hadefulde-h%C3%A5bl%C3%B8shed",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-07T16:24:21.000Z"
   },
   {
    "titel": "Pænt hår er ikke nok",
