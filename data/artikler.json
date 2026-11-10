@@ -1,6 +1,94 @@
 {
- "opdateret": "2026-11-10T09:46:49.499Z",
+ "opdateret": "2026-11-10T17:48:37.709Z",
  "artikler": [
+  {
+   "titel": "Nyt tiltag: Helmig og AGF til nyfødte",
+   "resume": "Nyfødte babyer på Aarhus Universitetshospital får en bodystocking med AGF-logo og Thomas Helmig-reference",
+   "url": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/agf-giver-bodystocking-med-klublogo-til-nyfoedte-aarhusianere/11349308",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-10T17:42:54.000Z"
+  },
+  {
+   "titel": "B.T. mener: At være 'sød og blød' er ikke et mandeideal",
+   "resume": "Vi vil gerne have, at vores unge drenge er 'søde, bløde og dejlige'. Det mener ligestillingsminister Ane Halsboe. Men det er ikke et ideal for unge mænd.",
+   "url": "https://www.bt.dk/debat/bt-mener-at-vaere-soed-og-bloed-er-ikke-et-mandeideal?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-10T17:06:33.000Z"
+  },
+  {
+   "titel": "Seks millioner amerikanere kan miste madhjælp",
+   "resume": "USA's landbrugsministerium vil stramme reglerne for fødevarehjælp til familier med lave indkomster.",
+   "url": "https://www.berlingske.dk/internationalt/seks-millioner-amerikanere-kan-miste-madhjaelp?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-10T17:03:48.000Z"
+  },
+  {
+   "titel": "Seks millioner amerikanere kan miste madhjælp",
+   "resume": "USA's landbrugsministerium vil stramme reglerne for fødevarehjælp til familier med lave indkomster.",
+   "url": "https://www.bt.dk/udland/seks-millioner-amerikanere-kan-miste-madhjaelp?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-10T17:03:48.000Z"
+  },
+  {
+   "titel": "Ny øl er inspireret af verdens længste slæderejse",
+   "resume": "Et samarbejde mellem Eventyrernes Klub og et dansk bryggeri har ført til en øl, der hylder et noget ukendt og overset stykke Danmarkshistorie.",
+   "url": "https://politiken.dk/rejser/art11048670/Ny-%C3%B8l-er-inspireret-af-verdens-l%C3%A6ngste-sl%C3%A6derejse",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-10T15:06:27.000Z"
+  },
+  {
+   "titel": "Signe Wenneberg hængte privat familie ud. Nu viser dokumenter, at sagen er mere speget",
+   "resume": "Mandag blev Signe Wenneberg politianmeldt for tre forhold, og tirsdag er yderligere to tilføjet. Det sker efter en kovending, hvor hun på ny har delt en families adresse på sine sociale medier.",
+   "url": "https://politiken.dk/danmark/art11053698/Signe-Wenneberg-h%C3%A6ngte-privat-familie-ud.-Nu-viser-dokumenter-at-sagen-er-mere-speget",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-10T15:00:08.000Z"
+  },
+  {
+   "titel": "Regeringen vil give lærere mere fysisk magt i skolen",
+   "resume": "",
+   "url": "https://www.dr.dk/nyheder/indland/reels/regeringen-vil-give-laerere-mere-fysisk-magt-i-skolen",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-10T14:36:00.000Z"
+  },
+  {
+   "titel": "De studerendes nye forperson var længe overbevist om, at han ikke ville være lærer",
+   "resume": "Da Birk Nikolaj Grønne Kühl blev student, var han sikker på én ting: Han skulle ikke være lærer. Det er han i dag sikker på, at han bliver. Og fra januar står han i front for Lærerstuderendes Landskre",
+   "url": "https://www.folkeskolen.dk/de-studerendes-nye-forperson-var-laenge-overbevist-om-at-han-ikke-ville-vaere-laerer/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-10T13:07:20.000Z"
+  },
+  {
+   "titel": "14 nye forskningsprojekter skal undersøge effekt af AI-brug, æstetik, gestik og meget andet",
+   "resume": "Forskning inden for dansk, tysk, matematik og samfundsfag er blandt de udvalgte ph.d.-projekter, der bliver sat i gang på folkeskoleområdet. The post 14 nye forskningsprojekter skal undersøge effekt a",
+   "url": "https://www.folkeskolen.dk/14-nye-forskningsprojekter-skal-undersoege-effekt-af-ai-brug-aestetik-gestik-og-meget-andet/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-10T11:52:33.000Z"
+  },
+  {
+   "titel": "Magnus blev holdt nede af flere lærere: 'Jeg følte ikke, jeg kunne stole på dem bagefter'",
+   "resume": "I dag bliver et lovforslag om fysisk indgriben i skolerne førstebehandlet i Folketinget.",
+   "url": "https://www.dr.dk/nyheder/indland/magnus-blev-holdt-nede-af-flere-laerere-jeg-foelte-ikke-jeg-kunne-stole-paa-dem-bagefter",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-10T11:50:00.000Z"
+  },
+  {
+   "titel": "Ai behøver ikke svække din læring. Sådan bruger du chatbotten klogt",
+   "resume": "Hver tredje gymnasieelev frygter, at Ai svækker deres læring, men forsker Christian Dalsgaard ser flere muligheder end farer i teknologien og giver her råd til, hvordan elever kan bruge ai til at bliv",
+   "url": "https://politiken.dk/danmark/art11024011/Ai-beh%C3%B8ver-ikke-sv%C3%A6kke-din-l%C3%A6ring.-S%C3%A5dan-bruger-du-chatbotten-klogt",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-10T10:01:44.000Z"
+  },
   {
    "titel": "Bekræfter: Mette Frederiksen har mødtes med svensk offers far",
    "resume": "",
