@@ -1,6 +1,70 @@
 {
- "opdateret": "2026-11-16T09:40:17.937Z",
+ "opdateret": "2026-11-16T20:27:33.916Z",
  "artikler": [
+  {
+   "titel": "Speedwaylegenden Ole Olsen fylder 80 år",
+   "resume": "Manden, der satte gang i udviklingen af dansk speedway, troede han skulle have en rolig fødselsdag, men sådan gik det ikke.",
+   "url": "https://www.dr.dk/nyheder/regionale/syd/speedwaylegenden-ole-olsen-fylder-80-aar",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-16T20:20:00.000Z"
+  },
+  {
+   "titel": "Legendarisk spisested på Frederiksberg er lukket efter 162 år: »Vi mister kulturelt og historisk fundament«",
+   "resume": "En af de tre tilbageværende familiehaver på Frederiksberg er lukket, og der er nu kun to tilbage af »de små haver«. Efter en retssag er der indgået forlig om en strid. Frederiksbergpolitiker ærgrer si",
+   "url": "https://www.berlingske.dk/gastronomi/legendarisk-spisested-paa-frederiksberg-er-lukket-efter-162-aar-vi-mister-kulturelt-og-historisk-fundament?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-16T20:10:38.000Z"
+  },
+  {
+   "titel": "Pludselig sad jeg og græd lidt i Nørrebrohallen",
+   "resume": "En søndag eftermiddag gik det op for mig, at jeg er gået glip af noget ret værdifuldt i min ungdom.",
+   "url": "https://politiken.dk/danmark/forbrug/art11053037/Pludselig-sad-jeg-og-gr%C3%A6d-lidt-i-N%C3%B8rrebrohallen",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-16T19:40:20.000Z"
+  },
+  {
+   "titel": "Novo-middel viser vægttab hos børn mellem 6 og 12 år",
+   "resume": "Novo har undersøgt effekten af semaglutid, der findes i vægttabsmidlet Wegovy, hos børn på 6 til 12 år.",
+   "url": "https://www.dr.dk/nyheder/indland/novo-middel-viser-vaegttab-hos-boern-mellem-6-og-12-aar",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-16T17:09:24.000Z"
+  },
+  {
+   "titel": "Minister om folkeskoleflugt: 'Ingen er tjent med et A- og B-hold'",
+   "resume": "Flere elever vælger fri- og privatskoler. Undervisningsminister Magnus Heunicke kalder udviklingen 'meget alvorlig'.",
+   "url": "https://www.dr.dk/nyheder/indland/minister-om-folkeskoleflugt-ingen-er-tjent-med-et-og-b-hold",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-16T17:00:00.000Z"
+  },
+  {
+   "titel": "Det er den sværeste disciplin overhovedet",
+   "resume": "Ambitionsniveauet var helt oppe under loftet, da ung strygekvartet med gåpåmod kom på besøg i København.",
+   "url": "https://politiken.dk/kultur/klassisk_og_opera/art11044595/Det-er-den-sv%C3%A6reste-disciplin-overhovedet",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-16T13:31:02.000Z"
+  },
+  {
+   "titel": "Kommuner giver ai til små skolebørn i strid med selv techgiganternes aldersgrænse",
+   "resume": "13 år, siger Microsoft og Google om aldersgrænsen for at bruge deres ai-botter. Men kommuner giver mindreårige skoleelever adgang til den nye teknologi, der eksperimenterer med deres udvikling.",
+   "url": "https://politiken.dk/danmark/art11058647/Kommuner-giver-ai-til-sm%C3%A5-skoleb%C3%B8rn-i-strid-med-selv-techgiganternes-aldersgr%C3%A6nse",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-16T12:32:06.000Z"
+  },
+  {
+   "titel": "Pokémon-kort er ikke for børn",
+   "resume": "Det store pokémon-røveri er endnu et tegn på, hvordan voksenpenge ødelægger børns leg",
+   "url": "https://www.information.dk/moti/leder/2026/11/pokemon-kort-boern",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-16T12:18:05.000Z"
+  },
   {
    "titel": "Hidtil yngste svenske dreng kendes skyldig i sag om bestilling af drab",
    "resume": "I Retten i Lyngby overværer svensk drengs forældre en afgørelse i sag om kriminalitet på bestilling.",
@@ -48,6 +112,14 @@
    "kilde": "DR Indland",
    "kategori": "hverdagslogistik",
    "dato": "2026-11-16T09:02:00.000Z"
+  },
+  {
+   "titel": "Vi må spørge chatbotten til råds om vores underlivssmerter, når lægen ikke har svarene",
+   "resume": "Som unge kvinder ser vi ingen anden udvej end at spørge kunstig intelligens om vores underliv, når sundhedsvæsenet ikke tager os alvorligt",
+   "url": "https://www.information.dk/debat/2026/11/maa-spoerge-chatbotten-raads-vores-underlivssmerter-naar-laegen-svarene",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-16T08:50:36.000Z"
   },
   {
    "titel": "Flere vælger folkeskolen fra. Især ressourcestærke familier",
