@@ -1,9 +1,49 @@
 {
- "opdateret": "2026-11-18T13:56:39.220Z",
+ "opdateret": "2026-11-18T21:55:05.952Z",
  "artikler": [
   {
+   "titel": "Genbrugskrig: Vil slå Vinted",
+   "resume": "Genbrugskæden Børneloppen har netop lanceret deres webshop, og de har et klart formål om at hale ind på genbrugsgiganterne",
+   "url": "https://ekstrabladet.dk/penge/boerneloppen-tager-kampen-op-vil-slaa-vinted-med-webshop/11358016",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-18T21:29:09.000Z"
+  },
+  {
+   "titel": "Nabo: - Det er absurd og makabert",
+   "resume": "En af naboerne, der bor blot et par hundrede meter fra ejendommen, hvor to voksne og et barn onsdag blev fundet døde, kan næsten ikke forholde sig til tragedien",
+   "url": "https://ekstrabladet.dk/krimi/nabo-det-er-absurd-og-makabert/11358369",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-18T21:03:52.000Z"
+  },
+  {
+   "titel": "»Min far betyder alt for mig,« siger sønnen – og overlader så alt ansvar til sin søster. Satirehit har ramt lige ned i svær debat",
+   "resume": "En sketch på amerikansk tv, der gør nar af mænd, som overlader ansvaret for deres gamle forældre til deres søstre, har sat ild i debatten i USA. Og selvom vi bryster os af velfærd og ligestilling, vis",
+   "url": "https://www.berlingske.dk/medier/min-far-betyder-alt-for-mig-siger-soennen--og-overlader-saa-alt-ansvar-til-sin-soester-satirehit-har-ramt-lige-ned-i-svaer-debat?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-18T20:35:39.000Z"
+  },
+  {
+   "titel": "Pengene fosser ud af hanerne: Milliard-regning på vej til vandkunder i Aarhus",
+   "resume": "Prisen på en typisk aarhusiansk families vandforbrug i 2037 kan stige med et beløb, der svarer til 4.300 kroner i dag.",
+   "url": "https://www.dr.dk/nyheder/indland/pengene-fosser-ud-af-hanerne-milliard-regning-paa-vej-til-vandkunder-i-storby",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-18T19:59:00.000Z"
+  },
+  {
+   "titel": "To voksne og et barn på 10 år fundet døde nær Give",
+   "resume": "Sydøstjyllands Politi har anholdt flere personer efter fund på ejendom.",
+   "url": "https://politiken.dk/danmark/art11066042/To-voksne-og-et-barn-p%C3%A5-10-%C3%A5r-fundet-d%C3%B8de-n%C3%A6r-Give",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-18T16:45:45.000Z"
+  },
+  {
    "titel": "Midt i misinformations-krise: Videnskab.dk ramt af voldsom nedskæring",
-   "resume": "Danmarks nationale videnskabsmedie, der hver dag leverer gratis forskningsbaseret viden til danskerne med særlig fokus på unge, har mistet 25 procent af sin finanslovbevilling for 2027.",
+   "resume": "Danmarks nationale videnskabsmedie, der hver dag leverer gratis forskningsbaseret viden til danskerne med særligt fokus på unge, har mistet en fjerdedel af sin finanslovbevilling for 2027.",
    "url": "https://videnskab.dk/om-videnskabdk/midt-i-misinformations-krise-videnskab-dk-ramt-af-voldsom-nedskaering/",
    "kilde": "Videnskab.dk",
    "kategori": "sundhed-trivsel",
@@ -136,6 +176,30 @@
    "kilde": "Folkeskolen",
    "kategori": "skole-pasning",
    "dato": "2026-11-17T14:51:13.000Z"
+  },
+  {
+   "titel": "Sæt klima på skoleskemaet, nu hvor de voksne politikere ikke tager det seriøst",
+   "resume": "Mette Frederiksen signalerer til min generation, at klimaet ikke er noget, man behøver tage særligt alvorligt. Netop derfor er det på tide, at vi lærer mere om det i skolen",
+   "url": "https://www.information.dk/debat/2026/11/saet-klima-paa-skoleskemaet-voksne-politikere-tager-serioest",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-17T13:37:46.000Z"
+  },
+  {
+   "titel": "Regeringen kræver fart på studierne, men straffer dem uden studiejob",
+   "resume": "Danmark har brug for et dagpengesystem, der hjælper nyuddannede ind på arbejdsmarkedet – ikke et beskæftigelseskrav, der lægger et yderligere pres på unge",
+   "url": "https://www.information.dk/debat/2026/11/regeringen-kraever-fart-paa-studierne-straffer-uden-studiejob",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-17T13:23:32.000Z"
+  },
+  {
+   "titel": "Jagten på det, de unge vil have, har nået et lavpunkt – men måske også et vendepunkt",
+   "resume": "Det er frygteligt, at enkeltpersoner skal ofres på bålet for at opnå et positivt vendepunkt, men måske Rasmus Wallbridge baner vejen for en ny indsigt, nye holdninger og handlinger",
+   "url": "https://www.information.dk/debat/2026/11/jagten-paa-unge-naaet-lavpunkt-maaske-ogsaa-vendepunkt",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-17T12:37:51.000Z"
   },
   {
    "titel": "Er ligestillingen gået i stå? Sådan står det til med løngab, barsel og pension",
