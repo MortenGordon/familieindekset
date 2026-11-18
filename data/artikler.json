@@ -1,6 +1,70 @@
 {
- "opdateret": "2026-11-18T04:17:47.651Z",
+ "opdateret": "2026-11-18T13:56:39.220Z",
  "artikler": [
+  {
+   "titel": "Midt i misinformations-krise: Videnskab.dk ramt af voldsom nedskæring",
+   "resume": "Danmarks nationale videnskabsmedie, der hver dag leverer gratis forskningsbaseret viden til danskerne med særlig fokus på unge, har mistet 25 procent af sin finanslovbevilling for 2027.",
+   "url": "https://videnskab.dk/om-videnskabdk/midt-i-misinformations-krise-videnskab-dk-ramt-af-voldsom-nedskaering/",
+   "kilde": "Videnskab.dk",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-11-18T14:39:57.000Z"
+  },
+  {
+   "titel": "Radiochef gør op med en udbredt »selvfedme« blandt voksne mennesker: Musikken var ikke bedre i jeres ungdom",
+   "resume": "Hvis den sidste gode sang, vi nogensinde opdager, er den, vi hørte som 23-årige, er det næppe musikken, der har mistet noget. Det er os.",
+   "url": "https://www.berlingske.dk/synspunkter/radiochef-goer-op-med-en-udbredt-selvfedme-blandt-voksne-mennesker-musikken-var-ikke-bedre-i-jeres-ungdom?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-18T13:54:01.000Z"
+  },
+  {
+   "titel": "Dansk supermodel i ren babylykke",
+   "resume": "Parret er nu forældre til deres første fælles barn.",
+   "url": "https://www.bt.dk/danske-kendte/dansk-supermodel-i-ren-babylykke?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-18T13:32:31.000Z"
+  },
+  {
+   "titel": "Stor lykke: Nu er hun her",
+   "resume": "Mathilde Gøhler er blevet mor for tredje gang. Denne gang til en lille pige, som hun har fået sammen med kæresten Frederik Bagger",
+   "url": "https://ekstrabladet.dk/underholdning/dkkendte/stor-lykke-mathilde-goehler-er-blevet-mor-igen/11357919",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-18T13:01:21.000Z"
+  },
+  {
+   "titel": "Juraprofessor Eva Smith er død",
+   "resume": "Juraprofessor Eva Smith gik tirsdag bort med \"kort varsel\", oplyser familien. Hun var frisk til det sidste.",
+   "url": "https://www.dr.dk/nyheder/indland/juraprofessor-eva-smith-er-doed",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-18T07:40:41.000Z"
+  },
+  {
+   "titel": "Her er ingen piña coladas eller børn i badevinger, men alligevel emmer det af all inclusive",
+   "resume": "Værterne i badebyen Antalya ruller all inclusive-livsstilen ind over FN’s klimatopmøde.",
+   "url": "https://www.dr.dk/nyheder/viden/klima/gratis-chokolade-og-en-maskot-til-boern-her-er-ingen-boern-tyrkiet-gaar-all-inclusive-paa-topmoede",
+   "kilde": "DR Viden",
+   "kategori": "sundhed-trivsel",
+   "dato": "2026-11-18T07:00:00.000Z"
+  },
+  {
+   "titel": "Grønland: Ny folkeskolelov udskyder egentlig danskundervisning til 4. klasse",
+   "resume": "Ny folkeskolelov med færre skoledage vedtaget i det grønlandske parlament. The post Grønland: Ny folkeskolelov udskyder egentlig danskundervisning til 4. klasse appeared first on Folkeskolen.",
+   "url": "https://www.folkeskolen.dk/groenland-ny-folkeskolelov-udskyder-egentlig-danskundervisning-til-4-klasse/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-18T06:18:56.000Z"
+  },
+  {
+   "titel": "Skoleledere med opråb til forældre: Dit barn er ikke vigtigere end klassen",
+   "resume": "Skolelederne stempler ind i brandvarm folkeskoledebat med et bud på, hvordan skolen kan fungere bedre, og børnene kan lære mere.",
+   "url": "https://www.dr.dk/nyheder/indland/skoleledere-med-opraab-til-foraeldre-dit-barn-er-ikke-vigtigere-end-klassen",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-18T06:04:00.000Z"
+  },
   {
    "titel": "Rapport: En kvart million børn risikerer akut underernæring i Haiti",
    "resume": "FN-støttet overvågningsenhed slår alarm over kritisk mangel på mad til børn i Haiti, der er plaget af bander.",
@@ -115,7 +179,7 @@
   },
   {
    "titel": "Mads står til at miste sit lærerjob i 10. klasse: ”Det er noget af en mavepuster”",
-   "resume": "Der er bredt sig en usikkerhed blandt lærerne på 10.-klasse-centre, efter det er kommet frem, at 10. klasselærere alligevel ikke ser ud til at skulle undervise på den kommende nye ungdomsuddannelse. U",
+   "resume": "Der har bredt sig en usikkerhed blandt lærerne på 10.-klasse-centre, efter det er kommet frem, at 10. klasselærere alligevel ikke ser ud til at skulle undervise på den kommende nye ungdomsuddannelse. ",
    "url": "https://www.folkeskolen.dk/mads-staar-til-at-miste-sit-laererjob-i-10-klasse-det-er-noget-af-en-mavepuster/",
    "kilde": "Folkeskolen",
    "kategori": "skole-pasning",
