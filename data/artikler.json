@@ -1,6 +1,70 @@
 {
- "opdateret": "2026-11-25T12:51:20.943Z",
+ "opdateret": "2026-11-25T22:30:13.384Z",
  "artikler": [
+  {
+   "titel": "Hov! Bombetrussel endte i spamfiltret",
+   "resume": "Skoler i Næstved Kommune troede, at de blev skånet for bombetruslen",
+   "url": "https://ekstrabladet.dk/krimi/hov-bombetrussel-endte-i-kommunens-spamfilter/11364993",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T21:51:03.000Z"
+  },
+  {
+   "titel": "Guitaristen fra Duran Duran er død",
+   "resume": "Andy Taylor er død i en alder af 65 år, oplyser familien.",
+   "url": "https://www.bt.dk/int-kendte/guitaristen-fra-duran-duran-er-doed?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T21:48:36.000Z"
+  },
+  {
+   "titel": "To voksne døtre: Må vi bede vores forældre om at blive skilt?",
+   "resume": "Ibyens brevkasse giver ugentlige råd til byens hjerter. Denne uge står to søstre midt i et stort dilemma.",
+   "url": "https://politiken.dk/ibyen/brevkasse/art11073504/M%C3%A5-vi-bede-vores-for%C3%A6ldre-om-at-blive-skilt",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T21:19:36.000Z"
+  },
+  {
+   "titel": "Dansk milliardær fik fire børn med eksens søster",
+   "resume": "En af landets mest kendte butikskæder gemmer på en kuriøs oprindelseshistorie, som Bent Jensen nu folder ud i et nyt interview",
+   "url": "https://ekstrabladet.dk/penge/t.-hansen-milliardaeren-fik-fire-boern-med-eksens-soester/11365047",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T21:03:42.000Z"
+  },
+  {
+   "titel": "Ministeriums regler for elevers brug af ai blev flyttet, så de flugter med big tech",
+   "resume": "På tre måneder blev Undervisningsministeriets opfattelse af elevers færdigheder og modenhed forskubbet med et helt år. Nu flugter aldersgrænsen for ai-brug med techgiganternes.",
+   "url": "https://politiken.dk/danmark/art11073466/Ministeriums-regler-for-elevers-brug-af-ai-blev-flyttet-s%C3%A5-de-flugter-med-big-tech",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T17:15:02.000Z"
+  },
+  {
+   "titel": "Det er jo en romanforfatter, der skriver! En af de allerbedste",
+   "resume": "Margaret Atwood var ni år, da skolegårdens tyranner ville gøre hende til et bedre menneske. I sin fremragende selvbiografi husker hun, hvordan det foregik.",
+   "url": "https://politiken.dk/kultur/boger/boganmeldelser/art11070325/Det-er-jo-en-romanforfatter-der-skriver-En-af-de-allerbedste",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T17:14:55.000Z"
+  },
+  {
+   "titel": "Lærer inden julefrokost: Jeg har dårlig samvittighed overfor mine nye kolleger",
+   "resume": "I Folkeskolens brevkasse svarer lærere på spørgsmål, dilemmaer og problemer hentet direkte fra hverdagen på skolerne. Her er det nemlig lærerne, der har svaret. The post Lærer inden julefrokost: Jeg h",
+   "url": "https://www.folkeskolen.dk/laerer-inden-julefrokost-jeg-har-daarlig-samvittighed-overfor-mine-nye-kolleger/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-25T16:00:00.000Z"
+  },
+  {
+   "titel": "Meghan Markle blev kaldt følelseskold, da hun kappede båndene til sin egen far. Nu kender vi grunden",
+   "resume": "Hertuginde Meghan har været genstand for hård kritik i britiske medier. En del af kritikken er gået på hendes forhold til sin far. Men det forhold har været præget af en hemmelighed.",
+   "url": "https://politiken.dk/kultur/art11073309/Meghan-Markle-blev-kaldt-f%C3%B8lelseskold-da-hun-kappede-b%C3%A5ndene-til-sin-egen-far.-Nu-kender-vi-grunden",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T15:53:51.000Z"
+  },
   {
    "titel": "Kloakdrabet: Uhyggelig besked til pige",
    "resume": "En teenager skal vidne om, hvorfor hun til politiet tilstod at have dræbt mand, der endte i kloak og siden trak tilståelse tilbage",
@@ -34,8 +98,8 @@
    "dato": "2026-11-25T12:15:22.000Z"
   },
   {
-   "titel": "Skoler skal ikke fjerne deres spamfiltre, selvom de opsnappede og gemte bombetrusler",
-   "resume": "Selvom flere folkeskoler fandt mandagens bombetrusler i deres spamfiltre, mener en ekspert ikke, de skal fjerne deres filtrene helt.",
+   "titel": "Skoler skal beholde deres spamfiltre, selvom de gemte på bombetrusler",
+   "resume": "Selvom flere folkeskoler fandt mandagens bombetrusler i deres spamfiltre, mener en ekspert ikke, de skal fjerne filtrene helt.",
    "url": "https://www.dr.dk/nyheder/indland/skoler-skal-ikke-fjerne-deres-spamfiltre-selvom-de-opsnappede-og-gemte-bombetrusler",
    "kilde": "DR Indland",
    "kategori": "hverdagslogistik",
@@ -195,7 +259,7 @@
   },
   {
    "titel": "Ny teknologi opfylder Ians gamle drøm: Nu kan dine elever selv lave interaktive modeller",
-   "resume": "Men nyt værktøj i SkoleGPT kan eleverne få AI til at kode en model, og det kan give dem større forståelse for den, mener skaberen. The post Ny teknologi opfylder Ians gamle drøm: Nu kan dine elever se",
+   "resume": "Med et nyt værktøj i SkoleGPT kan eleverne få AI til at kode en model. Det kan give dem større forståelse for både modellen og kunstig intelligens, mener manden bag. The post Ny teknologi opfylder Ian",
    "url": "https://www.folkeskolen.dk/ny-teknologi-opfylder-ians-gamle-droem-nu-kan-dine-elever-selv-lave-interaktive-modeller/",
    "kilde": "Folkeskolen",
    "kategori": "skole-pasning",
@@ -288,6 +352,14 @@
    "kilde": "Information",
    "kategori": "hverdagslogistik",
    "dato": "2026-11-24T11:59:26.000Z"
+  },
+  {
+   "titel": "Stop med at omtale værnepligten som et højskoleophold. Unge lærer ikke at skyde for sjov",
+   "resume": "Hvis man mener, at unge er modne nok til potentielt at indgå i dødelig kamp, må de også være modne nok til at høre sandheden om værnepligten til Forsvarets Dag",
+   "url": "https://www.information.dk/debat/2026/11/stop-omtale-vaernepligten-hoejskoleophold-unge-laerer-skyde-sjov",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-24T11:27:30.000Z"
   },
   {
    "titel": "Mere end 800 modtagere fik bombetrussel",
