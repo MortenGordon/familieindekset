@@ -1,6 +1,126 @@
 {
- "opdateret": "2026-11-25T02:25:18.856Z",
+ "opdateret": "2026-11-25T12:51:20.943Z",
  "artikler": [
+  {
+   "titel": "Kloakdrabet: Uhyggelig besked til pige",
+   "resume": "En teenager skal vidne om, hvorfor hun til politiet tilstod at have dræbt mand, der endte i kloak og siden trak tilståelse tilbage",
+   "url": "https://ekstrabladet.dk/krimi/kloakdrabet-uhyggelig-besked-til-pige/11365074",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T12:48:34.000Z"
+  },
+  {
+   "titel": "Elever tror ikke retningslinjer vil gøre en forskel",
+   "resume": "Nye AI retningslinjer for grundskolen får blandet modtagelse, men konklusionen er den samme hos eleverne.",
+   "url": "https://www.dr.dk/nyheder/indland/elever-tror-ikke-retningslinjer-vil-goere-en-forskel",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T12:45:00.000Z"
+  },
+  {
+   "titel": "Her er listen over Danmarks rigeste. Tre erhvervsdynastier skiller sig ud",
+   "resume": "Tre familier blev 85 milliarder kroner rigere, men mange andre af Danmarks rige tabte formuer. Det viser Økonomisk Ugebrevs kortlægning af Danmarks 100 rigeste.",
+   "url": "https://www.berlingske.dk/virksomheder/her-er-listen-over-danmarks-rigeste-tre-erhvervsdynastier-skiller-sig-ud?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T12:39:28.000Z"
+  },
+  {
+   "titel": "Det gik ikke ubemærket hen, at ingen fra regeringen var mødt op, da lærerne skulle hyldes",
+   "resume": "Ni af landets dygtige lærere blev hyldet til prisfest i Pressen tirsdag aften med over 100 fremmødte gæster. Men det gik ikke ubemærket hen, at ingen fra regeringen var mødt op.",
+   "url": "https://politiken.dk/danmark/uddannelse/undervisningsprisen/art11066599/Det-gik-ikke-ubem%C3%A6rket-hen-at-ingen-fra-regeringen-var-m%C3%B8dt-op-da-l%C3%A6rerne-skulle-hyldes",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T12:15:22.000Z"
+  },
+  {
+   "titel": "Skoler skal ikke fjerne deres spamfiltre, selvom de opsnappede og gemte bombetrusler",
+   "resume": "Selvom flere folkeskoler fandt mandagens bombetrusler i deres spamfiltre, mener en ekspert ikke, de skal fjerne deres filtrene helt.",
+   "url": "https://www.dr.dk/nyheder/indland/skoler-skal-ikke-fjerne-deres-spamfiltre-selvom-de-opsnappede-og-gemte-bombetrusler",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T12:14:00.000Z"
+  },
+  {
+   "titel": "Første Miss Universe-mor nogensinde",
+   "resume": "27-årige Jennifer Barretto vinder international skønhedskonkurrence foran 115 andre kandidater",
+   "url": "https://ekstrabladet.dk/underholdning/udlandkendte/foerste-miss-universe-mor-nogensinde/11365038",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T12:10:13.000Z"
+  },
+  {
+   "titel": "Teenagere anholdt: Mistænkt for uhyggelige planer mod tysk flygtningecenter",
+   "resume": "Tysk politi nåede at afværge et angreb mod et flygtningecenter i oktober. De anholdte er mellem 14 og 15 år",
+   "url": "https://ekstrabladet.dk/nyheder/Udland/teenagere-anholdt-mistaenkt-for-uhyggelige-planer-mod-tysk-flygtningecenter/11365019",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T11:50:24.000Z"
+  },
+  {
+   "titel": "Frederikssund satser på at bekæmpe skolefravær",
+   "resume": "<p>N&#230;sten hver tredje elev i Frederikssund Kommune har et skolefrav&#230;r p&#229; over 10 procent. Det vil kommunen &#230;ndre gennem en social investering, der skal styrke den tidlige forebygge",
+   "url": "https://www.altinget.dk/artikel/frederikssund-satser-paa-at-bekaempe-skolefravaer",
+   "kilde": "Altinget",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-25T10:00:00.000Z"
+  },
+  {
+   "titel": "Se danmarkskortet: Her er de teatre, politikere udpeger som hovedscener",
+   "resume": "Flere penge til lokale teatre og billigere billetter til børn er del af reform, der skal tilføre op mod 75 millioner kroner om året til dansk scenekunst.",
+   "url": "https://politiken.dk/kultur/art11073402/Se-danmarkskortet-Her-er-de-teatre-politikere-udpeger-som-hovedscener",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T09:05:28.000Z"
+  },
+  {
+   "titel": "Kun hver tredje skole har retningslinjer for AI: Lærere efterlyser kompetencer",
+   "resume": "44 procent af eleverne i 6. og 8. klasse bruger AI til skoleopgaver, og over halvdelen af lærerne bruger det til planlægning af undervisning. Men kun 29 procent af skolerne har retningslinjer for brug",
+   "url": "https://www.folkeskolen.dk/kun-hver-tredje-skole-har-retningslinjer-for-ai-laerere-efterlyser-kompetencer/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-25T08:11:34.000Z"
+  },
+  {
+   "titel": "Københavns Kommune efter kemisk rensning af gulve i børnehave: Vi har tabt forældrenes tillid",
+   "resume": "80 institutioner i København skal have nye, rengøringsvenlige gulve. I Trylleskoven i Valby er det gået helt galt for kommunen.",
+   "url": "https://politiken.dk/danmark/art11072260/K%C3%B8benhavns-Kommune-efter-kemisk-rensning-af-gulve-i-b%C3%B8rnehave-Vi-har-tabt-for%C3%A6ldrenes-tillid",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T07:17:53.000Z"
+  },
+  {
+   "titel": "Regeringen er klar med tre nye retningslinjer for AI i skolen",
+   "resume": "Magnus Heunicke er klar med længe ventede anbefalinger til brug af AI i grundskolen. The post Regeringen er klar med tre nye retningslinjer for AI i skolen appeared first on Folkeskolen.",
+   "url": "https://www.folkeskolen.dk/regeringen-er-klar-med-tre-nye-nationale-retningslinjer-for-ai-i-skolen/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-25T07:11:12.000Z"
+  },
+  {
+   "titel": "Så er retningslinjerne landet for elevers brug af kunstig intelligens i skolen",
+   "resume": "Elever bør tidligst bruge generativ kunstig intelligens fra 7. klasse, lyder nye nationale retningslinjer.",
+   "url": "https://politiken.dk/danmark/uddannelse/art11073255/S%C3%A5-er-retningslinjerne-landet-for-elevers-brug-af-kunstig-intelligens-i-skolen",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T06:04:53.000Z"
+  },
+  {
+   "titel": "Minister præciserer: Her må lærere bruge fysisk magt over for elever",
+   "resume": "En elev, der filmer en anden elev i en krænkende situation eller ødelægger undervisningen for resten af klassen, kan i særlige tilfælde fjernes med fysisk magt. Undervisningsminister Magnus Heunicke p",
+   "url": "https://www.folkeskolen.dk/minister-praeciserer-her-maa-laerere-bruge-fysisk-magt-over-for-elever/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-25T03:30:00.000Z"
+  },
+  {
+   "titel": "Alle lærere i Frederikssund får tilbudt gratis influenzavaccine: Ville du sige ja?",
+   "resume": "I Frederikssund Kommune får alle lærere et tilbud om en gratis influenzavaccine. I København overvejer man om alle lærere skal have tilbuddet. Men er det overhovedet en god ide? The post Alle lærere i",
+   "url": "https://www.folkeskolen.dk/alle-laerere-i-frederikssund-faar-tilbudt-gratis-influenzavaccine-ville-du-sige-ja/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-25T03:30:00.000Z"
+  },
   {
    "titel": "Højlund efter scoring mod City: Der er kun én klub i Manchester",
    "resume": "Rasmus Højlund drillede Manchester Citys fans, da han scorede det første mål for Napoli i 2-2-kamp.",
