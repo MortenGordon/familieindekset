@@ -1,6 +1,22 @@
 {
- "opdateret": "2026-11-26T05:01:30.853Z",
+ "opdateret": "2026-11-26T15:12:16.472Z",
  "artikler": [
+  {
+   "titel": "400 børn og deres forældre får vildt tilbud fra Legoland",
+   "resume": "Legoland inviterer 100 børn hver advent.",
+   "url": "https://www.bt.dk/privatoekonomi/400-boern-og-deres-foraeldre-faar-vildt-tilbud-fra-legoland?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-26T14:32:07.000Z"
+  },
+  {
+   "titel": "Københavnske politikere ønsker tørklædeforbud i de mindste skoleklasser",
+   "resume": "Ekspert slår fast, at det vil være i direkte strid med folkeskoleloven.",
+   "url": "https://www.dr.dk/nyheder/indland/koebenhavnske-politikere-oensker-toerklaedeforbud-i-de-mindste-skoleklasser",
+   "kilde": "DR Hovedstaden",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-26T09:00:00.000Z"
+  },
   {
    "titel": "Over 800.000 har feriepenge til gode - tjek det før nytår",
    "resume": "Særligt unge har endnu ikke fået udbetalt feriepenge. 18-29-årige har en milliard kroner til gode.",
@@ -42,6 +58,14 @@
    "dato": "2026-11-26T04:00:00.000Z"
   },
   {
+   "titel": "Ingen hjælpe-app til ikke-ordblinde: ”Vi taber eleverne på gulvet”",
+   "resume": "Undervisningsministeriet har opdateret prøvevejledningen for dansk skiftlig fremstilling, så det præciseres, at man som udgangspunkt ikke må bruge it-værktøjer, der giver mere end stave- og grammatikk",
+   "url": "https://www.folkeskolen.dk/lukker-for-it-hjaelp-til-svage-laesere-ved-eksamen-vi-taber-eleverne-paa-gulvet/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-26T03:19:00.000Z"
+  },
+  {
    "titel": "Hov! Bombetrussel endte i spamfiltret",
    "resume": "Skoler i Næstved Kommune troede, at de blev skånet for bombetruslen",
    "url": "https://ekstrabladet.dk/krimi/hov-bombetrussel-endte-i-kommunens-spamfilter/11364993",
@@ -72,6 +96,14 @@
    "kilde": "Ekstra Bladet",
    "kategori": "hverdagslogistik",
    "dato": "2026-11-25T21:03:42.000Z"
+  },
+  {
+   "titel": "Inviterede mor til at stå for under­visningen: ”Kan vise børnene, at det er ufarligt at tale om”",
+   "resume": "3. klasse er et godt tidspunkt at lære om ADHD og autisme, mener lærer Charlotte Keller Sloth, som greb chancen, da en elevs mor tilbød at stille sin forskerviden til rådighed. The post Inviterede mor",
+   "url": "https://www.folkeskolen.dk/laerer-inviterede-mor-til-at-staa-for-undervisningen-kan-vise-boernene-at-det-er-ufarligt-at-tale-om/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-25T18:30:00.000Z"
   },
   {
    "titel": "Ministeriums regler for elevers brug af ai blev flyttet, så de flugter med big tech",
