@@ -1,6 +1,22 @@
 {
- "opdateret": "2026-11-26T15:12:16.472Z",
+ "opdateret": "2026-11-26T23:50:46.534Z",
  "artikler": [
+  {
+   "titel": "Regeringen vil ændre skatteaftale efter blot 14 dage: 'Det har aldrig været intentionen'",
+   "resume": "En ændring af skattereglerne ville blandt andet ramme ofre for seksuel chikane og kvinder, der ulovligt er blevet fyret på grund af graviditet.",
+   "url": "https://www.dr.dk/nyheder/indland/regeringen-vil-aendre-skatteaftale-efter-blot-14-dage-det-har-aldrig-vaeret-intentionen",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-26T20:00:00.000Z"
+  },
+  {
+   "titel": "Professor: Fagplanen i madkundskab trækker desværre i forkert retning",
+   "resume": "Det kan umiddelbart se godt, at madlavning har fået en central placering i det endelige udkast til den nye fagplan i madkundskab. Men docent Karen Wistoft frygter, at det bliver på den ikke-eksperimen",
+   "url": "https://www.folkeskolen.dk/professor-fagplanen-i-madkundskab-traekker-desvaerre-i-den-forkerte-retning/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-26T18:01:30.000Z"
+  },
   {
    "titel": "400 børn og deres forældre får vildt tilbud fra Legoland",
    "resume": "Legoland inviterer 100 børn hver advent.",
@@ -8,6 +24,30 @@
    "kilde": "B.T.",
    "kategori": "hverdagslogistik",
    "dato": "2026-11-26T14:32:07.000Z"
+  },
+  {
+   "titel": "James Bonds far pegede på en helt anden som det ideelle bud",
+   "resume": "Nyheden om Robert Pattinson som ny James Bond agerede springbræt for livlig radiodebat om, hvem der egentlig er den bedste Agent 007, skriver Bo Tao Michaëlis i denne klumme.",
+   "url": "https://politiken.dk/kultur/set_og_hoert/art11053530/James-Bonds-far-pegede-p%C3%A5-en-helt-anden-som-det-ideelle-bud",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-26T14:02:39.000Z"
+  },
+  {
+   "titel": "Et tørklædeforbud risikerer at holde de piger, vi allerhelst vil hjælpe, ude af folkeskolen",
+   "resume": "Noget af det smukkeste ved folkeskolen er, at ingen børn på forhånd bliver gjort forkerte på grund af det hjem, de kommer fra. Et tørklædeforbud i folkeskolen risikerer at styrke de religiøse miljøer,",
+   "url": "https://www.information.dk/indland/leder/2026/11/toerklaedeforbud-risikerer-holde-piger-allerhelst-hjaelpe-ude-folkeskolen",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-26T12:31:44.000Z"
+  },
+  {
+   "titel": "Nu taler vi igen om at forbyde det muslimske tørklæde i skolen. Men kan man det?",
+   "resume": "Politikere fra venstre mod højre taler om at forbyde, at piger bærer tørklæde i skolen. Men kan man følge eksempler fra Frankrig og Østrig, eller er det i strid med den danske grundlov?",
+   "url": "https://www.information.dk/indland/2026/11/taler-igen-forbyde-muslimske-toerklaede-skolen-kan",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-26T11:34:42.000Z"
   },
   {
    "titel": "Københavnske politikere ønsker tørklædeforbud i de mindste skoleklasser",
@@ -96,6 +136,22 @@
    "kilde": "Ekstra Bladet",
    "kategori": "hverdagslogistik",
    "dato": "2026-11-25T21:03:42.000Z"
+  },
+  {
+   "titel": "Brevkassen: Skal jeg forbyde at dele billeder af mit barn?",
+   "resume": "Hver uge svarer Brevkassen på spørgsmål fra læserne. Intet spørgsmål er for lille, intet for stort – og alle får to svar",
+   "url": "https://www.information.dk/moti/2026/11/brevkassen-forbyde-dele-billeder-barn",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T19:09:56.000Z"
+  },
+  {
+   "titel": "Brevkassen: Min familie vil ikke med i kirke",
+   "resume": "Hver uge svarer Brevkassen på spørgsmål fra læserne. Intet spørgsmål er for lille, intet for stort – og alle får to svar",
+   "url": "https://www.information.dk/moti/2026/11/brevkassen-familie-kirke",
+   "kilde": "Information",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-25T18:57:29.000Z"
   },
   {
    "titel": "Inviterede mor til at stå for under­visningen: ”Kan vise børnene, at det er ufarligt at tale om”",
