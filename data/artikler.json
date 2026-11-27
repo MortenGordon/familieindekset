@@ -1,6 +1,134 @@
 {
- "opdateret": "2026-11-27T08:27:31.820Z",
+ "opdateret": "2026-11-27T18:57:19.830Z",
  "artikler": [
+  {
+   "titel": "Mads Fuglede er blevet far",
+   "resume": "Folketingsmedlemmet fra Danmarksdemokraterne er blevet far for tredje gang.",
+   "url": "https://www.bt.dk/politik/mads-fuglede-er-blevet-far?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T18:53:00.000Z"
+  },
+  {
+   "titel": "Krav fra Enhedslisten kan sætte metroen i København under pres",
+   "resume": "Passagertallet i den københavnske metro sætter rekord, og togene kører på kapacitetsgrænsen. Alligevel har Enhedslisten foreslået gratis kollektiv transport til unge under 22 år.",
+   "url": "https://www.berlingske.dk/indland/krav-fra-enhedslisten-kan-saette-metroen-i-koebenhavn-under-pres?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T18:33:56.000Z"
+  },
+  {
+   "titel": "Ny pædofilfilm understreger betydningen af særlig rådgivningslinje – nu forlænger Red Barnet den med fire år",
+   "resume": "Red Barnet har fået 11,2 millioner til at forlænge deres rådgivningslinje TalMedOs med fire år.",
+   "url": "https://www.dr.dk/nyheder/indland/ny-paedofilfilm-understreger-betydningen-af-saerlig-raadgivningslinje-nu-forlaenger-red-barnet-den",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T18:21:00.000Z"
+  },
+  {
+   "titel": "Tredobbelt drabsforsøg: Derfor ville LTF dræbe Patrick Nielsen",
+   "resume": "En 18-årig dansk LTF'er blev fredag fængslet for attentat mod den daværende rocker og eks-bokser Patrick Nielsen og hans familie i maj. Angrebet var en del af en brutal voldsbølge",
+   "url": "https://ekstrabladet.dk/krimi/tredobbelt-drabsforsoeg-derfor-ville-ltf-draebe-patrick-nielsen/11367590",
+   "kilde": "Ekstra Bladet",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T17:55:38.000Z"
+  },
+  {
+   "titel": "15-årig dreng død efter ulykke med fem unge ved Borup",
+   "resume": "En 15-årig dreng er død, efter at fem drenge tirsdag kørte galt og ramte et træ på Midtsjælland.",
+   "url": "https://www.berlingske.dk/indland/15-aarig-dreng-doed-efter-ulykke-med-fem-unge-ved-borup?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T17:54:44.000Z"
+  },
+  {
+   "titel": "15-årig dreng død efter ulykke med fem unge ved Borup",
+   "resume": "En 15-årig dreng er død, efter at fem drenge tirsdag kørte galt og ramte et træ på Midtsjælland.",
+   "url": "https://www.bt.dk/krimi/15-aarig-dreng-doed-efter-ulykke-med-fem-unge-ved-borup?referrer=RSS",
+   "kilde": "B.T.",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T17:54:43.000Z"
+  },
+  {
+   "titel": "Spejderkorps og bilkoncern er omfattet af større datalæk",
+   "resume": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret.",
+   "url": "https://www.berlingske.dk/danmark/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T17:50:44.000Z"
+  },
+  {
+   "titel": "Nogle forældre tænder fakler og går med høtyve. Men børnene er glade, viser ny rapport",
+   "resume": "Mens vrede og bekymrede forældre beskylder daginstitutioner for omsorgssvigt, viser en ny rapport, at ni ud af ti børn er glade.",
+   "url": "https://www.berlingske.dk/indland/nogle-foraeldre-taender-fakler-og-gaar-med-hoetyve-men-boernene-er-glade-viser-ny-rapport?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T17:42:37.000Z"
+  },
+  {
+   "titel": "90.000 telefonnumre hos dansk bilkoncern er kompromitteret i stort sikkerhedsbrud",
+   "resume": "Både Semler Gruppen, flere gymnasier og Det Danske Spejderkorps er berørt af sikkerhedsbrud hos en teleudbyder.",
+   "url": "https://www.dr.dk/nyheder/indland/90-000-numre-hos-dansk-bilkoncern-er-kompromitteret-i-stort-sikkerhedsbrud",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T17:36:54.000Z"
+  },
+  {
+   "titel": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
+   "resume": "Gymnasieelevers telefonnumre er lækket i sikkerhedsbrud, og også et antal organisationer kan være ramt.",
+   "url": "https://www.berlingske.dk/danmark/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
+   "kilde": "Berlingske",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T17:26:44.000Z"
+  },
+  {
+   "titel": "Radiokolleger mindes Jørn Hjorting: 'Det er jo dansktoppens far, der er gået bort i dag'",
+   "resume": "Flere af Jørn Hjortings kollegaer beskriver ham som et koryfæ for samtaleradio og dansktopmusikken.",
+   "url": "https://www.dr.dk/nyheder/indland/radiokolleger-mindes-joern-hjorting-det-er-jo-dansktoppens-far-der-er-gaaet-bort-i-dag",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T17:20:34.000Z"
+  },
+  {
+   "titel": "Ti personer ser på, da Ellen og Liv bliver løftet ud i en operationsstue",
+   "resume": "Fødselslæge Nanna Maaløe rækker ud mod instrumenterne på operationsbakken. Hun kigger på de to forældre og spørger: »Er I klar til at møde dem?«. Omkring hvert femte barn i Danmark bliver født ved et ",
+   "url": "https://politiken.dk/danmark/art11044365/Ti-personer-ser-p%C3%A5-da-Ellen-og-Liv-bliver-l%C3%B8ftet-ud-i-en-operationsstue",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T15:46:30.000Z"
+  },
+  {
+   "titel": "Tusindvis af gymnasieelevers telefonnumre er blevet lækket",
+   "resume": "I en måned har uvedkommende haft adgang til filer, der blandt andet indeholder telefonnumre.",
+   "url": "https://www.dr.dk/nyheder/indland/tusindvis-af-gymnasieelevers-telefonnumre-er-blevet-laekket",
+   "kilde": "DR Indland",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T14:00:44.000Z"
+  },
+  {
+   "titel": "Læk breder sig fra tusinder af gymnasieelever til flere organisationer",
+   "resume": "Gymnasieelevers telefonnumre er lækket i sikkerhedsbrud, og også et antal organisationer kan være ramt.",
+   "url": "https://politiken.dk/danmark/art11077852/L%C3%A6k-breder-sig-fra-tusinder-af-gymnasieelever-til-flere-organisationer",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T13:55:49.000Z"
+  },
+  {
+   "titel": "Ny dokumentar på TV 2 er aldeles uafrystelig",
+   "resume": "Et giftigt onlinefællesskab trækker børn ind i en spiral af selvskade, kontrol og trusler, viser ubehagelig TV 2-dokumentar.",
+   "url": "https://politiken.dk/kultur/film_og_tv/art11067072/Ny-dokumentar-p%C3%A5-TV-2-er-aldeles-uafrystelig",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T13:03:29.000Z"
+  },
+  {
+   "titel": "Datatilsynet kommer med alvorlig kritik af Familieretshuset efter 47 sikkerhedsbrud",
+   "resume": "Familieretshuset har flere gange delt beskyttede oplysninger med dem, som beskyttelsen skulle skærme mod.",
+   "url": "https://politiken.dk/danmark/art11077481/Datatilsynet-kommer-med-alvorlig-kritik-af-Familieretshuset-efter-47-sikkerhedsbrud",
+   "kilde": "Politiken",
+   "kategori": "hverdagslogistik",
+   "dato": "2026-11-27T12:16:19.000Z"
+  },
   {
    "titel": "Komiker og børnevært er værter ved MGP 2027",
    "resume": "Kolding danner igen rammen om MGP, når tusindvis af børn samles til årets store musikfest i 2027",
@@ -61,6 +189,14 @@
    "titel": "Professor: Fagplanen i madkundskab trækker desværre i forkert retning",
    "resume": "Det kan umiddelbart se godt, at madlavning har fået en central placering i det endelige udkast til den nye fagplan i madkundskab. Men docent Karen Wistoft frygter, at det bliver på den ikke-eksperimen",
    "url": "https://www.folkeskolen.dk/professor-fagplanen-i-madkundskab-traekker-desvaerre-i-den-forkerte-retning/",
+   "kilde": "Folkeskolen",
+   "kategori": "skole-pasning",
+   "dato": "2026-11-26T18:01:30.000Z"
+  },
+  {
+   "titel": "Docent: Fagplanen i madkundskab trækker desværre i forkert retning",
+   "resume": "Det kan umiddelbart se godt, at madlavning har fået en central placering i det endelige udkast til den nye fagplan i madkundskab. Men docent Karen Wistoft frygter, at det bliver på den ikke-eksperimen",
+   "url": "https://www.folkeskolen.dk/docent-fagplanen-i-madkundskab-traekker-desvaerre-i-den-forkerte-retning/",
    "kilde": "Folkeskolen",
    "kategori": "skole-pasning",
    "dato": "2026-11-26T18:01:30.000Z"
